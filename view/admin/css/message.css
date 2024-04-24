@@ -1,0 +1,277 @@
+/* == Message == */
+.wojo.message {
+   display: flex;
+   flex-flow: row wrap;
+   position: relative;
+   padding: 1rem 1.5rem;
+   background-color: var(--grey-color-100);
+   border-radius: var(--radius);
+   margin-bottom: 1rem;
+   border: 1px solid var(--grey-color-500);
+   box-shadow: 0 .375rem 1.5rem 0 var(--shadow-color);
+}
+.wojo.message .header {
+   font-size: 1rem;
+   font-weight: 600;
+   margin-bottom: .5rem;
+}
+.wojo.icon.message {
+   display: flex;
+   flex-flow: row wrap;
+}
+.wojo.icon.message > .icon:not(.x),
+.wojo.icon.message > .image {
+   display: block;
+   flex: 0 0 auto;
+   margin-right: 1rem;
+   -ms-grid-row-align: center;
+   align-self: center;
+}
+.wojo.icon.message > .icon:not(.x) {
+   width: auto;
+}
+.wojo.icon.message > .content {
+   display: block;
+   flex: 1 1 auto;
+}
+.wojo.message > .x.icon {
+   cursor: pointer;
+   position: absolute;
+   margin: 0;
+   top: .750rem;
+   right: .5rem;
+   opacity: .7;
+   transition: opacity .1s ease;
+}
+.wojo.flex.message > .content {
+   flex: 1 1 0;
+   min-width: 0;
+}
+.wojo.flex.message > .auto {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   white-space: nowrap;
+}
+.wojo.compact.message {
+   display: inline-flex;
+}
+/* == Colors == */
+.wojo.primary.message {
+   background-color: var(--primary-color);
+   border: 1px solid var(--primary-color);
+   color: var(--primary-color-inverted);
+}
+.wojo.secondary.message {
+   background-color: var(--secondary-color);
+   border: 1px solid var(--secondary-color);
+   color: var(--secondary-color-inverted);
+}
+.wojo.positive.message {
+   background-color: var(--positive-color);
+   border: 1px solid var(--positive-color);
+   color: var(--positive-color-inverted);
+}
+.wojo.negative.message {
+   background-color: var(--negative-color);
+   border: 1px solid var(--negative-color);
+   color: var(--negative-color-inverted);
+}
+.wojo.info.message {
+   background-color: var(--info-color);
+   border: 1px solid var(--info-color);
+   color: var(--info-color-inverted);
+}
+.wojo.alert.message {
+   background-color: var(--alert-color);
+   border: 1px solid var(--alert-color);
+   color: var(--alert-color-inverted);
+}
+.wojo.primary.inverted.message {
+   background-color: var(--primary-color-inverted);
+   border: 1px solid var(--primary-color);
+   color: var(--primary-color);
+}
+.wojo.secondary.inverted.message {
+   background-color: var(--secondary-color-inverted);
+   border: 1px solid var(--secondary-color);
+   color: var(--secondary-color);
+}
+.wojo.positive.inverted.message {
+   background-color: var(--positive-color-inverted);
+   border: 1px solid var(--positive-color);
+   color: var(--positive-color);
+}
+.wojo.negative.inverted.message {
+   background-color: var(--negative-color-inverted);
+   border: 1px solid var(--negative-color);
+   color: var(--negative-color);
+}
+.wojo.info.inverted.message {
+   background-color: var(--info-color-inverted);
+   border: 1px solid var(--info-color);
+   color: var(--info-color);
+}
+.wojo.alert.inverted.message {
+   background-color: var(--alert-color-inverted);
+   border: 1px solid var(--alert-color);
+   color: var(--alert-color);
+}
+/* == Notices == */
+#wojo-overlay {
+   position: fixed;
+   width: auto;
+   right: 1rem;
+   top: 2rem;
+   z-index: 5000;
+}
+#wojo-overlay.bottom-left {
+   bottom: 1rem;
+   left: 1rem;
+}
+#wojo-overlay.bottom-right {
+   bottom: 1rem;
+   right: 1rem;
+}
+#wojo-overlay.top-left {
+   top: 1.5rem;
+   left: 1.5rem;
+}
+#wojo-overlay.top-right {
+   top: 1.5rem;
+   right: 1.5rem;
+}
+.wojo.notice {
+   max-width: 100%;
+   min-width: 300px;
+   position: relative;
+   border-radius: var(--radius);
+   color: #fff;
+   box-shadow: 0 4px 6px var(--shadow-color), 0 1px 3px var(--shadow-color);
+}
+.wojo.notice .content {
+   padding: .5rem 1.25rem 1.25rem 1.25rem;
+   margin-left: 2rem;
+   font-size: .875rem;
+   font-weight: 400;
+}
+.wojo.notice .content .flag {
+   margin-right: .5rem;
+}
+.wojo.notice::before {
+   width: 2.5rem;
+   height: 2.5rem;
+   line-height: 2.5rem;
+   position: absolute;
+   border-radius: var(--radius);
+   left: 1rem;
+   top: -1.25rem;
+   font-size: 1.25rem;
+   font-family: 'WojoIcons';
+   content: "\e954";
+   background-color: var(--white-color);
+   text-align: center;
+   box-shadow: 0 10px 30px -12px var(--shadow-color), 0 4px 25px 0 var(--shadow-color), 0 8px 10px -5px var(--shadow-color);
+   z-index: 3
+}
+.wojo.notice::after {
+   font-family: 'WojoIcons';
+   content: "\e955";
+   width: 2.5rem;
+   height: 2.5rem;
+   line-height: 2.5rem;
+   left: 1.75rem;
+   top: -1.25rem;
+   position: absolute;
+   z-index: 3;
+}
+.wojo.notice .wojo.progress,
+.wojo.notice .wojo.progress.attached .bar {
+   border-radius: var(--radius);
+}
+.wojo.notice h2 {
+   font-size: 1rem;
+   display: block;
+   font-weight: 600;
+   margin: 0;
+   padding: 1rem 1rem 0 3.5rem
+}
+.wojo.notice a.notice-close {
+   opacity: 0;
+   position: absolute;
+   right: 0.5rem;
+   top: 0.5rem;
+   color: rgba(255, 255, 255, 0.8);
+}
+.wojo.notice:hover a.notice-close {
+   opacity: 1;
+}
+.wojo.notice .flag {
+   margin-left: .5rem;
+}
+.wojo.notice .item b {
+   margin-right: .5rem;
+}
+.wojo.notice .item {
+   font-weight: 400;
+}
+.wojo.notice.success {
+   background-color: var(--positive-color);
+   color: var(--positive-color-inverted);
+}
+.wojo.notice.success::before,
+.wojo.notice.success::after {
+   color: var(--positive-color);
+}
+.wojo.notice.info {
+   background-color: var(--info-color);
+   color: var(--info-color-inverted);
+}
+.wojo.notice.info::before,
+.wojo.notice.info::after {
+   color: var(--info-color);
+}
+.wojo.notice.alert {
+   background-color: var(--alert-color);
+   color: var(--alert-color-inverted);
+}
+.wojo.notice.alert::before,
+.wojo.notice.alert::after {
+   color: var(--alert-color);
+}
+.wojo.notice.error {
+   background-color: var(--negative-color-hover);
+   color: var(--negative-color-inverted);
+}
+.wojo.notice.error::before,
+.wojo.notice.error::after {
+   color: var(--negative-color);
+}
+/* == Variation == */
+.wojo.basic.message {
+   padding: 0;
+}
+.wojo.simple.message,
+.wojo.simple.inverted.message {
+   border: 1px solid rgba(0, 0, 0, 0);
+   box-shadow: none;
+}
+.wojo.transparent.message {
+   background-color: transparent;
+}
+.wojo.attached.message {
+   margin: 0 0 0 0;
+}
+.wojo.top.attached.message {
+   margin: 0 0 1rem 0;
+}
+.wojo.bottom.attached.message {
+   margin: 0 1rem 0 0;
+}
+/* == Size == */
+.wojo.small.message {
+   font-size: .875rem
+}
+.wojo.message {
+   font-size: 1rem
+}

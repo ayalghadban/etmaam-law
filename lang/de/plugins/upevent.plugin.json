@@ -1,0 +1,9 @@
+{
+    "Upevent": {
+        "_PLG_UE_ERR": "Wählen Sie mindestens ein Ereignis aus.",
+        "_PLG_UE_NOEVENT": "— Erstellen Sie mindestens ein Ereignis —",
+        "_PLG_UE_SELECT": "Veranstaltungen auswählen",
+        "_PLG_UE_TITLE1": "Anstehende Veranstaltungen verwalten",
+        "_PLG_UE_UPDATED": "Das Setup für bevorstehende Veranstaltungen wurde erfolgreich aktualisiert!"
+    }
+}

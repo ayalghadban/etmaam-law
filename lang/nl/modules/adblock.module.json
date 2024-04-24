@@ -1,0 +1,29 @@
+{
+    "Adblock": {
+        "_MOD_AB_ADD": "Voeg een campagne toe",
+        "_MOD_AB_ADDED_OK": "Campagne [NAME] is succesvol toegevoegd.",
+        "_MOD_AB_DEL_OK": "Campagne [NAME] is succesvol verwijderd.",
+        "_MOD_AB_EDIT": "Campagne bewerken",
+        "_MOD_AB_INFO": "Als u de advertentiecampagne verwijdert, worden ook alle afbeeldingen en plug-ins verwijderd toegewezen onder hetzelfde adblock.",
+        "_MOD_AB_NEW": "Nieuwe campagne",
+        "_MOD_AB_NO_CMP": "Er zijn geen campagnetests uitgevoerd. Toevoegen...",
+        "_MOD_AB_OFFLINE": "Offline",
+        "_MOD_AB_ONLINE": "Online",
+        "_MOD_AB_SUB": "Begin-/einddatum",
+        "_MOD_AB_SUB1": "Totaal aantal toegestane weergaven",
+        "_MOD_AB_SUB10": "Begin datum",
+        "_MOD_AB_SUB11": "Einde datum",
+        "_MOD_AB_SUB12": "Advertentie media",
+        "_MOD_AB_SUB2": "Totaal aantal toegestane klikken",
+        "_MOD_AB_SUB3": "Minimale CTR",
+        "_MOD_AB_SUB4": "Bannerafbeelding",
+        "_MOD_AB_SUB5": "Bannerlink",
+        "_MOD_AB_SUB6": "ALT-banner",
+        "_MOD_AB_SUB7": "HTML-code voor banners",
+        "_MOD_AB_SUB8": "Klikken",
+        "_MOD_AB_SUB9": "Keer bekeken",
+        "_MOD_AB_TITLE": "Advertentieblokbeheer",
+        "_MOD_AB_UPDATE": "Campagne bijwerken",
+        "_MOD_AB_UPDATE_OK": "Campagne [NAME] is succesvol bijgewerkt."
+    }
+}

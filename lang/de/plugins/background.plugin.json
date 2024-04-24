@@ -1,0 +1,21 @@
+{
+    "Background": {
+        "_PLG_VBG_SUB2": "Neues Video hinzufügen",
+        "_PLG_VBG_TITLE1": "Video hinzufügen",
+        "_PLG_VBG_TITLE2": "Video bearbeiten",
+        "_PLG_VBG_SUB1": "Hier können Sie Ihr Video-Hintergrund-Plugin konfigurieren.",
+        "_PLG_VBG_TITLE": "Verwalten Sie das CMS-Video-Hintergrund-Plugin",
+        "_PLG_VBG_NEW": "Neues Video",
+        "_PLG_VBG_SOURCE": "Videoquelle",
+        "_PLG_VBG_TYPE": "Videotyp",
+        "_PLG_VBG_TYPE_L": "Lokale Datei",
+        "_PLG_VBG_TYPE_Y": "YouTube",
+        "_PLG_VBG_TYPE_U": "Nur YouTube-ID",
+        "_PLG_VBG_HEADER": "Heading",
+        "_PLG_VBG_TEXT": "Text",
+        "_PLG_VBG_ADDED_OK": "Video [NAME] erfolgreich hinzugefügt!",
+        "_PLG_VBG_DEL_OK": "Video [NAME] erfolgreich gelöscht!",
+        "_PLG_VBG_UPDATE_OK": "Video [NAME] erfolgreich aktualisiert!",
+        "_PLG_VBG_NOPLAY": "Sie haben noch keine Video-Plugins..."
+    }
+}

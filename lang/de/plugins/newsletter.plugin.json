@@ -1,0 +1,10 @@
+{
+    "Newsletter": {
+        "_PLG_NSL_INFO": "Sie haben insgesamt [TOTAL] Newsletter-Abonnenten.",
+        "_PLG_NSL_SUB": "Abonnieren",
+        "_PLG_NSL_SUB1": "Stornieren",
+        "_PLG_NSL_SUBOK": "Sie wurden erfolgreich abonniert.",
+        "_PLG_NSL_TITLE": "Newsletter-Abonnenten verwalten",
+        "_PLG_NSL_UNSUBOK": "Sie wurden erfolgreich abgemeldet."
+    }
+}

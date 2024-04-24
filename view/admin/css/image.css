@@ -1,0 +1,278 @@
+/* == Images == */
+.wojo.image {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  background-color: transparent;
+}
+img.wojo.image {
+  display: block;
+}
+.wojo.image svg,
+.wojo.image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.wojo.inline.image,
+.wojo.inline.image svg,
+.wojo.inline.image img {
+  display: inline-block;
+}
+/* == Variations == */
+.wojo.rounded.images .image,
+.wojo.rounded.images img,
+.wojo.rounded.image svg,
+.wojo.rounded.image {
+  border-radius: 1.5rem;
+}
+.wojo.rounded.left.images .image,
+.wojo.rounded.left.images img,
+.wojo.rounded.left.image svg,
+.wojo.rounded.left.image {
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.wojo.rounded.right.images .image,
+.wojo.rounded.right.images img,
+.wojo.rounded.right.image svg,
+.wojo.rounded.right.image {
+  border-radius: 0 1.5rem 1.5rem 0;
+}
+.wojo.rounded.top.images .image,
+.wojo.rounded.top.images img,
+.wojo.rounded.top.image svg,
+.wojo.rounded.top.image {
+  border-radius: .250rem .250rem 0 0;
+}
+.wojo.rounded.bottom.images .image,
+.wojo.rounded.bottom.images img,
+.wojo.rounded.bottom.image svg,
+.wojo.rounded.bottom.image {
+  border-radius: 0 0 .250rem .250rem;
+}
+.wojo.circular.images .image,
+.wojo.circular.images img,
+.wojo.circular.image svg,
+.wojo.circular.image {
+  border-radius: 500rem;
+  overflow: hidden;
+}
+.wojo.shadow.images .image,
+.wojo.shadow.images img,
+.wojo.shadow.image svg,
+.wojo.shadow.image {
+  box-shadow: 0 2px 3px var(--dark-color-shadow);
+}
+.wojo.boxed.images .image,
+.wojo.boxed.images img,
+.wojo.boxed.image svg,
+.wojo.boxed.image {
+  border: 1px solid var(--light-color);
+}
+.wojo.framed.images .image,
+.wojo.framed.images img,
+.wojo.framed.image svg,
+.wojo.framed.image {
+  border: 1px solid var(--light-color);
+  padding: 1rem;
+}
+.wojo.avatar.images .image,
+.wojo.avatar.images img,
+.wojo.avatar.images svg,
+.wojo.avatar.image img,
+.wojo.avatar.image svg,
+.wojo.avatar.image {
+  margin-right: .875rem;
+  width: 3em;
+  height: 3em;
+  border-radius: 500rem;
+}
+/* == Position == */
+.wojo.center.image {
+  margin: 0 auto;
+  display: block;
+}
+/* == Size == */
+.wojo.tiny.images .image,
+.wojo.tiny.images img,
+.wojo.tiny.images svg,
+.wojo.tiny.image {
+  width: 24px;
+}
+.wojo.mini.images .image,
+.wojo.mini.images img,
+.wojo.mini.images svg,
+.wojo.mini.image {
+  width: 32px;
+}
+.wojo.small.images .image,
+.wojo.small.images img,
+.wojo.small.images svg,
+.wojo.small.image {
+  width: 64px;
+}
+.wojo.badge.images .image,
+.wojo.badge.images img,
+.wojo.badge.images svg,
+.wojo.badge.image {
+  width: 112px;
+}
+.wojo.normal.images .image,
+.wojo.normal.images img,
+.wojo.normal.images svg,
+.wojo.normal.image {
+  width: 128px;
+}
+.wojo.medium.images .image,
+.wojo.medium.images img,
+.wojo.medium.images svg,
+.wojo.medium.image {
+  width: 160px;
+}
+.wojo.large.images .image,
+.wojo.large.images img,
+.wojo.large.images svg,
+.wojo.large.image {
+  width: 256px;
+}
+.wojo.big.images .image,
+.wojo.big.images img,
+.wojo.big.images svg,
+.wojo.big.image {
+  width: 448px;
+}
+.wojo.huge.images .image,
+.wojo.huge.images img,
+.wojo.huge.images svg,
+.wojo.huge.image {
+  width: 512px;
+}
+.wojo.massive.images .image,
+.wojo.massive.images img,
+.wojo.massive.images svg,
+.wojo.massive.image {
+  width: 640px;
+}
+.wojo.fluid.image,
+.wojo.fluid.image img,
+.wojo.fluid.image svg,
+.wojo.fluid.images,
+.wojo.fluid.images img,
+.wojo.fluid.images svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/* == Zoom == */
+.wojo.zoom.image {
+  overflow: hidden;
+}
+.wojo.zoom.image img {
+  -webkit-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  transition: -webkit-transform .5s, -webkit-filter .5s ease-out;
+  transition: transform .5s, filter .5s ease-out, -webkit-transform .5s, -webkit-filter .5s ease-out;
+}
+.wojo.zoom.image:hover img {
+  -webkit-transform: scale(1.25);
+  transform: scale(1.25);
+}
+/* == Hover == */
+.wojo.hover {
+  transition: all 0.5s ease;
+  position: relative;
+  overflow: hidden;
+  border-radius: .250rem;
+}
+.wojo.hover::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  border-radius: .250rem;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 100% 0;
+  transform-origin: 100% 0;
+  transition: -webkit-transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+  background: var(--white-color);
+  opacity: 1;
+  z-index: 1;
+}
+.wojo.hover:hover::after {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+.wojo.hover:hover {
+  box-shadow: 0 23px 49px 0 var(--shadow-color);
+  transition: all 0.5s ease-in-out;
+}
+.wojo.hover:hover img {
+  border-radius: .5rem;
+  transition: all 0.5s ease-in-out;
+}
+.wojo.hover figcaption {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s ease-in-out;
+  z-index: 2;
+  text-align: center;
+}
+.wojo.hover:hover figcaption {
+  top: 0;
+  opacity: 1;
+  visibility: visible;
+}
+/* == Skewed == */
+.wojo.skewed.image {
+  -webkit-perspective-origin: left center;
+  perspective-origin: left center;
+  -webkit-perspective: 1500px;
+  perspective: 1500px;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+.wojo.skewed.image img {
+  border-radius: .625rem;
+  -webkit-transform: rotateY(-35deg) rotateX(15deg) translate3d(0, 0, 0);
+  transform: rotateY(-35deg) rotateX(15deg) translate3d(0, 0, 0);
+  box-shadow: 25px 60px 125px -25px var(--shadow-color), 16px 40px 75px -40px rgba(0, 0, 0, .2);
+}
+/* == Fill == */
+.wojo.fill.image,
+.wojo.fill.image img,
+.wojo.fill.image svg,
+.wojo.fill.images,
+.wojo.fill.images img,
+.wojo.fill.images svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: center;
+  object-position: center;
+}
+/* == Mobile == */
+@media screen and (max-width: 768px) {
+  .wojo.responsive.image {
+    width: 100%;
+  }
+}

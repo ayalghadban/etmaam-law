@@ -1,0 +1,22 @@
+{
+    "Carousel": {
+        "_PLG_CRL_ADDED_OK": "Laufwerk [NAME] wurde erfolgreich hinzugefügt.",
+        "_PLG_CRL_DEL_OK": "Spieler [NAME] wurde erfolgreich gelöscht.",
+        "_PLG_CRL_NEW": "Neuer Spieler",
+        "_PLG_CRL_NOPLAY": "Sie haben noch keine Player-Plugins...",
+        "_PLG_CRL_SUB1": "Hier können Sie Ihr Karussell-Player-Plugin konfigurieren.",
+        "_PLG_CRL_SUB10": "Bitte warten ",
+        "_PLG_CRL_SUB11": "Punkte anzeigen",
+        "_PLG_CRL_SUB12": "Pfeile zeigen",
+        "_PLG_CRL_SUB13": "Endlosschleife",
+        "_PLG_CRL_SUB14": "Antwortelemente",
+        "_PLG_CRL_SUB2": "Fügen Sie ein neues Laufwerk hinzu",
+        "_PLG_CRL_SUB7": "Automatisches Abspielen",
+        "_PLG_CRL_SUB8": "Artikelmarge",
+        "_PLG_CRL_SUB9": "Center",
+        "_PLG_CRL_TITLE": "Verwalten Sie das Carousel Player CMS-Plugin",
+        "_PLG_CRL_TITLE1": "Einen Leser hinzufügen",
+        "_PLG_CRL_TITLE2": "Spieler bearbeiten",
+        "_PLG_CRL_UPDATE_OK": "Laufwerk [NAME] wurde erfolgreich aktualisiert."
+    }
+}

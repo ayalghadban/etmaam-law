@@ -1,0 +1,33 @@
+{
+    "Gallery": {
+        "_MOD_GA_ADDED_OK": "Galerie [NAME] erfolgreich hinzugefügt.",
+        "_MOD_GA_COLS": "Spaltengröße",
+        "_MOD_GA_DEL_OK": "Galerie [NAME] erfolgreich gelöscht!",
+        "_MOD_GA_DIR": "Ungültiger Galerieordner",
+        "_MOD_GA_INFO": "Bitte haben Sie etwas Geduld, dieser Vorgang kann einige Zeit dauern.",
+        "_MOD_GA_LIKE": "Aktivieren Sie Gefällt mir.",
+        "_MOD_GA_NEW": "Neue Galerie",
+        "_MOD_GA_NOGAL": "Sie haben noch keine Galerien...",
+        "_MOD_GA_NOPHOTO": "Sie haben noch keine Fotos...",
+        "_MOD_GA_PHOTOS": "Bilder",
+        "_MOD_GA_PHOTO_DEL_OK": "Foto [NAME] erfolgreich gelöscht.",
+        "_MOD_GA_PHOTO_OK": "Foto [NAME] wurde erfolgreich aktualisiert.",
+        "_MOD_GA_POSTER": "Zum Posten",
+        "_MOD_GA_RESIZE_OK": "Die Größe von [NUMBER] Bildern wurde erfolgreich geändert.",
+        "_MOD_GA_RESIZE_TH": "Größe der Miniaturansichten ändern",
+        "_MOD_GA_RESIZE_THE": "Größenänderungsmethode",
+        "_MOD_GA_SUB": "Hier können Sie Ihr Galeriemodul konfigurieren.",
+        "_MOD_GA_SUB2": "Galerie aktualisieren",
+        "_MOD_GA_SUB3": "Galerie erstellen",
+        "_MOD_GA_SUB4": "Fotos verwalten",
+        "_MOD_GA_SUB5": "Fotos hinzufügen",
+        "_MOD_GA_SUB6": "Wählen Sie Galerie",
+        "_MOD_GA_SUB7": "Galerie anhängen",
+        "_MOD_GA_THUMBH": "Miniaturbildhöhe",
+        "_MOD_GA_THUMBW": "Miniaturbildbreite",
+        "_MOD_GA_TITLE": "CMS-Galerie verwalten.",
+        "_MOD_GA_TITLE1": "Galerie bearbeiten",
+        "_MOD_GA_UPDATE_OK": "Galerie [NAME] wurde erfolgreich aktualisiert.",
+        "_MOD_GA_WMARK": "Wasserzeichen aktivieren"
+    }
+}

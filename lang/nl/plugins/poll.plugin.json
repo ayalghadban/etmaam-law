@@ -1,0 +1,30 @@
+{
+    "Poll": {
+        "_PLG_PL_ACTIVE": "Activeer enquête",
+        "_PLG_PL_ADD": "Voeg een opiniepeiling toe",
+        "_PLG_PL_ADD1": "Voeg een nieuwe enquête toe",
+        "_PLG_PL_ADDED": "Enquête [NAME] Vraag succesvol toegevoegd.",
+        "_PLG_PL_ADD_Q": "Voeg een enquêteoptie toe",
+        "_PLG_PL_DEL_OK": "Enquête [NAME] is verwijderd.",
+        "_PLG_PL_NOPOLL": "U heeft nog geen enquêtes. Voeg alstublieft toe.",
+        "_PLG_PL_NOW": "Stem nu",
+        "_PLG_PL_OPTIONS": "Query-opties",
+        "_PLG_PL_POLL": "Vragenlijst",
+        "_PLG_PL_QUESTION": "Poll vraag",
+        "_PLG_PL_RESULT": "laat resultaat zien",
+        "_PLG_PL_SUB1": "U kunt uw enquêtevraag hier bijwerken.",
+        "_PLG_PL_SUB2": "Hier kunt u een nieuwe enquête toevoegen.",
+        "_PLG_PL_SUB3": "Hier kunt u uw enquêteplug-in configureren.",
+        "_PLG_PL_SUB4": "Nieuwe enquête",
+        "_PLG_PL_THANKS": "Alsjeblieft, stem",
+        "_PLG_PL_TITLE1": "Enquêtevraag bewerken",
+        "_PLG_PL_TITLE2": "Voeg een nieuwe enquête toe",
+        "_PLG_PL_TITLE3": "Beheer de CMS-querymodule",
+        "_PLG_PL_TOTAL": "Totaal aantal stemmen:",
+        "_PLG_PL_UPDATE": "Enquête bijwerken",
+        "_PLG_PL_UPDATED": "Pollvraag [NAME] is succesvol bijgewerkt.",
+        "_PLG_PL_VIEW": "Weergave",
+        "_PLG_PL_VOTE": "Stemmen",
+        "_PLG_PL_VOTES": "stemmen"
+    }
+}

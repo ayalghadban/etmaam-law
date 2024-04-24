@@ -1,0 +1,21 @@
+{
+    "Background": {
+        "_PLG_VBG_SUB2": "Voeg nieuwe video toe",
+        "_PLG_VBG_TITLE1": "Voeg video toe",
+        "_PLG_VBG_TITLE2": "Bewerk Video",
+        "_PLG_VBG_SUB1": "Hier kunt u uw video-achtergrondlaag-in configureren.",
+        "_PLG_VBG_TITLE": "Beheer de CMS Video Achtergrond Plugin",
+        "_PLG_VBG_NEW": "Nieuwe video",
+        "_PLG_VBG_SOURCE": "Video bron",
+        "_PLG_VBG_TYPE": "Videotype",
+        "_PLG_VBG_TYPE_L": "Lokaal bestand",
+        "_PLG_VBG_TYPE_Y": "YouTube",
+        "_PLG_VBG_TYPE_U": "Alleen YouTube-ID",
+        "_PLG_VBG_HEADER": "Heading",
+        "_PLG_VBG_TEXT": "Text",
+        "_PLG_VBG_ADDED_OK": "Video [NAME] succesvol toegevoegd!",
+        "_PLG_VBG_DEL_OK": "Video [NAME] is succesvol verwijderd!",
+        "_PLG_VBG_UPDATE_OK": "Video [NAME] is succesvol bijgewerkt!",
+        "_PLG_VBG_NOPLAY": "Je hebt nog geen video-plug-ins..."
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Adblock": {
+        "_MOD_AB_ADD":"Ajouter une campagne",
+        "_MOD_AB_ADDED_OK":"Campagne [NAME] ajoutée avec succès.",
+        "_MOD_AB_DEL_OK":"La campagne [NAME] a été supprimée avec succès.",
+        "_MOD_AB_EDIT":"Modifier la campagne",
+        "_MOD_AB_INFO":"La suppression de la campagne publicitaire supprimera également toutes les images et tous les greffons affectés sous le même adblock.",
+        "_MOD_AB_NEW":"Nouvelle campagne",
+        "_MOD_AB_NO_CMP":"Vous n'avez pas de test de campagnes. Ajouter...",
+        "_MOD_AB_OFFLINE":"Hors ligne",
+        "_MOD_AB_ONLINE":"En ligne",
+        "_MOD_AB_SUB":"Date de début/fin",
+        "_MOD_AB_SUB1":"Nombre total de vues autorisées",
+        "_MOD_AB_SUB10":"Date de début",
+        "_MOD_AB_SUB11":"Fin de la date",
+        "_MOD_AB_SUB12":"Média publicitaire",
+        "_MOD_AB_SUB2":"Nombre total de clics autorisés",
+        "_MOD_AB_SUB3":"CTR minimal",
+        "_MOD_AB_SUB4":"Image de bannière",
+        "_MOD_AB_SUB5":"Lien de bannière",
+        "_MOD_AB_SUB6":"Bannière ALT",
+        "_MOD_AB_SUB7":"Code HTML de bannière",
+        "_MOD_AB_SUB8":"Clics",
+        "_MOD_AB_SUB9":"Vues",
+        "_MOD_AB_TITLE":"Gestionnaire de blocs publicitaires",
+        "_MOD_AB_UPDATE":"Mettre à jour la campagne",
+        "_MOD_AB_UPDATE_OK":"Campagne [NAME] mise à jour avec succès."
+    }
+}

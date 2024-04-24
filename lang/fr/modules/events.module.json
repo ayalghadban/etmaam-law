@@ -1,0 +1,31 @@
+{
+    "Events": {
+        "_MOD_EM_ADDED_OK":"L'événement [NAME] a été ajouté avec succès!",
+        "_MOD_EM_COLOUR":"Marqueur de couleurs",
+        "_MOD_EM_CONTACT":"Personne-ressource",
+        "_MOD_EM_DATE_E":"Fin de la date",
+        "_MOD_EM_DATE_S":"Date/Heure de début",
+        "_MOD_EM_DATE_SE":"Date/Heure de fin",
+        "_MOD_EM_DATE_ST":"Date de début",
+        "_MOD_EM_DEL_OK":"Événement [NAME] supprimé avec succès!",
+        "_MOD_EM_EMAIL":"Courriel du contact",
+        "_MOD_EM_NOEVENTS":"Vous n'avez encore aucun événement. Ajouter...",
+        "_MOD_EM_NOEVENTSF":"Désolé de ne pas avoir encore d'événements...",
+        "_MOD_EM_PHONE":"Téléphone du contact",
+        "_MOD_EM_SUB":"Ajouter un événement",
+        "_MOD_EM_SUB1":"Lieu",
+        "_MOD_EM_SUB2":"Contact",
+        "_MOD_EM_SUB23":"Fin",
+        "_MOD_EM_SUB3":"Derniers événements de l'année [YEAR]",
+        "_MOD_EM_TIME_ET":"Fin de la période",
+        "_MOD_EM_TIME_S":"Heure de début/heure de fin",
+        "_MOD_EM_TIME_ST":"Heure de début",
+        "_MOD_EM_TITLE":"Gestionnaire d'événements",
+        "_MOD_EM_TITLE1":"Modifier l'événement",
+        "_MOD_EM_TITLE2":"Nouveau événement",
+        "_MOD_EM_TITLE3":"Événements de cette année",
+        "_MOD_EM_UPDATE":"Événement de mise à jour",
+        "_MOD_EM_UPDATE_OK":"Événement [NAME] mis à jour avec succès!",
+        "_MOD_EM_VENUE":"Titre du lieu"
+    }
+}

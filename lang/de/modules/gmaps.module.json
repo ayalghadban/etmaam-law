@@ -1,0 +1,26 @@
+{
+    "Gmaps": {
+        "_MOD_GM_ADDED_OK": "Standort [NAME] erfolgreich hinzugefügt!",
+        "_MOD_GM_DEL_OK": "Location [NAME] erfolgreich gelöscht!",
+        "_MOD_GM_LAT": "Breite",
+        "_MOD_GM_LNG": "Längengrad",
+        "_MOD_GM_NEW": "Neuen Ort",
+        "_MOD_GM_NOMAPS": "Sie haben noch keine Standorte. Bitte hinzufügen...",
+        "_MOD_GM_PINS": "Custom Pins",
+        "_MOD_GM_SUB": "Map Type",
+        "_MOD_GM_SUB1": "Zoom Level",
+        "_MOD_GM_SUB1_1": "Min Zoom Level",
+        "_MOD_GM_SUB1_2": "Max Zoom Level",
+        "_MOD_GM_SUB2": "Type Control",
+        "_MOD_GM_SUB3": "Street View",
+        "_MOD_GM_SUB4": "Pre-set Styles",
+        "_MOD_GM_SUB5": "Finde die Adresse",
+        "_MOD_GM_SUB6": "Pin",
+        "_MOD_GM_SUB7": "Neuen Ort",
+        "_MOD_GM_TITLE": "Standortkarten verwalten",
+        "_MOD_GM_TITLE1": "Standortkarten bearbeiten",
+        "_MOD_GM_TITLE2": "Neue Standortkarten",
+        "_MOD_GM_UPDATE": "Karte aktualisieren",
+        "_MOD_GM_UPDATE_OK": "Standort [NAME] wurde erfolgreich aktualisiert!"
+    }
+}

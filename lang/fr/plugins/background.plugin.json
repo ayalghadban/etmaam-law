@@ -1,0 +1,21 @@
+{
+    "Background": {
+        "_PLG_VBG_SUB2": "Add New Video",
+        "_PLG_VBG_TITLE1": "Add Video",
+        "_PLG_VBG_TITLE2": "Edit Video",
+        "_PLG_VBG_SUB1": "Here you can configure your video background plugin.",
+        "_PLG_VBG_TITLE": "Manage CMS Video Background Plugin",
+        "_PLG_VBG_NEW": "New Video",
+        "_PLG_VBG_SOURCE": "Video Source",
+        "_PLG_VBG_TYPE": "Video Type",
+        "_PLG_VBG_TYPE_L": "Local File",
+        "_PLG_VBG_TYPE_Y": "YouTube",
+        "_PLG_VBG_TYPE_U": "YouTube ID Only",
+        "_PLG_VBG_HEADER": "Heading",
+        "_PLG_VBG_TEXT": "Text",
+        "_PLG_VBG_ADDED_OK": "Video [NAME] added successfully!",
+        "_PLG_VBG_DEL_OK": "Video [NAME] deleted successfully!",
+        "_PLG_VBG_UPDATE_OK": "Video [NAME] updated successfully!",
+        "_PLG_VBG_NOPLAY": "You don't have any video plugins yet..."
+    }
+}

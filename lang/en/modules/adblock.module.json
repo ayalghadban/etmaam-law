@@ -1,0 +1,29 @@
+{
+    "Adblock": {
+        "_MOD_AB_ADD": "Add Campaign",
+        "_MOD_AB_ADDED_OK": "Campaign [NAME] added successfully!",
+        "_MOD_AB_DEL_OK": "Campaign [NAME] deleted successfully!",
+        "_MOD_AB_EDIT": "Edit Campaign",
+        "_MOD_AB_INFO": "Deleting Ad Campaign will also delete all images and plugin assigned under the same adblock.",
+        "_MOD_AB_NEW": "New Campaign",
+        "_MOD_AB_NO_CMP": "You dont have any campaigns tet. Please add...",
+        "_MOD_AB_OFFLINE": "Offline",
+        "_MOD_AB_ONLINE": "Online",
+        "_MOD_AB_SUB": "Date Start\/End",
+        "_MOD_AB_SUB1": "Total Views Allowed",
+        "_MOD_AB_SUB10": "Date Start",
+        "_MOD_AB_SUB11": "Date End",
+        "_MOD_AB_SUB12": "Advertisement Media",
+        "_MOD_AB_SUB2": "Total Clicks Allowed",
+        "_MOD_AB_SUB3": "Minimum CTR",
+        "_MOD_AB_SUB4": "Banner Image",
+        "_MOD_AB_SUB5": "Banner Link",
+        "_MOD_AB_SUB6": "Banner ALT",
+        "_MOD_AB_SUB7": "Banner HTML Code",
+        "_MOD_AB_SUB8": "Clicks",
+        "_MOD_AB_SUB9": "Views",
+        "_MOD_AB_TITLE": "Ad Block Manager",
+        "_MOD_AB_UPDATE": "Update Campaign",
+        "_MOD_AB_UPDATE_OK": "Campaign [NAME] updated successfully!"
+    }
+}

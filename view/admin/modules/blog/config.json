@@ -1,0 +1,26 @@
+{
+    "blog": {
+        "auto_approve": "1",
+        "cdateformat": "EEEE dd MMMM yyyy HH:mm",
+        "char_limit": "300",
+        "comperpage": "5",
+        "cperpage": "5",
+        "email_req": "1",
+        "flayout": "3",
+        "fperpage": "11",
+        "latestperpage": "10",
+        "popperpage": "5",
+        "notify_new": "1",
+        "public_access": "1",
+        "show_captcha": "1",
+        "show_counter": "1",
+        "show_username": "1",
+        "show_www": "1",
+        "sorting": "DESC",
+        "upost": "1",
+        "username_req": "1",
+        "blacklist_words": "arse,arses,ass,asses,bollocks,crap",
+        "thumb_w": "710",
+        "thumb_h": "400"
+    }
+}

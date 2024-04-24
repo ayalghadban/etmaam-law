@@ -1,0 +1,30 @@
+{
+    "Poll": {
+        "_PLG_PL_ACTIVE": "Umfrage aktivieren",
+        "_PLG_PL_ADD": "Eine Umfrage hinzufügen",
+        "_PLG_PL_ADD1": "Fügen Sie eine neue Umfrage hinzu",
+        "_PLG_PL_ADDED": "Umfrage [NAME] Frage erfolgreich hinzugefügt.",
+        "_PLG_PL_ADD_Q": "Fügen Sie eine Umfrageoption hinzu",
+        "_PLG_PL_DEL_OK": "Umfrage [NAME] wurde gelöscht.",
+        "_PLG_PL_NOPOLL": "Sie haben noch keine Umfragen. Bitte hinzufügen.",
+        "_PLG_PL_NOW": "Jetzt abstimmen",
+        "_PLG_PL_OPTIONS": "Abfrageoptionen",
+        "_PLG_PL_POLL": "Umfrage",
+        "_PLG_PL_QUESTION": "Umfrage",
+        "_PLG_PL_RESULT": "zeige Ergebnis",
+        "_PLG_PL_SUB1": "Hier können Sie Ihre Umfragefrage aktualisieren.",
+        "_PLG_PL_SUB2": "Hier können Sie eine neue Umfrage hinzufügen.",
+        "_PLG_PL_SUB3": "Hier können Sie Ihr Umfrage-Plugin konfigurieren.",
+        "_PLG_PL_SUB4": "Neue Umfrage",
+        "_PLG_PL_THANKS": "Bitte abstimmen",
+        "_PLG_PL_TITLE1": "Umfragefrage bearbeiten",
+        "_PLG_PL_TITLE2": "Fügen Sie eine neue Umfrage hinzu",
+        "_PLG_PL_TITLE3": "Verwalten Sie das CMS-Abfragemodul",
+        "_PLG_PL_TOTAL": "Gesamte stimmen:",
+        "_PLG_PL_UPDATE": "Umfrage aktualisieren",
+        "_PLG_PL_UPDATED": "Umfragefrage [NAME] wurde erfolgreich aktualisiert.",
+        "_PLG_PL_VIEW": "Anzeige",
+        "_PLG_PL_VOTE": "Abstimmung",
+        "_PLG_PL_VOTES": "Abstimmung"
+    }
+}

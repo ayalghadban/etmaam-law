@@ -1,0 +1,29 @@
+{
+    "Adblock": {
+        "_MOD_AB_ADD": "Fügen Sie eine Kampagne hinzu",
+        "_MOD_AB_ADDED_OK": "Kampagne [NAME] erfolgreich hinzugefügt.",
+        "_MOD_AB_DEL_OK": "Kampagne [NAME] wurde erfolgreich gelöscht.",
+        "_MOD_AB_EDIT": "Kampagne bearbeiten",
+        "_MOD_AB_INFO": "Durch das Entfernen der Werbekampagne werden auch alle Bilder und Plugins entfernt unter demselben Adblock zugewiesen.",
+        "_MOD_AB_NEW": "Neue Kampagne",
+        "_MOD_AB_NO_CMP": "Sie haben keine Kampagnentests. Hinzufügen...",
+        "_MOD_AB_OFFLINE": "Offline",
+        "_MOD_AB_ONLINE": "Online",
+        "_MOD_AB_SUB": "Start-/Enddatum",
+        "_MOD_AB_SUB1": "Gesamtzahl der zulässigen Aufrufe",
+        "_MOD_AB_SUB10": "Startdatum",
+        "_MOD_AB_SUB11": "Ende des Datums",
+        "_MOD_AB_SUB12": "Werbemedien",
+        "_MOD_AB_SUB2": "Gesamtzahl der erlaubten Klicks",
+        "_MOD_AB_SUB3": "Mindest-CTR",
+        "_MOD_AB_SUB4": "Bannerbild",
+        "_MOD_AB_SUB5": "Banner-Link",
+        "_MOD_AB_SUB6": "ALT-Banner",
+        "_MOD_AB_SUB7": "Banner-HTML-Code",
+        "_MOD_AB_SUB8": "Klicks",
+        "_MOD_AB_SUB9": "Ansichten",
+        "_MOD_AB_TITLE": "Werbeblock-Manager",
+        "_MOD_AB_UPDATE": "Kampagne aktualisieren",
+        "_MOD_AB_UPDATE_OK": "Kampagne [NAME] wurde erfolgreich aktualisiert."
+    }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-227 229 120 120">
+  <circle cx="-144.8" cy="321.3" r="27.2" fill="#bdc5d1" opacity=".5"/>
+  <circle cx="-154.8" cy="312.8" r="27.2" fill="#508991"/>
+  <path fill="#fff" d="M-150.6 311.9c1.3.4 2.3 1.1 3.2 2 .9 1 1.5 2.1 1.8 3.3.3 1.2.2 2.6-.2 3.9-.5 1.4-1.4 2.6-2.7 3.4-1.3.8-2.7 1.3-4.2 1.3v3.1c0 .3-.1.6-.3.7-.2.1-.4.3-.7.3h-2.1c-.3 0-.6-.1-.7-.3s-.3-.4-.3-.7v-3.1c-2.1 0-4-.6-5.6-1.9-.2-.2-.3-.5-.4-.8 0-.3.1-.6.3-.8l2.2-2.2.6-.3c.2 0 .5 0 .7.2.6.4 1.4.6 2.2.6h4.3c.5 0 1-.2 1.3-.6.4-.4.6-.8.6-1.4 0-.4-.1-.8-.4-1.1-.3-.3-.6-.6-1-.7l-6.7-1.8c-1.5-.4-2.7-1.2-3.7-2.3-1-1.1-1.6-2.4-1.8-3.9-.1-1.4.2-2.7.8-3.9s1.5-2.1 2.6-2.9c1.1-.7 2.4-1.1 3.8-1.1h.1v-3.1c0-.3.1-.6.3-.7s.4-.3.7-.3h2.1c.3 0 .6.1.7.3.1.2.3.4.3.7v3.1c2.1 0 3.9.6 5.6 1.9.3.2.4.5.5.8 0 .3-.1.6-.3.8l-2.2 2.3-.6.3c-.2 0-.5 0-.7-.1-.6-.5-1.4-.7-2.2-.7h-4.3c-.5 0-1 .2-1.3.6-.4.4-.6.8-.6 1.4 0 .4.1.8.4 1.1.3.3.6.6 1 .7l6.9 1.9z"/>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-188.6 310.7h-31.3c-2.7 0-5-2.2-5-5v-69.2c0-2.7 2.2-5 5-5h106c2.7 0 5 2.2 5 5v69.2c0 2.7-2.2 5-5 5h0"/>
+  <circle cx="-191.7" cy="241.6" r="3.1" fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" opacity=".5"/>
+  <circle cx="-203.4" cy="241.6" r="3.1" fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" opacity=".5"/>
+  <circle cx="-215" cy="241.6" r="3.1" fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M-212.3 292.8l28.6-15.7 5.3 5.8 22.6-13.8 7.3 8.4 31.9-26.9"/>
+  <path fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M-125.7 252.6l9.1-2-3 8.6"/>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M-143.5 263.8v-17.5h5.8v12.3M-166.2 268v-15.4h5.7v11.2M-177.6 274.4v-9.1h5.7v5.9M-189 272.3V261h5.7v8.1M-200.4 278.6v-8h5.7v4.8M-154.8 262.6v-5.8h5.7v10.1" opacity=".5"/>
+</svg>

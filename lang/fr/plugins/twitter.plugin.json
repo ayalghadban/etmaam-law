@@ -1,0 +1,15 @@
+{
+    "Twitter": {
+        "_PLG_TW_TOKEN": "Jeton d'accès",
+        "_PLG_TW_TSECRET": "Secret du jeton d'accès",
+        "_PLG_TW_KEY": "Clé de consommation",
+        "_PLG_TW_SECRET": "Secret du consommateur",
+        "_PLG_TW_COUNT": "Éléments à afficher",
+        "_PLG_TW_TITLE": "Gérer le dernier plug-in Twitter CMS",
+        "_PLG_TW_SHOW_IMG": "Afficher l'avatar",
+        "_PLG_TW_TRANS": "Vitesse de transition",
+        "_PLG_TW_TRANS_T": "Délai de transition",
+        "_PLG_TW_UPDATED": "Les paramètres Twitter ont été mis à jour avec succès!",
+        "_PLG_TW_USER": "Votre nom d'utilisateur"
+    }
+}

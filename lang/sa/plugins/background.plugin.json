@@ -1,0 +1,23 @@
+```json
+{
+  "Background": {
+    "_PLG_VBG_SUB2": "إضافة فيديو جديد",
+    "_PLG_VBG_TITLE1": "إضافة فيديو",
+    "_PLG_VBG_TITLE2": "تعديل فيديو",
+    "_PLG_VBG_SUB1": "هنا يمكنك تهيئة إضافة خلفية الفيديو الخاصة بك.",
+    "_PLG_VBG_TITLE": "إدارة إضافة خلفية الفيديو لـ CMS",
+    "_PLG_VBG_NEW": "فيديو جديد",
+    "_PLG_VBG_SOURCE": "مصدر الفيديو",
+    "_PLG_VBG_TYPE": "نوع الفيديو",
+    "_PLG_VBG_TYPE_L": "ملف محلي",
+    "_PLG_VBG_TYPE_Y": "يوتيوب",
+    "_PLG_VBG_TYPE_U": "معرف يوتيوب فقط",
+    "_PLG_VBG_HEADER": "العنوان",
+    "_PLG_VBG_TEXT": "نص",
+    "_PLG_VBG_ADDED_OK": "تم إضافة الفيديو [NAME] بنجاح!",
+    "_PLG_VBG_DEL_OK": "تم حذف الفيديو [NAME] بنجاح!",
+    "_PLG_VBG_UPDATE_OK": "تم تحديث الفيديو [NAME] بنجاح!",
+    "_PLG_VBG_NOPLAY": "ليس لديك أي إضافات فيديو بعد..."
+  }
+}
+```

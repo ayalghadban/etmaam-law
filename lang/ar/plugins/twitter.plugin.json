@@ -1,0 +1,15 @@
+{
+    "Twitter": {
+        "_PLG_TW_TOKEN": "Access Token",
+        "_PLG_TW_TSECRET": "Access Token Secret",
+        "_PLG_TW_KEY": "Consumer Key",
+        "_PLG_TW_SECRET": "Consumer Secret",
+        "_PLG_TW_COUNT": "Items to Show",
+        "_PLG_TW_TITLE": "Manage CMS Latest Twitter Plugin",
+        "_PLG_TW_SHOW_IMG": "Show Avatar",
+        "_PLG_TW_TRANS": "Transition Speed",
+        "_PLG_TW_TRANS_T": "Transition Timeout",
+        "_PLG_TW_UPDATED": "Twitter settings updated successfully!",
+        "_PLG_TW_USER": "Your Username"
+    }
+}

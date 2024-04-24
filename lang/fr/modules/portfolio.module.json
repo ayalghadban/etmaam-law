@@ -1,0 +1,33 @@
+{
+    "Portfolio": {
+        "_MOD_PF_ADD":"Ajouter un élément",
+        "_MOD_PF_CAT_ADDED_OK":"Catégorie [NAME] ajoutée avec succès.",
+        "_MOD_PF_CAT_DEL_OK":"La catégorie [NAME] a été supprimée avec succès.",
+        "_MOD_PF_CAT_UPDATE_OK":"Catégorie [NAME] mise à jour réussie.",
+        "_MOD_PF_CUPDATED":"Les paramètres de portefeuille ont été mis à jour avec succès.",
+        "_MOD_PF_DEL_OK":"Élément [NAME] supprimé avec succès!",
+        "_MOD_PF_ITM_ADDED_OK":"Élément [NAME] ajouté avec succès.",
+        "_MOD_PF_ITM_UPDATE_OK":"Élément [NAME] mis à jour avec succès.",
+        "_MOD_PF_NEWCAT":"Nouvelle catégorie",
+        "_MOD_PF_NEWITM":"Nouvel élément",
+        "_MOD_PF_NOPROJ":"Vous n'avez pas encore d'objet. Ajouter...",
+        "_MOD_PF_SUB":"Gestion des articles",
+        "_MOD_PF_SUB1":"Client",
+        "_MOD_PF_SUB10":"Afficher la présentation uniquement",
+        "_MOD_PF_SUB11":"Article en vedette",
+        "_MOD_PF_SUB12":"Afficher les icônes sociales",
+        "_MOD_PF_SUB13":"Derniers éléments",
+        "_MOD_PF_SUB2":"Modifier l'élément",
+        "_MOD_PF_SUB3":"Catégories de portefeuille",
+        "_MOD_PF_SUB4":"Configuration du portefeuille",
+        "_MOD_PF_SUB5":"Page Articles par catégorie",
+        "_MOD_PF_SUB6":"Éléments par page d'accueil",
+        "_MOD_PF_SUB7":"Disposition de l'article",
+        "_MOD_PF_SUB8":"Afficher la navigation de catégorie",
+        "_MOD_PF_SUB9":"Afficher les options de tri",
+        "_MOD_PF_TITLE":"Gérer le module de portefeuille CMS",
+        "_MOD_PF_TITLE1": "Portfolio",
+        "_MOD_PF_UPDATECAT":"Catégorie de mise à jour",
+        "_MOD_PF_UPDATEITM":"Mettre à jour l'élément"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Donate": {
+        "_PLG_DP_ADDED_OK":"La campagne [NAME] a été ajoutée avec succès!",
+        "_PLG_DP_DEL_OK": "Campaign [NAME] deleted successfully!",
+        "_PLG_DP_DONATE":"Faire don",
+        "_PLG_DP_INFO":"Ici vous pouvez gérer votre plugin de don.",
+        "_PLG_DP_NEW":"Nouveau don",
+        "_PLG_DP_NODON":"Vous n'avez pas encore de plugins de don...",
+        "_PLG_DP_SUB":"Nouvelle campagne de dons",
+        "_PLG_DP_SUB1":"Nom de la campagne",
+        "_PLG_DP_SUB2":"Options de paiement",
+        "_PLG_DP_SUB3":"Page Rediriger la réussite",
+        "_PLG_DP_SUB4":"Mettre à jour la campagne de don",
+        "_PLG_DP_TARGET":"Montant cible",
+        "_PLG_DP_TITLE":"Gérer le plug-in de don CMS",
+        "_PLG_DP_TITLE1":"Configuration du don",
+        "_PLG_DP_UPDATE_OK":"Campagne [NAME] mise à jour réussie!"
+    }
+}

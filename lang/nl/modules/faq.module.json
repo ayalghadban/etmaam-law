@@ -1,0 +1,23 @@
+{
+    "Faq": {
+        "_MOD_FAQ_ADDED": "Vraag [NAAM] is met succes beantwoord.",
+        "_MOD_FAQ_CAT_ADDED_OK": "Categorie [NAAM] toegevoegd met succes.",
+        "_MOD_FAQ_CAT_DEL_OK": "De categorie [NAAM] is supprimée met succes.",
+        "_MOD_FAQ_CAT_UPDATE_OK": "Categorie [NAAM] mise à jour reussie.",
+        "_MOD_FAQ_DEL_OK": "Vraag [NAAM] supprimée met succes.",
+        "_MOD_FAQ_INFO": "Vragen plus courantes",
+        "_MOD_FAQ_NEW": "Neue Frage",
+        "_MOD_FAQ_NOFAQF": "Laat geen toegift van vragen achter...",
+        "_MOD_FAQ_NOFAQS": "U hebt geen toegift van de vraag gegeven. Veuillez ajouter.",
+        "_MOD_FAQ_QUESTION": "Vraag",
+        "_MOD_FAQ_SUB": "Foire aux-vragen",
+        "_MOD_FAQ_SUB1": "Nieuwe categorie",
+        "_MOD_FAQ_SUB2": "Categorie van de mise à jour",
+        "_MOD_FAQ_SUB3": "FAQ-categorieën",
+        "_MOD_FAQ_TITLE": "Gestionnaire",
+        "_MOD_FAQ_TITLE1": "Wijziging van de vraag",
+        "_MOD_FAQ_TITLE2": "Nog een vraag",
+        "_MOD_FAQ_UPDATE": "Mettre à jour la vraag",
+        "_MOD_FAQ_UPDATED": "De vraag [NAAM] is een succes."
+    }
+}

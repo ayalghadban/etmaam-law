@@ -1,0 +1,23 @@
+{
+    "Faq": {
+        "_MOD_FAQ_ADDED": "Frage [NAME] erfolgreich hinzugefügt.",
+        "_MOD_FAQ_CAT_ADDED_OK": "Kategorie [NAME] erfolgreich hinzugefügt.",
+        "_MOD_FAQ_CAT_DEL_OK": "Kategorie [NAME] wurde erfolgreich gelöscht.",
+        "_MOD_FAQ_CAT_UPDATE_OK": "Kategorie [NAME] wurde erfolgreich aktualisiert.",
+        "_MOD_FAQ_DEL_OK": "Frage [NAME] erfolgreich gelöscht.",
+        "_MOD_FAQ_INFO": "Die häufigsten Fragen",
+        "_MOD_FAQ_NEW": "Neue Frage",
+        "_MOD_FAQ_NOFAQF": "Tut mir leid, ich habe noch keine Fragen...",
+        "_MOD_FAQ_NOFAQS": "Sie haben noch keine Fragen. Bitte hinzufügen.",
+        "_MOD_FAQ_QUESTION": "Frage",
+        "_MOD_FAQ_SUB": "Häufig gestellte Fragen",
+        "_MOD_FAQ_SUB1": "Neue Kategorie",
+        "_MOD_FAQ_SUB2": "Kategorie aktualisieren",
+        "_MOD_FAQ_SUB3": "FAQ-Kategorien",
+        "_MOD_FAQ_TITLE": "F.A.Q.Manager",
+        "_MOD_FAQ_TITLE1": "Bearbeiten der Frage",
+        "_MOD_FAQ_TITLE2": "Fügen Sie eine Frage hinzu",
+        "_MOD_FAQ_UPDATE": "Frage aktualisieren",
+        "_MOD_FAQ_UPDATED": "Frage [NAME] wurde erfolgreich aktualisiert."
+    }
+}

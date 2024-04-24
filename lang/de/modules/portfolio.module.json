@@ -1,0 +1,32 @@
+{
+    "Portfolio": {
+        "_MOD_PF_ADD": "Fügen Sie einen Artikel hinzu",
+        "_MOD_PF_CAT_ADDED_OK": "Kategorie [NAME] erfolgreich hinzugefügt.",
+        "_MOD_PF_CAT_DEL_OK": "Kategorie [NAME] wurde erfolgreich gelöscht.",
+        "_MOD_PF_CAT_UPDATE_OK": "Kategorie [NAME] wurde erfolgreich aktualisiert.",
+        "_MOD_PF_CUPDATED": "Die Wallet-Einstellungen wurden erfolgreich aktualisiert.",
+        "_MOD_PF_DEL_OK": "Artikel [NAME] erfolgreich gelöscht!",
+        "_MOD_PF_ITM_ADDED_OK": "[NAME]-Element erfolgreich hinzugefügt.",
+        "_MOD_PF_ITM_UPDATE_OK": "Artikel [NAME] wurde erfolgreich aktualisiert.",
+        "_MOD_PF_NEWCAT": "Neue Kategorie",
+        "_MOD_PF_NEWITM": "Neuer Gegenstand",
+        "_MOD_PF_NOPROJ": "Sie haben noch keinen Artikel. Hinzufügen...",
+        "_MOD_PF_SUB": "Artikelverwaltung",
+        "_MOD_PF_SUB1": "Kunde",
+        "_MOD_PF_SUB10": "Nur Präsentation anzeigen",
+        "_MOD_PF_SUB11": "Gesponserter Artikel",
+        "_MOD_PF_SUB12": "Zeigen Sie soziale Symbole an",
+        "_MOD_PF_SUB13": "Neueste Artikel",
+        "_MOD_PF_SUB2": "Element bearbeiten",
+        "_MOD_PF_SUB3": "Portfoliokategorien",
+        "_MOD_PF_SUB4": "Wallet-Einrichtung",
+        "_MOD_PF_SUB5": "Artikel nach Kategorieseite",
+        "_MOD_PF_SUB6": "Elemente pro Homepage",
+        "_MOD_PF_SUB7": "Artikellayout",
+        "_MOD_PF_SUB8": "Kategorienavigation anzeigen",
+        "_MOD_PF_SUB9": "Sortieroptionen anzeigen",
+        "_MOD_PF_TITLE": "Verwalten Sie das CMS-Wallet-Modul",
+        "_MOD_PF_UPDATECAT": "Kategorie aktualisieren",
+        "_MOD_PF_UPDATEITM": "Artikel aktualisieren"
+    }
+}

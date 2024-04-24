@@ -1,0 +1,33 @@
+{
+    "Portfolio": {
+        "_MOD_PF_ADD": "Voeg een artikel toe",
+        "_MOD_PF_CAT_ADDED_OK": "Categorie [NAME] is succesvol toegevoegd.",
+        "_MOD_PF_CAT_DEL_OK": "Categorie [NAME] is succesvol verwijderd.",
+        "_MOD_PF_CAT_UPDATE_OK": "Categorie [NAME] is succesvol bijgewerkt.",
+        "_MOD_PF_CUPDATED": "Wallet-instellingen zijn succesvol bijgewerkt.",
+        "_MOD_PF_DEL_OK": "Item [NAME] succesvol verwijderd!",
+        "_MOD_PF_ITM_ADDED_OK": "[NAME] item succesvol toegevoegd.",
+        "_MOD_PF_ITM_UPDATE_OK": "Item [NAME] is succesvol bijgewerkt.",
+        "_MOD_PF_NEWCAT": "Nieuwe categorie",
+        "_MOD_PF_NEWITM": "Nieuw item",
+        "_MOD_PF_NOPROJ": "Je hebt nog geen artikel. Toevoegen...",
+        "_MOD_PF_SUB": "Artikelbeheer",
+        "_MOD_PF_SUB1": "Klant",
+        "_MOD_PF_SUB10": "Alleen presentatie tonen",
+        "_MOD_PF_SUB11": "Aanbevolen artikel",
+        "_MOD_PF_SUB12": "Toon sociale iconen",
+        "_MOD_PF_SUB13": "Nieuwste artikelen",
+        "_MOD_PF_SUB2": "Item bewerken",
+        "_MOD_PF_SUB3": "Portfoliocategorieën",
+        "_MOD_PF_SUB4": "Portefeuille-instellingen",
+        "_MOD_PF_SUB5": "Artikelen per categoriepagina",
+        "_MOD_PF_SUB6": "Elementen per startpagina",
+        "_MOD_PF_SUB7": "Artikel layout",
+        "_MOD_PF_SUB8": "Toon categorienavigatie",
+        "_MOD_PF_SUB9": "Sorteeropties weergeven",
+        "_MOD_PF_TITLE": "Beheer de CMS-portemonneemodule",
+        "_MOD_PF_TITLE1": "Portefeuille",
+        "_MOD_PF_UPDATECAT": "Categorie bijwerken",
+        "_MOD_PF_UPDATEITM": "Artikel bijwerken"
+    }
+}

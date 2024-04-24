@@ -1,0 +1,26 @@
+{
+    "Gmaps": {
+        "_MOD_GM_ADDED_OK": "Location [NAME] added successfully!",
+        "_MOD_GM_DEL_OK": "Location [NAME] deleted successfully!",
+        "_MOD_GM_LAT": "Latitude",
+        "_MOD_GM_LNG": "Longitude",
+        "_MOD_GM_NEW": "New Location",
+        "_MOD_GM_NOMAPS": "You don\u0027t have any locations yet. Please add...",
+        "_MOD_GM_PINS": "Custom Pins",
+        "_MOD_GM_SUB": "Map Type",
+        "_MOD_GM_SUB1": "Zoom Level",
+        "_MOD_GM_SUB1_1": "Min Zoom Level",
+        "_MOD_GM_SUB1_2": "Max Zoom Level",
+        "_MOD_GM_SUB2": "Type Control",
+        "_MOD_GM_SUB3": "Street View",
+        "_MOD_GM_SUB4": "Pre-set Styles",
+        "_MOD_GM_SUB5": "Find Address",
+        "_MOD_GM_SUB6": "Pin",
+        "_MOD_GM_SUB7": "New Location",
+        "_MOD_GM_TITLE": "Manage Location Maps",
+        "_MOD_GM_TITLE1": "Edit Location Maps",
+        "_MOD_GM_TITLE2": "New Location Maps",
+        "_MOD_GM_UPDATE": "Update Map",
+        "_MOD_GM_UPDATE_OK": "Location [NAME] updated successfully!"
+    }
+}

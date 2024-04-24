@@ -1,0 +1,31 @@
+{
+    "Comments": {
+        "_MOD_CM_AA": "Automatische goedkeuring",
+        "_MOD_CM_CAPTCHA": "Captcha weergeven",
+        "_MOD_CM_CHAR": "Tekenlimiet",
+        "_MOD_CM_CUPDATED": "Instellingen voor opmerkingen zijn succesvol bijgewerkt.",
+        "_MOD_CM_DATE": "Datumnotatie",
+        "_MOD_CM_DEL_OK": "Reactie [NAME] is succesvol verwijderd.",
+        "_MOD_CM_E_NOT_V": "Uw e-mailadres wordt niet gepubliceerd.",
+        "_MOD_CM_MSGOK1": "Dankjewel ! Uw reactie is verzonden.",
+        "_MOD_CM_MSGOK2": "Dankjewel ! Uw reactie is verzonden en wacht op beoordeling.",
+        "_MOD_CM_NOTIFY": "Meldingen",
+        "_MOD_CM_PERPAGE": "Opmerkingen per pagina",
+        "_MOD_CM_RATING": "Scoren inschakelen",
+        "_MOD_CM_REG_ONLY": "Publieke toegang",
+        "_MOD_CM_REPLAY": "beantwoorden",
+        "_MOD_CM_SORTING": "Triage van opmerkingen",
+        "_MOD_CM_SORTING_B": "— Meest recente/laagste —",
+        "_MOD_CM_SORTING_T": "— Meest recente / Bovenaan pagina —",
+        "_MOD_CM_SUB": "Nog geen reacties...",
+        "_MOD_CM_SUB1": "Sorry, alleen geregistreerde en ingelogde gebruikers kunnen reacties plaatsen. Alsjeblieft schrijf je in of meld je aan.",
+        "_MOD_CM_SUB2": "Laat jouw reactie achter",
+        "_MOD_CM_SUB3": "Er zijn geen reacties in behandeling...",
+        "_MOD_CM_SUB4": "Goedkeuren",
+        "_MOD_CM_TITLE1": "Opmerkingen instellen",
+        "_MOD_CM_TITLE2": "Reacties in behandeling",
+        "_MOD_CM_TSINCE": "Gebruik de tijd sindsdien",
+        "_MOD_CM_UNAME_R": "Naam (vereist",
+        "_MOD_CM_WORDS": "Woorden op de zwarte lijst"
+    }
+}

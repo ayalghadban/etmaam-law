@@ -1,0 +1,222 @@
+.wojo.dropdown {
+		position: absolute;
+		z-index: 500;
+		top: -5000px;
+		left: -5000px;
+		opacity: 0;
+		visibility: hidden;
+		transition: opacity 0.2s ease-out, visibility 0.2s ease-out;
+		pointer-events: none;
+		padding: .5rem;
+		border-radius: 1rem;
+		background: var(--white-color);
+		border: 1px solid var(--grey-color-300);
+		box-shadow: 0 0 3rem 0 var(--shadow-color);
+}
+.wojo.dropdown.active {
+		-webkit-animation-name: slideInUp;
+		animation-name: slideInUp;
+		-webkit-animation-duration: 0.2s;
+		animation-duration: 0.2s;
+		-webkit-backface-visibility: hidden;
+		backface-visibility: hidden;
+		opacity: 1;
+		visibility: visible;
+		pointer-events: auto;
+}
+.wojo.dropdown.static {
+		padding: 1rem;
+}
+.wojo.dropdown.fixed {
+		position: fixed;
+}
+.wojo.dropdown .pointer {
+		height: 1rem;
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+		top: 0;
+		left: 0;
+		-webkit-transform: translate(0px, -1rem);
+		transform: translate(0px, -1rem);
+}
+.wojo.dropdown .pointer::after,
+.wojo.dropdown.top-left .pointer::after,
+.wojo.dropdown.top-center .pointer::after,
+.wojo.dropdown.top-right .pointer::after {
+		border: 1px solid var(--dark-color-shadow);
+		box-shadow: 0 2px 1px 0 var(--dark-color-shadow);
+		left: 50%;
+		top: .5rem;
+		background: var(--white-color);
+		content: "";
+		height: 1rem;
+		position: absolute;
+		-webkit-transform: rotate(45deg);
+		transform: rotate(45deg);
+		width: 1rem;
+		margin-left: -.5rem;
+}
+.wojo.dropdown.top-left .pointer::after {
+		left: 0;
+		margin-left: 1rem;
+}
+.wojo.dropdown.top-right .pointer::after {
+		left: auto;
+		right: 0;
+		margin-right: 1rem;
+		margin-left: auto;
+}
+.wojo.dropdown.open-top .pointer::after,
+.wojo.dropdown.open-top.top-left .pointer::after,
+.wojo.dropdown.open-top.top-center .pointer::after,
+.wojo.dropdown.open-top.top-right .pointer::after {
+		border: 0;
+		box-shadow: 0 2px 1px 0 var(--dark-color-shadow);
+		top: -4px;
+		margin-left: -.5rem;
+}
+.wojo.dropdown.open-top.top-left .pointer::after {
+		margin-left: 1rem;
+}
+.wojo.dropdown.open-top.top-right .pointer::after {
+		margin-right: 1rem;
+}
+.wojo.dropdown.open-top .pointer {
+		bottom: -1.5rem;
+		top: auto;
+}
+.wojo.dropdown.top-left,
+.wojo.dropdown.top-center,
+.wojo.dropdown.top-right {
+		margin-top: 0.5rem;
+}
+.wojo.dropdown.pointing.top-left,
+.wojo.dropdown.pointing.top-center,
+.wojo.dropdown.pointing.top-right {
+		margin-top: 1rem;
+}
+.wojo.dropdown > .item > .icon,
+.wojo.dropdown > .item > .label,
+.wojo.dropdown > .item > .flag,
+.wojo.dropdown > .item > .image,
+.wojo.dropdown > .item > span,
+.wojo.dropdown > .item > img {
+		flex: 1 1 0;
+		min-width: 0;
+}
+.wojo.dropdown > .item > .icon,
+.wojo.dropdown > .item > .label,
+.wojo.dropdown > .item > .flag,
+.wojo.dropdown > .item > .image,
+.wojo.dropdown > .item > img {
+		flex: 0 0 auto;
+		max-width: 100%;
+		white-space: nowrap;
+		margin-right: 1rem;
+}
+.wojo.dropdown > .item > .right.icon,
+.wojo.dropdown > .item > .right.label,
+.wojo.dropdown > .item > .right.flag,
+.wojo.dropdown > .item > .right.image,
+.wojo.dropdown > .item > img.right {
+		margin-right: 0;
+		margin-left: 1rem;
+}
+.wojo.dropdown > .item.image {
+		padding: .5rem 0;
+}
+.wojo.dropdown > .item.image.active {
+		background-color: var(--white-color);
+}
+.wojo.dropdown > .item.image.active > img {
+		outline: 2px dashed var(--primary-color);
+		outline-offset: 2px;
+}
+.wojo.dropdown > .item.image > img {
+		margin-right: 0;
+		flex: 1 1 0;
+		height: 3rem;
+		border-radius: var(--radius);
+}
+.wojo.dropdown.nowrap {
+		white-space: nowrap;
+}
+.wojo.dropdown a.item {
+		position: relative;
+		cursor: pointer;
+		padding: 0.750rem 1.25rem;
+		line-height: 1rem;
+		border-radius: .5rem;
+		color: var(--dark-color);
+		margin-left: auto;
+		margin-right: auto;
+		display: flex;
+		flex-flow: row wrap;
+		text-align: left;
+		white-space: nowrap;
+		align-items: center;
+}
+.wojo.dropdown a.item:hover {
+		color: var(--primary-color);
+		background-color: var(--grey-color-300);
+}
+.wojo.dropdown a.item.active {
+		background-color: var(--primary-color);
+		color: var(--white-color);
+		pointer-events: none;
+}
+.wojo.dropdown .divider {
+		border-top: 1px solid var(--dark-color-shadow);
+		height: 0;
+		margin: 0.5rem 0;
+}
+.wojo.dropdown .basic.divider {
+		border-top: 1px solid var(--dark-color-shadow);
+		height: 0;
+		margin: 0;
+}
+.wojo.dropdown .big.divider {
+		margin: 1rem 0;
+}
+.wojo.dropdown > .header {
+		padding: .5rem 1.25rem;
+		font-size: 1rem;
+		font-weight: 700;
+		text-align: center;
+}
+.wojo.dropdown > .scrolling {
+		overflow-y: auto;
+		overflow-x: hidden;
+		max-height: 300px;
+		padding-right: 1rem;
+}
+.wojo.dropdown.fluid {
+		width: calc(100% - 2.5rem);
+}
+[data-wdropdown] {
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+[data-wdropdown] > .text {
+		padding-right: .5rem;
+}
+.wojo.dropdown a.item.disabled {
+		pointer-events: none;
+		opacity: .75;
+}
+/* == Sizes == */
+.wojo.dropdown.small a.item {
+		padding: .5rem 1rem;
+}
+.wojo.dropdown.mini {
+		font-size: 0.750rem;
+}
+.wojo.dropdown.tiny {
+		font-size: 0.813rem;
+}
+.wojo.dropdown.small {
+		font-size: 0.875rem;
+}
+.wojo.dropdown {
+		font-size: 1rem;
+}

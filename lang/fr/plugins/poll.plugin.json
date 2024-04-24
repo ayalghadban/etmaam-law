@@ -1,0 +1,30 @@
+{
+    "Poll": {
+        "_PLG_PL_ACTIVE":"Activer le sondage",
+        "_PLG_PL_ADD":"Ajouter un sondage",
+        "_PLG_PL_ADD_Q":"Option Ajouter un sondage",
+        "_PLG_PL_ADD1":"Ajouter un nouvel sondage",
+        "_PLG_PL_ADDED":"Sondage [NOM] Question ajoutée avec succès.",
+        "_PLG_PL_DEL_OK":"Le sondage [NAME] a été supprimé.",
+        "_PLG_PL_NOPOLL":"Vous n'avez pas encore de sondages. Veuillez ajouter.",
+        "_PLG_PL_NOW":"Vote maintenant",
+        "_PLG_PL_OPTIONS":"Options d'interrogation",
+        "_PLG_PL_POLL":"Sondage",
+        "_PLG_PL_QUESTION":"Question de sondage",
+        "_PLG_PL_RESULT":"Afficher le résultat",
+        "_PLG_PL_SUB1":"Vous pouvez ici mettre à jour votre question de sondage.",
+        "_PLG_PL_SUB2":"Ici vous pouvez ajouter un nouveau sondage.",
+        "_PLG_PL_SUB3":"Ici vous pouvez configurer votre plugin de sondage.",
+        "_PLG_PL_SUB4":"Nouveau sondage",
+        "_PLG_PL_THANKS":"Merci de voter",
+        "_PLG_PL_TITLE1":"Modifier la question de sondage",
+        "_PLG_PL_TITLE2":"Ajouter un nouvel sondage",
+        "_PLG_PL_TITLE3":"Gérer le module d'interrogation CMS",
+        "_PLG_PL_TOTAL":"Total des votes :",
+        "_PLG_PL_UPDATE":"Mettre à jour le sondage",
+        "_PLG_PL_UPDATED":"Question de sondage [NOM] mise à jour avec succès.",
+        "_PLG_PL_VIEW":"Afficher",
+        "_PLG_PL_VOTE":"Vote",
+        "_PLG_PL_VOTES":"vote"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Events": {
+        "_MOD_EM_ADDED_OK": "Event [NAME] added successfully!",
+        "_MOD_EM_COLOUR": "Color Marker",
+        "_MOD_EM_CONTACT": "Contact Person",
+        "_MOD_EM_DATE_E": "Date End",
+        "_MOD_EM_DATE_S": "Date\/Time Start",
+        "_MOD_EM_DATE_SE": "Date\/Time End",
+        "_MOD_EM_DATE_ST": "Date Start",
+        "_MOD_EM_DEL_OK": "Event [NAME] deleted successfully!",
+        "_MOD_EM_EMAIL": "Contact Email",
+        "_MOD_EM_NOEVENTS": "You don\u0027t have any events yet. Please add...",
+        "_MOD_EM_NOEVENTSF": "Sorry we don\u0027t have any events yet...",
+        "_MOD_EM_PHONE": "Contact Phone",
+        "_MOD_EM_SUB": "Add Event",
+        "_MOD_EM_SUB1": "Venue",
+        "_MOD_EM_SUB2": "Contact",
+        "_MOD_EM_SUB23": "Ending",
+        "_MOD_EM_SUB3": "Latest events for year [YEAR]",
+        "_MOD_EM_TIME_ET": "Time End",
+        "_MOD_EM_TIME_S": "Time Start\/Time End",
+        "_MOD_EM_TIME_ST": "Time Start",
+        "_MOD_EM_TITLE": "Event Manager",
+        "_MOD_EM_TITLE1": "Edit Event",
+        "_MOD_EM_TITLE2": "New Event",
+        "_MOD_EM_TITLE3": "This Year Events",
+        "_MOD_EM_UPDATE": "Update Event",
+        "_MOD_EM_UPDATE_OK": "Event [NAME] updated successfully!",
+        "_MOD_EM_VENUE": "Venue Title"
+    }
+}

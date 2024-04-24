@@ -1,0 +1,33 @@
+{
+    "Gallery": {
+        "_MOD_GA_ADDED_OK": "Galerij [NAME] is succesvol toegevoegd.",
+        "_MOD_GA_COLS": "Kolomgrootte",
+        "_MOD_GA_DEL_OK": "Galerij [NAME] succesvol verwijderd!",
+        "_MOD_GA_DIR": "Ongeldige galerijmap",
+        "_MOD_GA_INFO": "Even geduld, deze actie kan enige tijd duren.",
+        "_MOD_GA_LIKE": "Schakel Vind ik leuk in",
+        "_MOD_GA_NEW": "Nieuwe galerij",
+        "_MOD_GA_NOGAL": "Je hebt nog geen galerijen...",
+        "_MOD_GA_NOPHOTO": "Je hebt nog geen foto's...",
+        "_MOD_GA_PHOTOS": "Foto's",
+        "_MOD_GA_PHOTO_DEL_OK": "Foto [NAME] is succesvol verwijderd.",
+        "_MOD_GA_PHOTO_OK": "Foto [NAME] is succesvol bijgewerkt.",
+        "_MOD_GA_POSTER": "Poster",
+        "_MOD_GA_RESIZE_OK": "Het formaat van [NUMBER] afbeeldingen is succesvol gewijzigd.",
+        "_MOD_GA_RESIZE_TH": "Formaat van afbeeldingsminiaturen wijzigen",
+        "_MOD_GA_RESIZE_THE": "Formaat wijzigen methode",
+        "_MOD_GA_SUB": "Hier kunt u uw galerijmodule configureren.",
+        "_MOD_GA_SUB2": "Galerij bijwerken",
+        "_MOD_GA_SUB3": "Galerij maken",
+        "_MOD_GA_SUB4": "Beheer foto's",
+        "_MOD_GA_SUB5": "Voeg foto's toe",
+        "_MOD_GA_SUB6": "Selecteer Galerij",
+        "_MOD_GA_SUB7": "Galerij bijvoegen",
+        "_MOD_GA_THUMBH": "Hoogte miniatuur",
+        "_MOD_GA_THUMBW": "Thumbnail breedte",
+        "_MOD_GA_TITLE": "Beheer CMS-galerij",
+        "_MOD_GA_TITLE1": "Galerij bewerken",
+        "_MOD_GA_UPDATE_OK": "Galerij [NAME] is succesvol bijgewerkt.",
+        "_MOD_GA_WMARK": "Schakel Watermerk in"
+    }
+}

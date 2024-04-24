@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-899 481 120 120">
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3">
+    <path fill="#bdc5d1" stroke="#bdc5d1" d="M-805.4 521.8V569.7l7 5.3 6.9-5.3v-47.9z" opacity=".5"/>
+    <path fill="#508991" stroke="#508991" d="M-812.3 520v48l6.9 5.3 7-5.3v-48z"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3">
+    <path fill="#bdc5d1" stroke="#bdc5d1" d="M-872.4 521.8V569.7l6.9 5.3 6.9-5.3v-47.9z" opacity=".5"/>
+    <path fill="#508991" stroke="#508991" d="M-879.3 520v48l6.9 5.3 6.9-5.3v-48z"/>
+  </g>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-897.1 520h116.2v79.4h-116.2zM-897.1 552.4h15M-780.9 552.4h-14.5M-815.3 552.4h-13.5M-848.7 552.4h-13.5M-780.9 591.9h-116.2"/>
+  <path fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-848.7 547.8h19.9v9.4h-19.9z"/>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-825.9 509.9h4.1V520M-856.2 520v-10.1h4.3"/>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-853 505.9h0c-2.3 0-4.2-1.9-4.2-4.2v-4.3c0-4.6 1.8-6.8 3.8-7.8 2.6-1.2 4.4-7 4.4-7h20.2l2.1 7.1c.6 1.9.9 4 .9 6v15c0 2.2-2.1 3.8-4.4 3.1-1.3-.5-2.1-1.7-2.1-3.1v-.1c0 1.8-1.5 3.2-3.2 3.2-1.8 0-3.2-1.4-3.2-3.2v.1c0 2.2-2.1 3.8-4.4 3.1-1.3-.5-2.1-1.7-2.1-3.1v-.1c0 2-1.9 3.5-3.9 3.1-1.5-.3-2.6-1.8-2.6-3.3v-11"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-832.4 507.5v3M-838.9 507.5v3"/>
+  <path fill="#fff" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-882.1 546.1h19.9v12.7h-19.9zM-815.3 546.1h19.9v12.7h-19.9z"/>
+  <path fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-805.4 553.5v-2M-872.1 553.5v-2"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-845.4 507.5v3"/>
+</svg>

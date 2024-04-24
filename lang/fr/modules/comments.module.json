@@ -1,0 +1,31 @@
+{
+    "Comments": {
+        "_MOD_CM_AA":"Approbation automatique",
+        "_MOD_CM_CAPTCHA":"Afficher Captcha",
+        "_MOD_CM_CHAR":"Limite de caractères",
+        "_MOD_CM_CUPDATED":"Paramètres des commentaires mis à jour avec succès.",
+        "_MOD_CM_DATE":"Format de date",
+        "_MOD_CM_DEL_OK":"Le commentaire [NAME] a été supprimé avec succès.",
+        "_MOD_CM_E_NOT_V":"Votre adresse e-mail ne sera pas publiée.",
+        "_MOD_CM_MSGOK1":"Merci ! Votre commentaire a été soumis.",
+        "_MOD_CM_MSGOK2":"Merci ! Votre commentaire a été soumis et en attente de vérification.",
+        "_MOD_CM_NOTIFY":"Notifications",
+        "_MOD_CM_PERPAGE":"Commentaires par page",
+        "_MOD_CM_RATING":"Activer la notation",
+        "_MOD_CM_REG_ONLY":"Accès public",
+        "_MOD_CM_REPLAY":"Répondre",
+        "_MOD_CM_SORTING":"Triage des commentaires",
+        "_MOD_CM_SORTING_B":"— Le plus récent / le plus bas —",
+        "_MOD_CM_SORTING_T":"— Plus récent / Haut de page —",
+        "_MOD_CM_SUB":"Pas encore de commentaires...",
+        "_MOD_CM_SUB1":"Désolé, seuls les utilisateurs enregistrés et connectés peuvent poster des commentaires. Veuillez vous inscrire ou vous inscrire.",
+        "_MOD_CM_SUB2":"Laissez votre commentaire",
+        "_MOD_CM_SUB3":"Aucun commentaire en attente...",
+        "_MOD_CM_SUB4":"Approuver",
+        "_MOD_CM_TITLE1":"Configuration des commentaires",
+        "_MOD_CM_TITLE2":"Commentaires en attente",
+        "_MOD_CM_TSINCE":"Utiliser le temps depuis",
+        "_MOD_CM_UNAME_R":"Nom requis",
+        "_MOD_CM_WORDS":"Mots de liste noire"
+    }
+}

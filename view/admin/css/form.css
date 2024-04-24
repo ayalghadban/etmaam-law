@@ -1,0 +1,1556 @@
+/* == Form == */
+.wojo.form {
+   position: relative;
+   max-width: 100%;
+}
+/* == Labels == */
+.wojo.form .field > label,
+.wojo.form .field label.label {
+   align-items: center;
+   display: flex;
+   flex-flow: row wrap;
+   margin: 0 0 0.5rem 0;
+   color: var(--grey-color);
+   font-size: .875rem;
+   font-weight: 700;
+}
+.wojo.form .field label .icon.asterisk {
+   font-size: .750em;
+   margin-left: .250rem;
+   color: var(--negative-color);
+}
+.wojo.form .field label span {
+   line-height: 1;
+   vertical-align: middle;
+   margin-left: .250rem;
+}
+.wojo.form .field label small {
+   margin-left: .250rem;
+   font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+/* == Inputs == */
+.wojo.form textarea,
+.wojo.file > input,
+.wojo.form input:not([type]),
+.wojo.form input[type="date"],
+.wojo.form input[type="datetime-local"],
+.wojo.form input[type="email"],
+.wojo.form input[type="number"],
+.wojo.form input[type="password"],
+.wojo.form input[type="search"],
+.wojo.form input[type="tel"],
+.wojo.form input[type="time"],
+.wojo.form input[type="text"],
+.wojo.form input[type="url"] {
+   width: 100%;
+   font-family: inherit;
+   margin: 0;
+   outline: none;
+   -webkit-appearance: none;
+   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+   line-height: normal;
+   vertical-align: middle;
+   padding: 1rem 1.5rem;
+   font-size: 1rem;
+   height: calc(2rem + 1rem + 2px);
+   background: var(--white-color);
+   border: 0 solid var(--grey-color-100);
+   color: var(--body-color);
+   border-radius: var(--radius);
+   font-weight: 400;
+   box-shadow: 0 0 0 1px var(--grey-color-500);
+   transition: all 0.25s ease 0s;
+}
+.wojo.form textarea:not([rows]) {
+   height: 12em;
+   min-height: 8em;
+   max-height: 24em;
+}
+.wojo.form input.basic {
+   box-shadow: 0 2px 0 0 var(--grey-color-500);
+   background: rgba(255, 255, 255, 0);
+   border-radius: 0;
+   padding: 1rem 0;
+}
+/* == Focus == */
+.wojo.form textarea:focus,
+.wojo.form input:not([type]):focus,
+.wojo.form input[type="date"]:focus,
+.wojo.form input[type="datetime-local"]:focus,
+.wojo.form input[type="email"]:focus,
+.wojo.form input[type="number"]:focus,
+.wojo.form input[type="password"]:focus,
+.wojo.form input[type="search"]:focus,
+.wojo.form input[type="tel"]:focus,
+.wojo.form input[type="time"]:focus,
+.wojo.form input[type="text"]:focus,
+.wojo.form input[type="url"]:focus,
+.wojo.form input[type="text"]:focus,
+.wojo.form select:focus {
+   color: var(--dark-color);
+   border-color: var(--primary-color);
+   box-shadow: var(--shadow-color) 0 0 2px 0, var(--shadow-color) 0px 12px 24px -4px, 0 0 0 1px var(--primary-color);
+}
+.wojo.form textarea.basic:focus,
+.wojo.form input.basic:not([type]):focus,
+.wojo.form input.basic[type="date"]:focus,
+.wojo.form input.basic[type="datetime-local"]:focus,
+.wojo.form input.basic[type="email"]:focus,
+.wojo.form input.basic[type="number"]:focus,
+.wojo.form input.basic[type="password"]:focus,
+.wojo.form input.basic[type="search"]:focus,
+.wojo.form input.basic[type="tel"]:focus,
+.wojo.form input.basic[type="time"]:focus,
+.wojo.form input.basic[type="text"]:focus {
+   color: var(--dark-color);
+   box-shadow: 0 2px 0 0 var(--primary-color);
+   background: rgba(255, 255, 255, 0);
+   border-radius: 0;
+}
+/* == Select == */
+.wojo.form select {
+   font-family: inherit;
+   display: inline-block;
+   width: 100%;
+   color: var(--dark-color);
+   line-height: 1rem;
+   padding: 0 1.5rem;
+   font-size: 1rem;
+   height: calc(2rem + 1rem + 2px);
+   border: 0 solid var(--grey-color-100);
+   box-shadow: 0 0 0 1px var(--grey-color-500);
+   vertical-align: middle;
+   background: var(--white-color) url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 640' %3E%3Cpath d='M538.7 238.3c-9.8-14.7-30.2-18.8-44.9-9L320 344.9 146.3 229.3c-7.3-4.9-15.9-5.6-24-4-8 1.6-16.1 5.6-21 13-9.8 14.7-5.7 35.1 9 44.8L228.8 362l73.1 49.1c5.4 3.3 11.6 4.9 17.9 4.9s12.6-1.6 17.9-4.9l73.2-49.1 118.5-78.9c15-9.7 19.1-30.2 9.3-44.8z'/%3e%3c/svg%3e") no-repeat right 1rem center;
+   background-size: 20px 20px;
+   border-radius: var(--radius);
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;
+   transition: all .35s ease-in-out;
+}
+.wojo.form select.basic {
+   border: 0;
+   border-radius: 0;
+   padding: 1rem 0;
+   box-shadow: 0 2px 0 0 var(--grey-color-500);
+   background-color: rgba(255, 255, 255, 0);
+}
+.wojo.form select:focus {
+   box-shadow: var(--shadow-color) 0 0 2px 0, var(--shadow-color) 0px 12px 24px -4px, 0 0 0 1px var(--primary-color);
+   background: var(--white-color) url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 640' %3E%3Cpath d='M538.7 401.7c-9.8 14.7-30.2 18.8-44.9 9l-173.8-115.6-173.7 115.6c-7.3 4.9-15.9 5.6-24 4-8-1.6-16.1-5.6-21-13-9.8-14.7-5.7-35.1 9-44.8l118.5-78.9 73.1-49.1c5.4-3.3 11.6-4.9 17.9-4.9s12.6 1.6 17.9 4.9l73.2 49.1 118.5 78.9c15 9.7 19.1 30.2 9.3 44.8zz'/%3E%3C/svg%3E") no-repeat right 1rem center;
+   background-size: 20px 20px;
+}
+.wojo.form select.basic:focus {
+   box-shadow: 0 1px 0 0 var(--primary-color);
+}
+.wojo.form select option {
+   font-size: .913rem;
+}
+.wojo.form select:-moz-focusring {
+   color: transparent;
+   text-shadow: 0 0 0 var(--dark-color)
+}
+.wojo.form select:-moz-focusring * {
+   color: var(--dark-color);
+   text-shadow: none;
+}
+/* == File Upload == */
+.wojo.file {
+   display: flex;
+   flex-flow: row wrap;
+   position: relative;
+}
+.wojo.file > input,
+.wojo.file > div {
+   flex: 1 1 0;
+   min-width: 0;
+}
+.wojo.file > div {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+}
+.wojo.file > div .label {
+   position: absolute;
+   right: .5rem;
+   top: 50%;
+   font-size: .750rem;
+   width: 1rem;
+   height: 1rem;
+   font-weight: 500;
+   border-radius: var(--radius);
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+   background-color: var(--dark-color-shadow);
+   box-shadow: 1px 1px 0 0 rgba(255, 255, 255, 0.1);
+}
+/* == Image Select == */
+.wavatar-dropzone {
+   position: relative;
+   width: 150px;
+   height: 150px;
+   overflow: hidden;
+   display: flex;
+   flex-flow: row wrap;
+   text-align: center;
+   background-color: var(--white-color);
+   border-radius: .5rem;
+   padding: 0;
+   margin: 0 auto;
+   outline: var(--grey-color-500) dashed 2px;
+   outline-offset: 0;
+   align-items: center;
+   transition: all 0.2s ease-in-out;
+}
+.wavatar-dropzone.left {
+   margin: 0;
+}
+.wavatar-dropzone > div {
+   flex: 1 1 0;
+   min-width: 0;
+   cursor: pointer;
+}
+.wavatar-dropzone img {
+   max-width: 150px;
+   max-height: 150px;
+   vertical-align: middle;
+   border-radius: .5rem;
+   z-index: 3
+}
+.wavatar-dropzone [type="file"] {
+   position: absolute;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   padding: 0;
+   margin: 0;
+   cursor: pointer;
+   opacity: 0
+}
+.wavatar-focus,
+.wavatar-dropzone:hover {
+   color: var(--primary-color);
+   outline-color: var(--primary-color);
+   box-shadow: 0 0 3rem 0 var(--shadow-color);
+}
+.wavatar-accept {
+   outline-color: var(--positive-color);
+   color: var(--positive-color);
+}
+.wavatar-enter {
+   color: var(--secondary-color);
+   outline-color: var(--secondary-color);
+}
+.wavatar-reject {
+   color: var(--negative-color);
+   outline-color: var(--negative-color);
+}
+/* == Uploader == */
+.wojo.basic.uploader {
+   border: 0;
+   width: 100%;
+   padding: 0;
+   margin-bottom: 0;
+   font-size: 1rem;
+   text-align: left;
+}
+.wojo.uploader-active {
+   border-color: var(--secondary-color);
+}
+.wojo.uploader div.content input,
+.wojo.button.uploader input {
+   position: absolute;
+   top: 0;
+   left: 0;
+   margin: 0;
+   border: 0;
+   opacity: 0;
+   width: 100%;
+   height: 100%;
+   direction: ltr;
+   cursor: pointer;
+}
+/* == Checkbox == */
+.wojo.checkbox {
+   position: relative;
+   padding: 0 0 0 2.5rem;
+   text-align: left;
+   line-height: 1;
+   margin-bottom: 1.5em;
+}
+.wojo.checkbox.inline {
+   display: inline-flex;
+   margin-right: 1.5em;
+}
+.wojo.checkbox.inline > * {
+   flex: 0 0 auto;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   text-align: center;
+   max-width: 100%;
+}
+.wojo.checkbox label {
+   cursor: pointer;
+   color: var(--grey-color);
+   font-weight: 500;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+.wojo.checkbox label::before,
+.wojo.checkbox label::after {
+   content: '';
+   position: absolute;
+   top: 50%;
+}
+.wojo.checkbox.radio label::before,
+.wojo.checkbox.radio label::after {
+   border-radius: 50%;
+}
+.wojo.checkbox label::before {
+   left: 0;
+   width: 1.25rem;
+   height: 1.25rem;
+   border-radius: .250rem;
+   background: var(--white-color);
+   border: 2px solid var(--grey-color-500);
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+.wojo.checkbox label::after {
+   left: .1250rem;
+   width: 1rem;
+   height: 1rem;
+   margin: -.5rem 0 0;
+   opacity: 0;
+   background: var(--primary-color);
+   border-radius: .125rem;
+   -webkit-transform: translate3d(-20px, 0, 0) scale(0.5);
+   transform: translate3d(-20px, 0, 0) scale(0.5);
+   transition: all .35s ease;
+}
+.wojo.checkbox.radio label::before {
+   width: 1.5rem;
+   height: 1.5rem;
+}
+.wojo.checkbox.radio label::after {
+   left: .250rem;
+}
+.wojo.checkbox.small label::before {
+   width: 1rem;
+   height: 1rem;
+}
+.wojo.checkbox.small label::after {
+   width: 0.75rem;
+   height: 0.75rem;
+   margin: -.35rem 0 0;
+}
+.wojo.checkbox input[type="radio"],
+.wojo.checkbox input[type="checkbox"] {
+   position: absolute;
+   top: 0;
+   left: -9999px;
+   visibility: hidden;
+}
+.wojo.checkbox input[type="radio"]:checked + label:after,
+.wojo.checkbox input[type="checkbox"]:checked + label:after {
+   -webkit-transform: translate3d(0, 0, 0);
+   transform: translate3d(0, 0, 0);
+   opacity: 1;
+   transition: all .20s ease;
+}
+.wojo.checkbox input[type="radio"]:disabled + label:after,
+.wojo.checkbox input[type="checkbox"]:disabled + label:after,
+.wojo.checkbox input[type="radio"]:disabled + label:before,
+.wojo.checkbox input[type="checkbox"]:disabled + label:before {
+   opacity: .25;
+}
+/* == Toggle == */
+.wojo.toggle.checkbox {
+   padding: 0 0 0 3.5rem;
+}
+.wojo.toggle.checkbox label::before,
+.wojo.toggle.checkbox label::after {
+   content: "";
+   position: absolute;
+   margin: 0;
+   outline: 0;
+   top: 50%;
+   -webkit-transform: translate(0, -50%);
+   transform: translate(0, -50%);
+   transition: all 0.3s ease;
+}
+.wojo.toggle.checkbox label::before {
+   left: 0;
+   width: 2.5rem;
+   height: .875rem;
+   background-color: var(--grey-color-500);
+   border-radius: .5rem;
+   border: 0;
+}
+.wojo.toggle.checkbox label::after {
+   left: 0;
+   opacity: 1;
+   width: 1.250rem;
+   height: 1.250rem;
+   background-color: var(--white-color);
+   border: 1px solid var(--grey-color-500);
+   border-radius: 50%;
+   box-shadow: 0 3px 6px -2px rgba(0, 0, 0, 0.1);
+}
+.wojo.toggle.checkbox input[type="radio"]:checked + label:before,
+.wojo.toggle.checkbox input[type="checkbox"]:checked + label:before {
+   background-color: var(--primary-color);
+}
+.wojo.toggle.checkbox input[type="radio"]:checked + label:after,
+.wojo.toggle.checkbox input[type="checkbox"]:checked + label:after {
+   border-color: var(--primary-color);
+   -webkit-transform: translate(90%, -50%);
+   transform: translate(90%, -50%);
+}
+.wojo.checkbox input[type="radio"]:checked + label,
+.wojo.checkbox input[type="checkbox"]:checked + label {
+   color: var(--body-color)
+}
+.wojo.checkbox.fitted {
+   margin-bottom: 0
+}
+/* == Fields == */
+.wojo.fields {
+   display: flex;
+   flex-direction: row;
+   margin-left: -2em;
+}
+.wojo.fields .field {
+   flex: 1 1 0;
+   min-width: 0;
+   padding-left: 2em;
+   margin-bottom: 2em;
+}
+.wojo.fields .field.auto {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   white-space: nowrap;
+}
+.wojo.block.fields {
+   display: flex;
+   flex-direction: column;
+   align-items: stretch;
+   margin-left: 0;
+   margin-bottom: 0;
+}
+.wojo.block.fields .field {
+   flex: 0 1 auto;
+   align-self: auto;
+   min-width: 0;
+   padding-left: 0;
+   margin-bottom: 2em;
+}
+.wojo.fields .field.labeled > label {
+   margin-bottom: 0;
+   justify-content: flex-end;
+}
+.wojo.fields .field > p {
+   margin-top: 1rem;
+}
+.wojo.fields .field.labeled > p {
+   text-align: right;
+   margin-top: .25rem;
+}
+.wojo.fields .field.one.wide {
+   flex: 0 0 10%;
+   max-width: 10%;
+}
+.wojo.fields .field.two.wide {
+   flex: 0 0 20%;
+   max-width: 20%;
+}
+.wojo.fields .field.three.wide {
+   flex: 0 0 30%;
+   max-width: 30%;
+}
+.wojo.fields .field.four.wide {
+   flex: 0 0 40%;
+   max-width: 40%;
+}
+.wojo.fields .field.five.wide {
+   flex: 0 0 50%;
+   max-width: 50%;
+}
+.wojo.fields .field.six.wide {
+   flex: 0 0 60%;
+   max-width: 60%;
+}
+.wojo.fields .field.seven.wide {
+   flex: 0 0 70%;
+   max-width: 70%;
+}
+.wojo.fields .field.eight.wide {
+   flex: 0 0 80%;
+   max-width: 80%;
+}
+.wojo.fields .field.nine.wide {
+   flex: 0 0 90%;
+   max-width: 90%;
+}
+.wojo.inline.fields {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+}
+.wojo.inline.fields .field {
+   flex: 0 1 auto;
+   margin-bottom: 0;
+}
+.wojo.small.fields {
+   margin-left: -1rem;
+}
+.wojo.small.fields .field {
+   padding-left: 1rem;
+   margin-bottom: 1rem;
+}
+.wojo.fields .basic.field {
+   margin-bottom: 0;
+}
+/* == Disabled == */
+.wojo.fields.disabled .field,
+.wojo.fields .field :disabled {
+   pointer-events: none;
+   opacity: .85;
+}
+.wojo.fields .field.disabled label {
+   opacity: .5;
+}
+.wojo.fields .field.disabled :disabled {
+   opacity: 1;
+}
+/* == Date Picker == */
+.wojo.calendar {
+   position: fixed;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   visibility: hidden;
+   opacity: 0;
+   background-color: transparent;
+   transition: background-color .2s linear, opacity .2s ease;
+   z-index: 1200;
+   overflow: hidden;
+}
+.wojo.calendar.static {
+   position: relative;
+   visibility: visible;
+   opacity: 1;
+   z-index: auto;
+   overflow: inherit;
+}
+.wojo.calendar.active {
+   visibility: visible;
+   opacity: 1;
+   background-color: rgba(0, 0, 0, 0.75);
+}
+.wojo.calendar.inactive {
+   opacity: 0;
+   background-color: transparent;
+}
+.wojo.calendar .container {
+   line-height: normal;
+   position: absolute;
+   display: flex;
+   flex-direction: column;
+   left: 50%;
+   bottom: 2rem;
+   min-width: 280px;
+   overflow: hidden;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   border-radius: 1rem;
+   -webkit-transform: translateX(-50%) scale(1.05) perspective(1px);
+   transform: translateX(-50%) scale(1.05) perspective(1px);
+   box-shadow: 0 11px 15px -7px rgba(0, 0, 0, 0.2), 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12);
+   transition: transform .25s ease, opacity .25s ease, -webkit-transform .25s ease;
+}
+.wojo.calendar.active .container {
+   -webkit-transform: translateX(-50%) scale(1);
+   transform: translateX(-50%) scale(1);
+}
+.wojo.calendar .header {
+   padding: 1.5rem;
+   color: var(--white-color);
+   background-color: var(--primary-color);
+}
+.wojo.calendar.static .calnav h3 {
+   padding: 1rem;
+   text-align: center;
+   line-height: 2.5rem;
+}
+.wojo.calendar.static .calnav h3 .year {
+   margin-left: 1rem
+}
+.wojo.calendar.static .header {
+   color: #fff;
+   background-color: var(--primary-color);
+   display: flex;
+   flex-flow: wrap;
+   border-radius: 1rem 1rem 0 0;
+}
+.wojo.calendar.static .header > div {
+   text-align: center;
+   font-size: .750rem;
+   flex: 0 0 Calc(100% / 7);
+   max-width: Calc(100% / 7);
+   font-weight: 700;
+}
+.wojo.calendar.static section {
+   display: flex;
+   border-left: 1px solid var(--grey-color-500);
+}
+.wojo.calendar.static section > div {
+   flex: 0 0 Calc(100% / 7);
+   max-width: Calc(100% / 7);
+   padding: 2rem;
+   flex-flow: column;
+   flex-flow: row wrap;
+   border-right: 1px solid var(--grey-color-500);
+   border-bottom: 1px solid var(--grey-color-500);
+}
+.wojo.calendar.static section > div.empty {
+   background-color: var(--grey-color-100);
+}
+.wojo.calendar.static section > div.today {
+   background-color: var(--primary-color-inverted);
+}
+.wojo.calendar.static section > div .data {
+   display: flex;
+   flex-flow: row wrap;
+   align-items: center;
+}
+.wojo.calendar.static section > div time {
+   flex: 1 1 0;
+   min-width: 0;
+   font-weight: 500;
+   font-size: .750rem;
+}
+.wojo.calendar.static section > div .event {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   white-space: nowrap;
+   padding: .5rem;
+   line-height: .750rem;
+   border-radius: .250rem;
+   font-weight: 700;
+   color: #fff;
+   background-color: var(--positive-color);
+}
+.wojo.calendar .header .current.year {
+   display: block;
+   cursor: pointer;
+   font-weight: 500;
+   font-size: 1rem;
+}
+.wojo.calendar .header .current.year:hover {
+   color: var(--white-color);
+}
+.wojo.calendar .header .current.date {
+   font-size: 1.875rem;
+   font-weight: 300;
+}
+.wojo.calendar .content {
+   position: relative;
+   background-color: var(--white-color);
+   width: 400px;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   overflow: hidden;
+   flex: 0 1 auto;
+}
+.wojo.calendar .content .prev.link,
+.wojo.calendar .content .next.link {
+   position: absolute;
+   top: .5rem;
+   left: .875rem;
+   display: block;
+   text-align: center;
+   line-height: 2rem;
+   width: 2rem;
+   height: 2rem;
+   cursor: pointer;
+   border-radius: var(--radius);
+   opacity: 1;
+   transition: opacity .25s ease, background-color .25s linear;
+   z-index: 2;
+}
+.wojo.calendar .content .next.link {
+   left: auto;
+   right: .875rem;
+}
+.wojo.calendar .content .prev.link:hover,
+.wojo.calendar .content .next.link:hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.calendar .content .prev.link:active,
+.wojo.calendar .content .next.link:active {
+   background-color: var(--grey-color-500);
+}
+.wojo.calendar .content .views {
+   width: 1200px;
+   overflow: hidden;
+   opacity: 1;
+   transition: opacity .25s ease;
+   display: flex;
+   flex-flow: row wrap;
+}
+.wojo.calendar .content .sections {
+   padding: 0 1rem .750rem;
+   -webkit-transform: translateX(-100%) perspective(1px);
+   transform: translateX(-100%) perspective(1px);
+   transition: none;
+   flex: 0 0 calc(100% / 3);
+   max-width: calc(100% / 3);
+}
+.wojo.calendar .content .sections.animate-left {
+   -webkit-transform: translateX(-200%);
+   transform: translateX(-200%);
+   transition: -webkit-transform .25s cubic-bezier(0.4, 0.0, 0.2, 1);
+   transition: transform .25s cubic-bezier(0.4, 0.0, 0.2, 1), -webkit-transform .25s cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+.wojo.calendar .content .sections.animate-right {
+   -webkit-transform: translateX(0);
+   transform: translateX(0);
+   transition: -webkit-transform .25s cubic-bezier(0.4, 0.0, 0.2, 1);
+   transition: transform .25s cubic-bezier(0.4, 0.0, 0.2, 1), -webkit-transform .25s cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+.wojo.calendar .sections .heading {
+   text-align: center;
+   font-size: .875rem;
+   font-weight: 500;
+   cursor: pointer;
+   padding: 1rem 0;
+}
+.wojo.calendar .sections .weekdays {
+   display: flex;
+   flex-direction: row;
+   margin-bottom: .5rem;
+   background-color: var(--grey-color-100);
+   padding: .5rem 0;
+   border-top: 1px solid var(--grey-color-300);
+   border-bottom: 1px solid var(--grey-color-300);
+}
+.wojo.calendar .sections .weekdays span {
+   text-align: center;
+   font-size: .750rem;
+   flex: 0 0 Calc(100% / 7);
+   max-width: Calc(100% / 7);
+   font-weight: 700;
+}
+.wojo.calendar .sections .week {
+   display: flex;
+   flex-direction: row;
+}
+.wojo.calendar .sections .week .item {
+   flex: 0 0 Calc(100% / 7);
+   max-width: Calc(100% / 7);
+   text-decoration: none;
+   text-align: center;
+   font-size: .875rem;
+   outline: none;
+   cursor: pointer;
+   padding: 1.125rem .5rem;
+   line-height: 1rem;
+   position: relative;
+   transition: background-color .2s linear;
+}
+.wojo.calendar .sections .week .pm,
+.wojo.calendar .sections .week .nm {
+   color: var(--grey-color-500);
+}
+.sections .week .item.disabled {
+   cursor: not-allowed;
+   color: var(--grey-color-500);
+}
+.wojo.calendar .sections .week .item:not(.disabled):not(.selected):hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.calendar .sections .week .item:not(.disabled):not(.selected):active {
+   background-color: var(--grey-color-500);
+}
+.wojo.calendar .sections .week .item.current {
+   color: var(--primary-color);
+   background-color: var(--grey-color-300);
+   font-weight: 500;
+}
+.wojo.calendar .sections .week .item.pm,
+.dudp__cal-dates .item.nm {
+   color: var(--grey-color-500);
+}
+.wojo.calendar .sections .week .item.selected {
+   font-weight: normal;
+   color: var(--white-color);
+   background-color: var(--primary-color);
+   border-radius: var(--radius);
+}
+.wojo.calendar .sections .week .item.selected::before,
+.wojo.calendar .months .month.selected::before {
+   content: "";
+   position: absolute;
+   top: 2px;
+   right: 2px;
+   width: 0;
+   height: 0;
+   border-top: 6px solid var(--white-color);
+   border-left: 6px solid transparent;
+}
+.wojo.calendar .content .months {
+   display: flex;
+   flex-direction: column;
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   padding: 1.5rem;
+   opacity: 1;
+   -webkit-transform: scale(1) perspective(1px);
+   transform: scale(1) perspective(1px);
+   transition: transform .25s ease, opacity .25s ease, -webkit-transform .25s ease;
+}
+.wojo.calendar .months .month-row {
+   display: flex;
+   flex-direction: row;
+}
+.wojo.calendar .months .month {
+   flex: 0 0 25%;
+   max-width: 25%;
+   text-align: center;
+   font-size: .875rem;
+   cursor: pointer;
+   border-radius: var(--radius);
+   padding: 1rem;
+   position: relative;
+   transition: background-color .2s linear;
+}
+.wojo.calendar .months .month:hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.calendar .months .month:active {
+   background-color: var(--grey-color-500);
+}
+.wojo.calendar .months .month.selected {
+   font-weight: 500;
+   color: var(--white-color);
+   background-color: var(--primary-color);
+}
+.wojo.calendar .content .years {
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: var(--white-color);
+   opacity: 1;
+   transition: opacity .25s ease;
+   overflow-y: scroll;
+   overflow-x: hidden;
+}
+.wojo.calendar .years .year {
+   display: block;
+   padding: .5rem 0;
+   text-align: center;
+   font-size: 1rem;
+   cursor: pointer;
+   transition: background-color .2s linear;
+}
+.wojo.calendar .years .year:hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.calendar .years .year:active {
+   background-color: var(--grey-color-500);
+}
+.wojo.calendar .years .year.selected {
+   font-weight: 500;
+   font-size: 1.5rem;
+   color: var(--white-color);
+   background-color: var(--primary-color);
+}
+.wojo.calendar .content .actions {
+   padding: 0 .875rem .875rem;
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+}
+.wojo.calendar .content .actions .button {
+   font-size: .875rem;
+   padding: 0 1rem;
+   min-width: 2.5rem;
+   text-align: center;
+   text-transform: uppercase;
+   line-height: 2rem;
+   font-weight: 500;
+   cursor: pointer;
+   color: var(--primary-color);
+   border-radius: var(--radius);
+   border: 0;
+   background-color: var(--white-color);
+   transition: background-color .2s linear;
+}
+.wojo.calendar .content .actions .button.clear {
+   color: var(--negative-color);
+}
+.wojo.calendar .content .actions .button.today {
+   color: var(--positive-color);
+}
+.wojo.calendar .content .actions .button:hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.calendar .content .actions .button:active {
+   background-color: var(--grey-color-500);
+}
+.wojo.calendar .content .months.is-hidden,
+.wojo.calendar .content .prev.link.is-hidden,
+.wojo.calendar .content .next.link.is-hidden,
+.wojo.calendar .content .views.is-hidden,
+.wojo.calendar .content .years.is-hidden {
+   opacity: 0;
+   visibility: hidden;
+}
+.wojo.calendar .content .months.is-out {
+   opacity: 0;
+   -webkit-transform: scale(1.3);
+   transform: scale(1.3);
+}
+.wojo.calendar .content .views.is-out {
+   opacity: 0;
+}
+body[datepicker-display='on'] {
+   overflow: hidden;
+}
+/* == Time Picker == */
+.wojo.time.picker {
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: rgba(0, 0, 0, 0.75);
+   transition: background-color .28s ease;
+   z-index: 1200;
+}
+.wojo.time.picker.hidden {
+   display: none;
+}
+.wojo.time.picker.animate {
+   background-color: transparent;
+}
+.wojo.time.picker .container {
+   position: absolute;
+   display: flex;
+   flex-direction: column;
+   left: 50%;
+   top: 50%;
+   min-width: 280px;
+   opacity: 1;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+   border-radius: var(--radius);
+   -webkit-transform: translate(-50%, -50%) scale(1);
+   transform: translate(-50%, -50%) scale(1);
+   box-shadow: 0 11px 15px -7px rgba(0, 0, 0, 0.2), 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12);
+   transition: transform .28s ease, opacity .28s ease, -webkit-transform .28s ease;
+   overflow: hidden;
+}
+.wojo.time.picker .container.animate {
+   -webkit-transform: translateX(-50%) scale(1.05);
+   transform: translateX(-50%) scale(1.05);
+   opacity: 0;
+}
+.wojo.time.picker .header {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   font-size: 3rem;
+   padding: 1.5rem;
+   color: rgba(255, 255, 255, .5);
+   text-align: center;
+   background-color: var(--primary-color);
+}
+.wojo.time.picker .header > span {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   line-height: 3rem;
+   cursor: default;
+}
+.wojo.time.picker .header > span:not(.separator):not(.ampm) {
+   cursor: pointer;
+   margin: 0 var(--radius);
+}
+.wojo.time.picker .header .hour.active,
+.wojo.time.picker .header .minute.active {
+   color: var(--white-color);
+}
+.wojo.time.picker .header .ampm {
+   font-size: 1.5rem;
+}
+.wojo.time.picker .content {
+   position: relative;
+   padding: 1.5rem;
+   background-color: var(--white-color);
+}
+.wojo.time.picker .content .section {
+   position: relative;
+   width: 300px;
+   height: 300px;
+   margin-bottom: 1.5rem;
+   border-radius: var(--radius);
+}
+.wojo.time.picker .content .section .button.am,
+.wojo.time.picker .content .section .button.pm {
+   position: absolute;
+   bottom: 0;
+   z-index: 3;
+}
+.wojo.time.picker .content .section .button.am {
+   left: 0;
+}
+.wojo.time.picker .content .section .button.pm {
+   right: 0;
+}
+.wojo.time.picker .content .section .dot {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   padding: var(--radius);
+   background-color: var(--grey-color-300);
+   border-radius: 50%;
+}
+.wojo.time.picker .content .section .hours,
+.wojo.time.picker .content .section .minutes {
+   position: absolute;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 1;
+   -webkit-transform: scale(1);
+   transform: scale(1);
+   transition: transform .35s cubic-bezier(0.4, 0.0, 0.2, 1), opacity .35s ease, -webkit-transform .35s cubic-bezier(0.4, 0.0, 0.2, 1);
+   overflow: hidden;
+}
+.wojo.time.picker .content .section .hours.animate {
+   -webkit-transform: scale(1.2);
+   transform: scale(1.2);
+   opacity: 0;
+}
+.wojo.time.picker .content .section .minutes.animate {
+   -webkit-transform: scale(.8);
+   transform: scale(.8);
+   opacity: 0;
+}
+.wojo.time.picker .content .section .hours.hidden,
+.wojo.time.picker .content .section .minutes.hidden {
+   display: none;
+}
+.wojo.time.picker .content .section .digit {
+   position: absolute;
+   width: 50%;
+   top: 50%;
+   left: 0;
+   margin-top: -1.5rem;
+   -webkit-transform-origin: right center;
+   transform-origin: right center;
+   z-index: 1;
+}
+.wojo.time.picker .content .section .digit span {
+   display: inline-block;
+   width: 3rem;
+   height: 3rem;
+   line-height: 1.5rem;
+   text-align: center;
+   border-radius: var(--radius);
+   cursor: pointer;
+   font-size: 1rem;
+   font-weight: 500;
+   transition: background-color .28s, color .14s;
+}
+.wojo.time.picker .content .section .digit span small {
+   line-height: 1rem;
+   display: block;
+   font-size: .750rem;
+   font-weight: 400;
+}
+.wojo.time.picker .content .section .minutes .digit:not(.marker) {
+   margin-top: -.5rem;
+   height: .750rem;
+}
+.wojo.time.picker .content .section .minutes .digit:not(.marker) span {
+   width: .5rem;
+   height: .5rem;
+   line-height: .5rem;
+   margin-left: 2rem;
+   background-color: var(--grey-color-300);
+}
+.wojo.time.picker .content .section .digit.active span,
+.wojo.time.picker .content .section .minutes .digit.active:not(.marker) span,
+.wojo.time.picker .content .section .minutes .digit:not(.marker) span:hover,
+.wojo.time.picker .content .section .digit span:hover {
+   background-color: var(--primary-color);
+   color: var(--white-color);
+   z-index: 2;
+   -webkit-transform: scale(1.75);
+   transform: scale(1.75);
+}
+.wojo.time.picker .content .section .minutes .digit.marker {
+   margin-top: -.750rem;
+}
+.wojo.time.picker .content .section .minutes .digit.marker span {
+   width: 1.5rem;
+   height: 1.5rem;
+   line-height: 1.5rem;
+}
+.wojo.time.picker .actions {
+   margin: 0 -1rem -1rem;
+   text-align: right;
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+}
+.wojo.time.picker .actions .button {
+   font-size: .875rem;
+   padding: 0 1rem;
+   min-width: 2.5rem;
+   text-align: center;
+   text-transform: uppercase;
+   line-height: 2rem;
+   font-weight: 500;
+   cursor: pointer;
+   color: var(--primary-color);
+   border-radius: var(--radius);
+   border: 0;
+   background-color: var(--white-color);
+   transition: background-color .2s linear;
+}
+.wojo.time.picker .actions .button.cancel {
+   color: var(--negative-color);
+}
+.wojo.time.picker .actions .button.now {
+   color: var(--positive-color);
+}
+.wojo.time.picker .actions .button:hover {
+   background-color: var(--grey-color-300);
+}
+.wojo.time.picker .actions .button:active {
+   background-color: var(--grey-color-500);
+}
+body[timepicker-display='on'] {
+   overflow: hidden;
+}
+/* == Color Picker == */
+.wojocolors {
+   position: relative;
+}
+.wojocolors .input-swatch.is_input {
+   position: absolute;
+   background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), conic-gradient(rgb(204, 204, 204) 25%, rgb(255, 255, 255) 0deg, rgb(255, 255, 255) 50%, rgb(204, 204, 204) 0deg, rgb(204, 204, 204) 75%, rgb(255, 255, 255) 0deg) 0 0 / 8px 8px;
+   left: 2px;
+   top: 2px;
+   cursor: text;
+   padding: 0;
+   margin: 0;
+   border-radius: var(--radius);
+   display: block;
+}
+.wojocolors .input-swatch.is_button {
+   position: absolute;
+   left: 0;
+   top: 0;
+   border-radius: var(--radius);
+   cursor: pointer;
+}
+.wojocolors .input-swatch.is_button span::before,
+.wojocolors .input-swatch.is_button span::after {
+   font-family: "WojoIcons";
+   position: absolute;
+   content: "\ea45";
+   color: var(--white-color);
+   z-index: 5;
+   opacity: .5;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+}
+.wojocolors .input-swatch.is_button span::before {
+   content: "\ea46";
+   opacity: 1;
+}
+.wojocolors .input-swatch span {
+   width: calc(100% + 2px);
+   display: block;
+   border-radius: var(--radius);
+   height: calc(100% + 2px);
+   position: relative;
+   left: 50%;
+   top: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%)
+}
+/* Panel */
+.wojocolors .panel {
+   position: absolute;
+   padding: .5rem;
+   width: calc(320px + 2px);
+   height: auto;
+   z-index: 99999;
+   top: 100%;
+   background-color: var(--white-color);
+   border-radius: 1rem;
+   border: 1px solid var(--grey-color-300);
+   box-shadow: 0 11px 15px -7px var(--shadow-color), 0 24px 38px 3px var(--shadow-color), 0 9px 46px 8px var(--shadow-color);
+}
+.wojocolors.top .panel {
+   top: auto;
+   bottom: calc(2rem + 1rem + 2px);
+}
+.wojocolors.right .panel {
+   left: auto;
+   right: 0;
+}
+.wojocolors .panel .wrapper {
+   display: flex;
+   flex-flow: row wrap;
+}
+.wojocolors .panel.minicolors-visible {
+   display: block;
+}
+.wojocolors .grid {
+   position: relative;
+   height: 150px;
+   overflow: hidden;
+   flex: 0 0 240px;
+   max-width: 240px;
+   border-radius: .875rem;
+   background-image: linear-gradient(to top, #000, rgba(204, 154, 129, 0));
+   cursor: grab;
+}
+.wojocolors .hue-slider,
+.wojocolors .alpha-slider {
+   border-radius: 1rem;
+   position: relative;
+   margin-left: .5rem;
+   flex: 0 0 1.5rem;
+   max-width: 1.5rem;
+   background: linear-gradient(to top, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%);
+   cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16px' height='16px' viewBox='0 0 448 512'%3E%3Cpath d='M296 391.1a23.93 23.93 0 0 0-16.97 7.031L248 430.1v-86.06c0-13.25-10.75-24-24-24s-24 10.75-24 24v86.06l-31.03-31.03c-4.67-4.77-10.87-7.97-16.97-7.97-12.82 0-24 10.33-24 24a23.93 23.93 0 0 0 7.031 16.97l72 72.01C209.6 507.5 215.5 512 224 512s14.4-4.461 16.97-7.031l72-72.01C317.7 428.3 320 422.1 320 415.1c0-12.8-11.2-24-24-24zm-144-272a23.93 23.93 0 0 0 16.97-7.031L200 81.91v86.07c0 13.25 10.75 24 24 24s24-10.75 24-24V81.91l31.03 31.03c4.67 4.66 10.77 6.16 16.97 6.16 18.79 0 24-17.2 24-23.1a23.93 23.93 0 0 0-7.031-16.97l-72-72.01C234.9.977 227.7 0 223.1 0c-2.8 0-10 .969-16.1 7l-72 72.01c-4.7 4.69-7 10.83-7 16.97 0 13.72 11.2 23.12 24 23.12zM424 232H24c-13.25 0-24 10.7-24 23.1S10.75 280 24 280h400c13.25 0 24-10.76 24-24.01S437.3 232 424 232z'/%3E%3C/svg%3E") 16 16, row-resize;
+}
+.wojocolors .alpha-slider {
+   background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 100%), conic-gradient(rgb(204, 204, 204) 25%, rgb(255, 255, 255) 0deg, rgb(255, 255, 255) 50%, rgb(204, 204, 204) 0deg, rgb(204, 204, 204) 75%, rgb(255, 255, 255) 0deg) 0 0 / 8px 8px;
+   display: none;
+}
+.wojocolors.has-opacity .alpha-slider {
+   display: block;
+}
+/* == picker == */
+.wojocolors .grid .picker {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   border: .250rem solid rgba(255, 255, 255, 0.85);
+   border-radius: 100%;
+   width: 1.5rem;
+   height: 1.5rem;
+   box-shadow: 0 0 3px 1px var(--shadow-color);
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   background: none;
+}
+.wojocolors .grid .picker > div {
+   box-sizing: content-box;
+}
+.wojocolors .hue-slider .picker,
+.wojocolors .alpha-slider .picker {
+   position: absolute;
+   top: 0;
+   left: 50%;
+   border: .250rem solid rgba(255, 255, 255, 0.85);
+   border-radius: 100%;
+   width: calc(1.5rem - 2px);
+   height: calc(1.5rem - 2px);
+   margin-top: calc((1.5rem / 2) * -1);
+   -webkit-transform: translateX(-50%);
+   transform: translateX(-50%);
+   box-shadow: 0 11px 15px -7px var(--shadow-color), 0 24px 38px 3px var(--shadow-color), 0 9px 46px 8px var(--shadow-color);
+   background: transparent;
+}
+.wojocolors .swatches li .color {
+   width: 2rem;
+   display: block;
+   height: 2rem;
+   border-radius: var(--radius);
+}
+.wojocolors .swatches,
+.wojocolors .swatches li {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   overflow: hidden;
+}
+.wojocolors .swatches {
+   display: flex;
+   flex-flow: row wrap;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+.wojocolors .swatches li {
+   align-self: auto;
+   padding-left: calc(var(--gutter) / 4);
+   margin-bottom: calc(var(--gutter) / 4);
+   flex: 0 0 calc(100% / 6);
+   max-width: calc(100% / 6);
+   cursor: pointer;
+   border-radius: var(--radius);
+}
+.wojocolors .swatches li.selected span {
+   box-shadow: inset 0 0 0 .250rem var(--light-color)
+}
+/* == Range Slider == */
+.wojo.range,
+.wojo.range .fill {
+   border-radius: var(--radius);
+}
+.wojo.range {
+   background: var(--grey-color-300);
+   position: relative;
+}
+.wojo.range.horizontal {
+   height: .5rem;
+   width: 100%;
+}
+.wojo.range.vertical {
+   width: 20px;
+   min-height: 150px;
+   max-height: 100%;
+   height: 100%;
+}
+.wojo.range.disabled {
+   opacity: 0.4;
+}
+.wojo.range .fill {
+   background: var(--primary-color);
+   position: absolute;
+}
+.wojo.range.horizontal .fill {
+   top: 0;
+   height: 100%;
+}
+.wojo.range.vertical .fill {
+   bottom: 0;
+   width: 100%;
+}
+.wojo.range .handle {
+   cursor: pointer;
+   display: block;
+   width: 1.5rem;
+   height: 1.5rem;
+   position: absolute;
+   background: var(--white-color) linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+   box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(34, 36, 38, 0.15) inset;
+   transition: background 0.3s ease;
+   border-radius: 50%;
+   z-index: 2;
+}
+.wojo.range .handle:active,
+.wojo.range.active .handle {
+   background: var(--white-color);
+}
+.wojo.range.horizontal .handle {
+   top: 50%;
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+   touch-action: pan-y;
+   -ms-touch-action: pan-y;
+}
+.wojo.range.vertical .handle {
+   left: -10px;
+   touch-action: pan-x;
+   -ms-touch-action: pan-x;
+}
+.wojo.range .counter {
+   position: absolute;
+   right: 0;
+   top: -1.5rem;
+   font-weight: 500;
+   font-size: .750rem;
+}
+.wojo.range .labels {
+   width: 100%;
+   display: flex;
+   padding-top: .5rem;
+   justify-content: space-between;
+   z-index: 1;
+}
+.wojo.range .labels .label {
+   font-size: 0.75rem;
+   font-weight: 500;
+   position: relative;
+   padding-top: .5rem;
+}
+.wojo.range .labels .label::before {
+   content: "";
+   height: .5rem;
+   width: 1px;
+   background: var(--dark-color-shadow);
+   position: absolute;
+   top: 0;
+   left: 50%;
+}
+.wojo.range .labels .label:first-child::before {
+   left: 0;
+}
+.wojo.range .labels .label:last-child::before {
+   right: 0;
+   left: auto;
+}
+/* == Editable == */
+[data-editable=true] {
+   position: relative;
+}
+[data-editable=true]::after {
+   content: '';
+   position: absolute;
+   bottom: -.250rem;
+   left: 0;
+   width: 100%;
+   height: 2px;
+   border-bottom: 2px dashed var(--grey-color-500)
+}
+.wojo.editable {
+   background-color: var(--white-color);
+   border: 0;
+   -webkit-appearance: none;
+   padding: .125rem 1rem !important;
+   outline: var(--primary-color) solid 2px;
+   outline-offset: 0;
+   border-radius: var(--radius);
+   box-shadow: 0 50px 100px rgba(50, 50, 93, .1), 0 15px 35px rgba(50, 50, 93, .15), 0 5px 15px rgba(0, 0, 0, .1);
+}
+/* == Sizes == */
+.wojo.small.form textarea,
+.wojo.small.form input:not([type]),
+.wojo.small.form input[type="date"],
+.wojo.small.form input[type="datetime-local"],
+.wojo.small.form input[type="email"],
+.wojo.small.form input[type="number"],
+.wojo.small.form input[type="password"],
+.wojo.small.form input[type="search"],
+.wojo.small.form input[type="tel"],
+.wojo.small.form input[type="time"],
+.wojo.small.form input[type="text"],
+.wojo.small.form input[type="file"],
+.wojo.small.form input[type="url"] {
+   line-height: .875rem;
+   padding: 0 1.5rem;
+   font-size: .875rem;
+   height: calc(1.5rem + 1rem + 2px);
+}
+.wojo.small.form textarea:not([rows]),
+.wojo.form textarea.small:not([rows]) {
+   height: 6rem;
+   min-height: 4rem;
+   max-height: 12rem;
+   padding: 1rem 1.5rem;
+}
+.wojo.small.form select,
+.wojo.form select.small {
+   height: calc(1.5rem + 1rem + 2px);
+}
+.wojo.tiny.form textarea:not([rows]),
+.wojo.form textarea.tiny:not([rows]) {
+   height: 3.188rem;
+   min-height: 3.188rem;
+   max-height: 12rem;
+   padding: .5rem 1rem;
+}
+.wojo.small.form input.basic {
+   padding: .875rem 0;
+}
+.wojo.small.fields .field {
+   margin-bottom: 1rem;
+}
+.wojo.small.fields .field.basic {
+   margin-bottom: 0;
+}
+.wojo.form {
+   font-size: 1rem;
+}
+.wojo.small.range,
+.wojo.small.range .fill {
+   border-radius: .125rem;
+}
+.wojo.small.range.horizontal {
+   height: .25rem;
+}
+.wojo.small.range .handle {
+   width: 1rem;
+   height: 1rem;
+}
+/* == Mobile == */
+@media screen and (max-width: 768px) {
+   .wojo.fields {
+      display: flex;
+      flex-direction: column;
+      margin-left: 0;
+   }
+   .wojo.fields .field {
+      flex: 0 1 auto;
+      max-width: 100%;
+      -ms-grid-row-align: stretch;
+      align-self: stretch;
+      min-width: 0;
+      padding-left: 0
+   }
+   .wojo.fields .field.one.wide,
+   .wojo.fields .field.two.wide,
+   .wojo.fields .field.three.wide,
+   .wojo.fields .field.four.wide,
+   .wojo.fields .field.five.wide,
+   .wojo.fields .field.six.wide,
+   .wojo.fields .field.seven.wide,
+   .wojo.fields .field.eight.wide,
+   .wojo.fields .field.nine.wide {
+      flex: 0 0 100%;
+      max-width: 100%;
+   }
+   .wojo.fields .field.labeled {
+      margin-bottom: 0
+   }
+   .wojo.fields .field.labeled > label {
+      justify-content: flex-start;
+      margin-bottom: 1rem;
+   }
+   .wojo.inline.fields {
+      flex-direction: row;
+      align-items: center;
+      margin-left: -2rem;
+   }
+   .wojo.inline.fields .field {
+      flex: 0 1 auto;
+      padding-left: 2em;
+   }
+   .wojo.calendar.static section > div {
+      padding: 1rem;
+   }
+}

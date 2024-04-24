@@ -1,0 +1,9 @@
+{
+    "Upevent": {
+        "_PLG_UE_ERR": "Selecteer ten minste één evenement.",
+        "_PLG_UE_NOEVENT": "--- Minimaal één evenement aanmaken ---",
+        "_PLG_UE_SELECT": "Selecteer evenementen",
+        "_PLG_UE_TITLE1": "Beheer aankomende evenementen",
+        "_PLG_UE_UPDATED": "De instellingen voor aankomende evenementen zijn succesvol bijgewerkt!"
+    }
+}

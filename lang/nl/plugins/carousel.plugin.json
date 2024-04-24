@@ -1,0 +1,22 @@
+{
+    "Carousel": {
+        "_PLG_CRL_ADDED_OK": "Schijf [NAME] is succesvol toegevoegd.",
+        "_PLG_CRL_DEL_OK": "Speler [NAME] is succesvol verwijderd.",
+        "_PLG_CRL_NEW": "Nieuwe speler",
+        "_PLG_CRL_NOPLAY": "Je hebt nog geen speler-plug-ins...",
+        "_PLG_CRL_SUB1": "Hier kunt u uw carrouselspeler-plug-in configureren.",
+        "_PLG_CRL_SUB10": "Wacht even",
+        "_PLG_CRL_SUB11": "Toon punten",
+        "_PLG_CRL_SUB12": "Pijlen tonen",
+        "_PLG_CRL_SUB13": "Oneindige lus",
+        "_PLG_CRL_SUB14": "Reactie-elementen",
+        "_PLG_CRL_SUB2": "Voeg een nieuwe schijf toe",
+        "_PLG_CRL_SUB7": "Automatisch afspelen",
+        "_PLG_CRL_SUB8": "Artikelmarge",
+        "_PLG_CRL_SUB9": "Centrum",
+        "_PLG_CRL_TITLE": "Beheer de Carousel Player CMS-plug-in",
+        "_PLG_CRL_TITLE1": "Voeg een lezer toe",
+        "_PLG_CRL_TITLE2": "Speler bewerken",
+        "_PLG_CRL_UPDATE_OK": "Drive [NAME] is succesvol geüpdatet."
+    }
+}

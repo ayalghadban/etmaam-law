@@ -1,0 +1,23 @@
+{
+    "Faq": {
+        "_MOD_FAQ_ADDED": "Question [NAME] added successfully!",
+        "_MOD_FAQ_CAT_ADDED_OK": "Category [NAME] added successfully!",
+        "_MOD_FAQ_CAT_DEL_OK": "Category [NAME] deleted successfully!",
+        "_MOD_FAQ_CAT_UPDATE_OK": "Category [NAME] updated successfully!",
+        "_MOD_FAQ_DEL_OK": "Question [NAME] deleted successfully!",
+        "_MOD_FAQ_INFO": "Most Common Questions",
+        "_MOD_FAQ_NEW": "New Question",
+        "_MOD_FAQ_NOFAQF": "Sorry we don't have any questions yet...",
+        "_MOD_FAQ_NOFAQS": "You don't have any question yet. Please add.",
+        "_MOD_FAQ_QUESTION": "Question",
+        "_MOD_FAQ_SUB": "Frequently Asked Questions",
+        "_MOD_FAQ_SUB1": "New Category",
+        "_MOD_FAQ_SUB2": "Update Category",
+        "_MOD_FAQ_SUB3": "FAQ Categories",
+        "_MOD_FAQ_TITLE": "F.A.Q. Manager",
+        "_MOD_FAQ_TITLE1": "Question Edit",
+        "_MOD_FAQ_TITLE2": "Add Question",
+        "_MOD_FAQ_UPDATE": "Update Question",
+        "_MOD_FAQ_UPDATED": "Question [NAME] updated successfully!"
+    }
+}

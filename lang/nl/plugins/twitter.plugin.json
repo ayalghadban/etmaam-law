@@ -1,0 +1,15 @@
+{
+    "Twitter": {
+        "_PLG_TW_COUNT": "Artikelen om weer te geven",
+        "_PLG_TW_KEY": "Verbruikssleutel",
+        "_PLG_TW_SECRET": "Consumentengeheim",
+        "_PLG_TW_SHOW_IMG": "Toon avatar",
+        "_PLG_TW_TITLE": "Beheer de nieuwste Twitter CMS-plug-in",
+        "_PLG_TW_TOKEN": "Toegangstoken",
+        "_PLG_TW_TRANS": "Overgangssnelheid",
+        "_PLG_TW_TRANS_T": "Overgangstijd",
+        "_PLG_TW_TSECRET": "Toegangstokengeheim",
+        "_PLG_TW_UPDATED": "Twitter-instellingen zijn succesvol bijgewerkt.",
+        "_PLG_TW_USER": "Je gebruikersnaam"
+    }
+}

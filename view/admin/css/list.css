@@ -1,0 +1,348 @@
+/* == List == */
+ul.wojo.list,
+ol.wojo.list {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+ul.wojo.list li,
+ol.wojo.list li {
+   list-style-type: none;
+   list-style-position: outside;
+   padding: 0;
+}
+ul.wojo.list ul,
+ol.wojo.list ol,
+ul ul,
+ol ol {
+   margin: 0;
+   padding: 0 0 0 2rem;
+}
+/* == Styled == */
+.wojo.styled.list li {
+   position: relative;
+   padding-left: 1.750rem;
+}
+.wojo.styled.list li::before,
+.wojo.styled.list li::after {
+   font-family: 'WojoIcons';
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 1.25rem;
+   height: 1.25rem;
+   opacity: 0.5;
+}
+.wojo.styled.check.list li::before {
+   content: "\eb0b";
+}
+.wojo.styled.check.list li::after {
+   content: "\eb0c";
+   opacity: 1;
+}
+.wojo.styled.caret.list li::before {
+   content: "\e9aa";
+}
+.wojo.styled.caret.list li::after {
+   content: "\e9ab";
+   opacity: 1;
+}
+.wojo.styled.chevron.list li::before {
+   content: "\e9f5";
+   opacity: 1;
+}
+.wojo.styled.primary.list li::before,
+.wojo.styled.primary.list li::after {
+   color: var(--primary-color)
+}
+.wojo.styled.secondary.list li::before,
+.wojo.styled.secondary.list li::after {
+   color: var(--secondary-color)
+}
+.wojo.styled.positive.list li::before,
+.wojo.styled.positive.list li::after {
+   color: var(--positive-color)
+}
+.wojo.styled.negative.list li::before,
+.wojo.styled.negative.list li::after {
+   color: var(--negative-color)
+}
+/* == Content List == */
+.wojo.list > .item {
+   display: flex;
+   flex-flow: row wrap;
+   position: relative;
+   margin-bottom: .5rem;
+}
+.wojo.list > .item > .image {
+   margin-right: 1rem;
+}
+.wojo.list .item > .content,
+.wojo.list .item > .icon:not(.button):not(.flag) {
+   flex: 1 1 0;
+   min-width: 0;
+}
+.wojo.list .item > .icon:not(.button):not(.flag) {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   margin-right: 1rem;
+}
+.wojo.list .item > .content.auto {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+}
+.wojo.list > .item.icon:only-child,
+.wojo.list > .item .image:only-child {
+   -ms-grid-row-align: center;
+   align-self: center;
+}
+.wojo.list > .item .header {
+   line-height: 1rem;
+   margin-bottom: .250rem;
+   font-weight: 600;
+}
+.wojo.list > .item .description {
+   margin-left: .5rem;
+   font-weight: 500;
+}
+.wojo.list > .item:last-child {
+   margin-bottom: 0
+}
+/* == Horizontal List == */
+.wojo.horizontal.list {
+   display: inline-flex;
+   flex-flow: row wrap;
+}
+.wojo.horizontal.list > .item {
+   margin-left: 1rem;
+   align-items: center;
+   margin-bottom: 0;
+}
+.wojo.horizontal.list:not(.celled) > .item:first-child {
+   margin-left: 0;
+   padding-left: 0;
+}
+/* == divided == */
+.wojo.horizontal.divided.list > .item::before,
+.wojo.horizontal.celled.list > .item::before,
+.wojo.horizontal.celled.list > .item:first-child::after {
+   position: absolute;
+   content: "";
+   top: 50%;
+   right: -1rem;
+   height: 70%;
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+   width: 1px;
+   background-color: var(--grey-color-500);
+}
+.wojo.horizontal.divided.list > .item:last-child::before {
+   display: none;
+}
+.wojo.horizontal.celled.list > .item:first-child {
+   padding-left: 1rem;
+   margin-left: 0;
+}
+.wojo.horizontal.celled.list > .item:last-child {
+   padding-right: 0;
+}
+.wojo.horizontal.celled.list > .item:first-child::after {
+   right: auto;
+   left: 0;
+}
+.wojo.horizontal.divided.list > .item,
+.wojo.horizontal.celled.list > .item {
+   padding-left: 1rem;
+}
+.wojo.divided.list:not(.horizontal) > .item {
+   padding-top: .5rem;
+   border-top: 1px solid var(--grey-color-500);
+}
+.wojo.divided.list:not(.horizontal) > .item:first-child {
+   border-top: none;
+   padding-top: 0;
+}
+.wojo.horizontal.block.list {
+   display: flex;
+}
+/* == celled == */
+.wojo.celled.list:not(.horizontal) > .item {
+   padding-top: .5rem;
+   border-top: 1px solid var(--grey-color-500);
+}
+.wojo.celled.list:not(.horizontal) > .item:last-child {
+   border-bottom: 1px solid var(--grey-color-500);
+   padding-bottom: .5rem;
+}
+/* == Sizes == */
+.wojo.mini.list {
+   font-size: 0.750rem;
+}
+.wojo.small.list,
+.wojo.small.items {
+   font-size: .875rem;
+}
+.wojo.list,
+.wojo.items {
+   font-size: 1rem;
+}
+/* == Relaxed == */
+.wojo.relaxed.list.horizontal > .item {
+   margin-left: 2rem;
+}
+.wojo.horizontal.divided.relaxed.list > .item::before,
+.wojo.horizontal.celled.relaxed.list > .item::before,
+.wojo.horizontal.celled.relaxed.list > .item:first-child::after {
+   right: -1.5rem;
+}
+.wojo.very.relaxed.list.horizontal > .item {
+   margin-left: 4rem;
+}
+.wojo.relaxed.list.horizontal > .item:first-child,
+.wojo.very.relaxed.list.horizontal > .item:first-child {
+   margin-left: 0;
+}
+.wojo.horizontal.divided.very.relaxed.list > .item::before,
+.wojo.horizontal.celled.very.relaxed.list > .item::before,
+.wojo.horizontal.celled.very.relaxed.list > .item:first-child::after {
+   right: -2.5em;
+}
+.wojo.relaxed.list:not(.horizontal):not(.divided) > .item,
+.wojo.very.relaxed.list:not(.horizontal):not(.divided) > .item,
+.wojo.relaxed.list:not(.horizontal).divided > .item,
+.wojo.very.relaxed.list:not(.horizontal).divided > .item,
+.wojo.relaxed.list:not(.horizontal).celled > .item,
+.wojo.very.relaxed.list:not(.horizontal).celled > .item {
+   margin-bottom: 0;
+}
+.wojo.relaxed.list:not(.horizontal):not(.divided):not(.celled) > .item {
+   margin-bottom: 1rem;
+}
+.wojo.very.relaxed.list:not(.horizontal):not(.divided):not(.celled) > .item {
+   margin-bottom: 2rem;
+}
+.wojo.relaxed.divided.list:not(.horizontal) > .item:first-child,
+.wojo.very.relaxed.divided.list:not(.horizontal) > .item:first-child {
+   padding-top: 0;
+}
+.wojo.relaxed.divided.list:not(.horizontal) > .item:last-child,
+.wojo.very.relaxed.divided.list:not(.horizontal) > .item:last-child {
+   padding-bottom: 0;
+}
+.wojo.relaxed.divided.list:not(.horizontal) > .item,
+.wojo.relaxed.celled.list:not(.horizontal) > .item {
+   padding-bottom: 1rem;
+   padding-top: 1rem;
+}
+.wojo.very.relaxed.divided.list:not(.horizontal) > .item,
+.wojo.very.relaxed.celled.list:not(.horizontal) > .item {
+   padding-bottom: 2rem;
+   padding-top: 2rem;
+}
+/* == Active == */
+.wojo.list > .item.active:not(.transparent) {
+   font-weight: 700;
+   color: var(--dark-color);
+}
+/* == Sortable List == */
+.wojo.sortable.list li,
+.wojo.nestable.list li {
+   display: block;
+   border-radius: var(--radius);
+   background-color: var(--grey-color-300);
+}
+.wojo.sortable.list li {
+   background-color: var(--grey-color-100);
+}
+.wojo.sortable.list li .content,
+.wojo.nestable.list li .content {
+   display: flex;
+   flex-flow: row wrap;
+   align-items: center;
+   line-height: 1rem;
+}
+.wojo.sortable.list li .content .handle,
+.wojo.sortable.list li .content .arrow,
+.wojo.sortable.list li .content .text,
+.wojo.sortable.list li .content .actions,
+.wojo.nestable.list li .content .handle,
+.wojo.nestable.list li .content .arrow,
+.wojo.nestable.list li .content .text,
+.wojo.nestable.list li .content .actions {
+   flex: 1 1 0;
+   min-width: 0;
+   padding: 1rem;
+}
+.wojo.sortable.list li .content .handle,
+.wojo.sortable.list li .content .arrow,
+.wojo.sortable.list li .content .text,
+.wojo.sortable.list li .content .actions {
+   padding: .5rem;
+}
+.wojo.nestable.list li .content .arrow {
+   cursor: pointer;
+   padding: 0 .250rem;
+}
+.wojo.sortable.list li .content .handle,
+.wojo.sortable.list li .content .arrow,
+.wojo.sortable.list li .content .actions,
+.wojo.nestable.list li .content .handle,
+.wojo.nestable.list li .content .arrow,
+.wojo.nestable.list li .content .actions {
+   flex: 0 0 auto;
+   width: auto;
+   max-width: none;
+   white-space: nowrap;
+}
+.wojo.sortable.list li .content .handle,
+.wojo.nestable.list li .content .handle,
+.wojo.sortable .handle {
+   cursor: grabbing
+}
+.wojo.sortable .draggable.handle {
+   position: absolute;
+   top: -1.25rem;
+   left: 50%;
+   -webkit-transform: translate(-50%, 0);
+   transform: translate(-50%, 0)
+}
+.wojo.nestable.list li.parent > ul {
+   display: none;
+}
+.wojo.nestable.list .ghost:not(.icon),
+.wojo.sortable .ghost:not(.icon),
+.wojo.sortable .outline .card,
+.wojo.sortable .outline .segment {
+   margin: 0;
+   padding: 0;
+   background: var(--primary-color-inverted);
+   outline: 2px dashed var(--primary-color);
+   outline-offset: -2px;
+}
+/* == Phone == */
+@media screen and (max-width: 640px) {
+   .wojo.horizontal.list.responsive {
+      display: flex;
+      flex-direction: column;
+   }
+   .wojo.list.responsive .item > .content {
+      flex: 0 1 100%;
+      max-width: 100%;
+   }
+   .wojo.horizontal.list.responsive > .item {
+      margin-left: 0;
+   }
+   .wojo.horizontal.divided.list.responsive > .item,
+   .wojo.horizontal.celled.list.responsive > .item {
+      padding: .125rem 0;
+   }
+   .wojo.horizontal.celled.list.responsive > .item:first-child {
+      padding-left: 0;
+   }
+   .wojo.horizontal.celled.list:first-child > .item::before,
+   .wojo.horizontal.divided.list:first-child > .item::before {
+      display: none;
+   }
+}

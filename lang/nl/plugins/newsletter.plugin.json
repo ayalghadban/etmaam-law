@@ -1,0 +1,10 @@
+{
+    "Newsletter": {
+        "_PLG_NSL_INFO": "U heeft een totaal aantal nieuwsbriefabonnees [TOTAAL].",
+        "_PLG_NSL_SUB": "Abonneren",
+        "_PLG_NSL_SUB1": "Annuleren",
+        "_PLG_NSL_SUBOK": "U bent succesvol geabonneerd",
+        "_PLG_NSL_TITLE": "Beheer nieuwsbriefabonnees",
+        "_PLG_NSL_UNSUBOK": "Je bent succesvol uitgeschreven."
+    }
+}

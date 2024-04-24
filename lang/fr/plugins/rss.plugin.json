@@ -1,0 +1,21 @@
+{
+    "Rss": {
+        "_PLG_RSS_ADDED_OK":"Rss [NAME] a été ajouté avec succès.",
+        "_PLG_RSS_BODYTRIM":"Clôture de description",
+        "_PLG_RSS_DEL_OK":"Rss [NAME] supprimé avec succès.",
+        "_PLG_RSS_HELP":"Aide Rss",
+        "_PLG_RSS_ITEMS":"Total des articles",
+        "_PLG_RSS_NEW":"Nouveau Rss",
+        "_PLG_RSS_NORSS":"Vous n'avez pas encore de plugins rss...",
+        "_PLG_RSS_POST_DATE":"Publié le",
+        "_PLG_RSS_SHOW_DATE":"Afficher la date",
+        "_PLG_RSS_SHOW_DESC":"Afficher la description",
+        "_PLG_RSS_SUB1":"Ici vous pouvez configurer votre plugin rss.",
+        "_PLG_RSS_SUB2":"Ajouter un nouveau flux Rss",
+        "_PLG_RSS_TITLE":"Gérer le module d'analyse RSS CMS",
+        "_PLG_RSS_TITLE1":"Ajouter Rss",
+        "_PLG_RSS_TITLE2":"Modifier le flux",
+        "_PLG_RSS_UPDATE_OK":"Rss [NAME] a été mis à jour avec succès.",
+        "_PLG_RSS_URL":"Url À Parcourir"
+    }
+}

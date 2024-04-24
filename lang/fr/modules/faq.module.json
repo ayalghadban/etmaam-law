@@ -1,0 +1,23 @@
+{
+    "Faq": {
+        "_MOD_FAQ_ADDED":"Question [NAME] ajoutée avec succès.",
+        "_MOD_FAQ_CAT_ADDED_OK":"Catégorie [NAME] ajoutée avec succès.",
+        "_MOD_FAQ_CAT_DEL_OK":"La catégorie [NAME] a été supprimée avec succès.",
+        "_MOD_FAQ_CAT_UPDATE_OK":"Catégorie [NAME] mise à jour réussie.",
+        "_MOD_FAQ_DEL_OK":"Question [NAME] supprimée avec succès.",
+        "_MOD_FAQ_INFO":"Questions les plus courantes",
+        "_MOD_FAQ_NEW":"Nouvelle question",
+        "_MOD_FAQ_NOFAQF":"Désolé de ne pas avoir encore de questions...",
+        "_MOD_FAQ_NOFAQS":"Vous n'avez pas encore de question. Veuillez ajouter.",
+        "_MOD_FAQ_QUESTION":"Question",
+        "_MOD_FAQ_SUB":"Foire aux questions",
+        "_MOD_FAQ_SUB1":"Nouvelle catégorie",
+        "_MOD_FAQ_SUB2":"Catégorie de mise à jour",
+        "_MOD_FAQ_SUB3":"FAQ Catégories",
+        "_MOD_FAQ_TITLE":"F.A.Q.Gestionnaire",
+        "_MOD_FAQ_TITLE1":"Modification de la question",
+        "_MOD_FAQ_TITLE2":"Ajouter une question",
+        "_MOD_FAQ_UPDATE":"Mettre à jour la question",
+        "_MOD_FAQ_UPDATED":"La question [NAME] a été mise à jour avec succès."
+    }
+}

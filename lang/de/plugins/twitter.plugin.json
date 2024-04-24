@@ -1,0 +1,15 @@
+{
+    "Twitter": {
+        "_PLG_TW_COUNT": "Anzuzeigende Elemente",
+        "_PLG_TW_KEY": "Verbrauchsschlüssel",
+        "_PLG_TW_SECRET": "Verbrauchergeheimnis",
+        "_PLG_TW_SHOW_IMG": "Avatar anzeigen",
+        "_PLG_TW_TITLE": "Verwalten Sie das neueste Twitter CMS-Plugin",
+        "_PLG_TW_TOKEN": "Zugangstoken",
+        "_PLG_TW_TRANS": "Übergangsgeschwindigkeit",
+        "_PLG_TW_TRANS_T": "Übergangszeit",
+        "_PLG_TW_TSECRET": "Zugriffstoken-Geheimnis",
+        "_PLG_TW_UPDATED": "Die Twitter-Einstellungen wurden erfolgreich aktualisiert.",
+        "_PLG_TW_USER": "Dein Benutzername"
+    }
+}

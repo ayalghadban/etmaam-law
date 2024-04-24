@@ -1,0 +1,31 @@
+{
+    "Comments": {
+        "_MOD_CM_AA": "Automatische Genehmigung",
+        "_MOD_CM_CAPTCHA": "Captcha anzeigen",
+        "_MOD_CM_CHAR": "Zeichenbeschränkung",
+        "_MOD_CM_CUPDATED": "Kommentareinstellungen erfolgreich aktualisiert.",
+        "_MOD_CM_DATE": "Datumsformat",
+        "_MOD_CM_DEL_OK": "Der Kommentar [NAME] wurde erfolgreich entfernt.",
+        "_MOD_CM_E_NOT_V": "Deine Email-Adresse wird nicht veröffentlicht.",
+        "_MOD_CM_MSGOK1": "DANKE ! Ihr Kommentar wurde übermittelt.",
+        "_MOD_CM_MSGOK2": "DANKE ! Ihr Kommentar wurde übermittelt und wartet auf Überprüfung.",
+        "_MOD_CM_NOTIFY": "Benachrichtigungen",
+        "_MOD_CM_PERPAGE": "Kommentare pro Seite",
+        "_MOD_CM_RATING": "Aktivieren Sie die Bewertung",
+        "_MOD_CM_REG_ONLY": "Öffentlicher Zugang",
+        "_MOD_CM_REPLAY": "Antwort",
+        "_MOD_CM_SORTING": "Triage von Kommentaren",
+        "_MOD_CM_SORTING_B": "— Neueste/niedrigste —",
+        "_MOD_CM_SORTING_T": "— Neueste / Seitenanfang —",
+        "_MOD_CM_SUB": "Noch keine Kommentare...",
+        "_MOD_CM_SUB1": "Leider können nur registrierte und angemeldete Benutzer Kommentare posten. Bitte Registrieren Sie sich oder melden Sie sich an.",
+        "_MOD_CM_SUB2": "Hinterlasse ein Kommentar",
+        "_MOD_CM_SUB3": "Keine Kommentare ausstehend...",
+        "_MOD_CM_SUB4": "Genehmigen",
+        "_MOD_CM_TITLE1": "Kommentare einrichten",
+        "_MOD_CM_TITLE2": "Ausstehende Kommentare",
+        "_MOD_CM_TSINCE": "Nutzen Sie die Zeit seitdem",
+        "_MOD_CM_UNAME_R": "Name erforderlich",
+        "_MOD_CM_WORDS": "Wörter auf die schwarze Liste setzen"
+    }
+}

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<title>Cointelegraph.com News</title>
+
+		<atom:link href="https://tr.cointelegraph.com/rss" rel="self" type="application/rss+xml"/>
+
+		<link>https://tr.cointelegraph.com</link>
+		<description>Cointelegraph, Fintech, Blockchain ve Bitcoin alanında paranın geleceğine dair en güncel haber ve analizleri size sunuyor.</description>
+		<generator>tr.cointelegraph.com</generator>
+		<lastBuildDate>Mon, 21 Feb 2022 17:43:35 +0300</lastBuildDate>
+		<language>tr</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+
+		<image>
+			<title>Cointelegraph.com News</title>
+			<link>https://tr.cointelegraph.com</link>
+			<url>https://tr.cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+			<description>Cointelegraph, Fintech, Blockchain ve Bitcoin alanında paranın geleceğine dair en güncel haber ve analizleri size sunuyor.</description>
+		</image>
+
+		
+                    <item>
+            <title><![CDATA[Bitcoin fiyatı 38 bin doların altına geriledi]]></title>
+            <link>https://tr.cointelegraph.com/news/btc-price-falls-below-38k-as-tencent-leads-worst-china-tech-rout-since-july</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMGY0OTIwNWYtMGI3Mi00MjA3LWEyYzYtMDIwNjU4MmQ5MDgwLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMGY0OTIwNWYtMGI3Mi00MjA3LWEyYzYtMDIwNjU4MmQ5MDgwLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 17:12:38 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC fiyatı]]></category>
+                                                                <category><![CDATA[borsa]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/btc-price-falls-below-38k-as-tencent-leads-worst-china-tech-rout-since-july</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMGY0OTIwNWYtMGI3Mi00MjA3LWEyYzYtMDIwNjU4MmQ5MDgwLmpwZw==.jpg"><p>Çinli teknoloji şirketlerinin ani değer kaybı, Bitcoin düzeltmesini derinleştirdi: BTC 38 bin doların altına geriledi</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bu hafta takip edilmesi gereken 4 altcoin | 21.2]]></title>
+            <link>https://tr.cointelegraph.com/news/top-4-alts-to-watch-this-week-2-21-leo-mana-klay-xtz</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ODdiYjE2ZWY2MDZkOTMwMWQ5NjBhMWE0MmM2MTgzYi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ODdiYjE2ZWY2MDZkOTMwMWQ5NjBhMWE0MmM2MTgzYi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 16:45:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Emre Günen]]>
+            </dc:creator>
+                                                <category><![CDATA[Altcoin fiyatları]]></category>
+                                                                <category><![CDATA[teknik analiz]]></category>
+                                                                <category><![CDATA[fiyat değerlendirmesi]]></category>
+                                                                <category><![CDATA[altcoin fiyat tahmini]]></category>
+                                                                <category><![CDATA[UNUS SED LEO]]></category>
+                                                                <category><![CDATA[LEO]]></category>
+                                                                <category><![CDATA[MANA]]></category>
+                                                                <category><![CDATA[Decentraland]]></category>
+                                                                <category><![CDATA[KLAY]]></category>
+                                                                <category><![CDATA[XTZ]]></category>
+                                                                <category><![CDATA[Tezos]]></category>
+                                                                <category><![CDATA[Klaytn]]></category>
+                                                                <category><![CDATA[ ]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/top-4-alts-to-watch-this-week-2-21-leo-mana-klay-xtz</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ODdiYjE2ZWY2MDZkOTMwMWQ5NjBhMWE0MmM2MTgzYi5qcGc=.jpg"><p>Analist açıkladı: Bu hafta bu 4 #altcoin fiyatına dikkat: #dolar karşısında keskin hareketler gelebilir – Teknik analiz ve fiyat tahmini</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin ağındaki aktivite düzeyi üç ayda yüzde 30 azaldı]]></title>
+            <link>https://tr.cointelegraph.com/news/bitcoin-network-activity-down-30-from-highs-as-tepid-demand-mimics-mid-2019</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMjk4MzA2MTEtZmUzMy00NmJhLWE4MjMtODlhODA1MDNjMjRjLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMjk4MzA2MTEtZmUzMy00NmJhLWE4MjMtODlhODA1MDNjMjRjLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 16:32:21 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC fiyat analizi]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/bitcoin-network-activity-down-30-from-highs-as-tepid-demand-mimics-mid-2019</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMjk4MzA2MTEtZmUzMy00NmJhLWE4MjMtODlhODA1MDNjMjRjLmpwZw==.jpg"><p>Bitcoin ağındaki zincir üstü aktivite düzeyi, BTC fiyatı rekor kırdığından beri geçen üç ayda yüzde 30 azaldı</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin boğa piyasası Huobi kurucusuna göre 2024'e kalabilir]]></title>
+            <link>https://tr.cointelegraph.com/news/bitcoin-may-not-experience-another-bull-run-until-2024-according-to-huobi-co-founder</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYjZhNDg2NjgyMWRmZmY4NDA5Nzg1Yzg5OTcyYTM2ZC5qcGVn.jpeg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYjZhNDg2NjgyMWRmZmY4NDA5Nzg1Yzg5OTcyYTM2ZC5qcGVn.jpeg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 14:39:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ayse Karaman]]>
+            </dc:creator>
+                                                <category><![CDATA[bitcoin]]></category>
+                                                                <category><![CDATA[btc]]></category>
+                                                                <category><![CDATA[huobi]]></category>
+                                                                <category><![CDATA[du jun]]></category>
+                                                                <category><![CDATA[boğa piyasası]]></category>
+                                                                <category><![CDATA[yarılanma]]></category>
+                                                                <category><![CDATA[halving]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/bitcoin-may-not-experience-another-bull-run-until-2024-according-to-huobi-co-founder</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYjZhNDg2NjgyMWRmZmY4NDA5Nzg1Yzg5OTcyYTM2ZC5qcGVn.jpeg"><p>Bitcoin boğa piyasası devam edecek mi? — Huobi kurucu ortağına göre yatırımcıların 2024'ü beklemesi gerekebilir</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[BTC dibi gördü mü? Bitcoin sahiplerinin bu hafta izlemesi gereken 5 faktör]]></title>
+            <link>https://tr.cointelegraph.com/news/coin-days-destroyed-spike-hinting-at-btc-price-bottom-5-things-to-watch-in-bitcoin-this-week</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NTkwNWQtZjM2Mi00MmRiLWEwZDktMDUwNzg4ZjdmNzk0LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NTkwNWQtZjM2Mi00MmRiLWEwZDktMDUwNzg4ZjdmNzk0LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 14:32:40 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC fiyatı]]></category>
+                                                                <category><![CDATA[fed]]></category>
+                                                                <category><![CDATA[Bitcoin tahmin]]></category>
+                                                                <category><![CDATA[fiyat analizi]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/coin-days-destroyed-spike-hinting-at-btc-price-bottom-5-things-to-watch-in-bitcoin-this-week</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NTkwNWQtZjM2Mi00MmRiLWEwZDktMDUwNzg4ZjdmNzk0LmpwZw==.jpg"><p>Bu hafta #Bitcoin yatırımcıları nelere dikkat etmeli? #BTC değeri #dolar karşısında artacak mı, düşecek mi?</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Intel ikinci nesil Bitcoin madenciliği çipini tanıttı]]></title>
+            <link>https://tr.cointelegraph.com/news/intel-unveils-2nd-gen-bonanza-mine-chip-for-efficient-bitcoin-mining</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzUyOTRiN2ItM2UzNS00NWNjLWExZTctNTdiZmMzOTM1OTQxLkpQRw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzUyOTRiN2ItM2UzNS00NWNjLWExZTctNTdiZmMzOTM1OTQxLkpQRw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 13:30:44 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Arijit Sarkar]]>
+            </dc:creator>
+                                                <category><![CDATA[madencilik]]></category>
+                                                                <category><![CDATA[Bitcoin madenciliği]]></category>
+                                                                <category><![CDATA[Intel]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/intel-unveils-2nd-gen-bonanza-mine-chip-for-efficient-bitcoin-mining</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzUyOTRiN2ItM2UzNS00NWNjLWExZTctNTdiZmMzOTM1OTQxLkpQRw==.jpg"><p>Intel'in ikinci nesil Bitcoin madenciliği çipi, enerji tüketimini yüzde 15 azaltmayı hedefliyor</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Altcoin'ler dipten sekti: WAVES, SOL ve AXS çift haneli artarken QNT fırladı | 21.2]]></title>
+            <link>https://tr.cointelegraph.com/news/2-21-2022-top-5-best-and-worst-altcoins</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNTU1YmYyMjlkNjU4NGFkYjc5ZTA4ODQ3ZjA4ZmQ5OC5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNTU1YmYyMjlkNjU4NGFkYjc5ZTA4ODQ3ZjA4ZmQ5OC5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 12:40:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Emre Günen]]>
+            </dc:creator>
+                                                <category><![CDATA[altcoin]]></category>
+                                                                <category><![CDATA[en çok kazandıran altcoin]]></category>
+                                                                <category><![CDATA[piyasa analizi]]></category>
+                                                                <category><![CDATA[hangi altcoin yükseldi]]></category>
+                                                                <category><![CDATA[en çok kaybettiren altcoin]]></category>
+                                                                <category><![CDATA[hangi altcoin düştü]]></category>
+                                                                <category><![CDATA[top 5 altcoin]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/2-21-2022-top-5-best-and-worst-altcoins</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNTU1YmYyMjlkNjU4NGFkYjc5ZTA4ODQ3ZjA4ZmQ5OC5qcGc=.jpg"><p>Derin düşüşün ardından #altcoin piyasası dipten sekti – #QNT #WAVES #SOL #AXS fiyatları #dolar karşısında çift haneli arttı</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[SafeMoon projesiyle ilişkili ünlüler davalık oldu]]></title>
+            <link>https://tr.cointelegraph.com/news/safemoon-pump-and-dump-lawsuit-targets-jake-paul-soulja-boy-and-others</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTU2MmYxMTUtYzNiMi00YjY1LWJlMjEtYTQ2YjJjMWI3MDAwLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTU2MmYxMTUtYzNiMi00YjY1LWJlMjEtYTQ2YjJjMWI3MDAwLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 11:50:45 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Arijit Sarkar]]>
+            </dc:creator>
+                                                <category><![CDATA[YouTube]]></category>
+                                                                <category><![CDATA[müzik]]></category>
+                                                                <category><![CDATA[Kaliforniya]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/safemoon-pump-and-dump-lawsuit-targets-jake-paul-soulja-boy-and-others</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTU2MmYxMTUtYzNiMi00YjY1LWJlMjEtYTQ2YjJjMWI3MDAwLmpwZw==.jpg"><p>SafeMoon yatırımcılarından toplu dava: Soulja Boy ve Nick Carter gibi ünlülerden de şikayetçiler!</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Günün dikkat çeken NFT'leri: ERN, XYZ ve CRA hızlı yükseldi RAD fırladı | 21.2]]></title>
+            <link>https://tr.cointelegraph.com/news/2-21-2022-the-non-fungible-token-nft-leaderboard</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMDczYmY1OGZjMGRhYzNhZTAyYmQ3NjNmMmZmOTQzYy5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMDczYmY1OGZjMGRhYzNhZTAyYmQ3NjNmMmZmOTQzYy5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 11:45:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Emre Günen]]>
+            </dc:creator>
+                                                <category><![CDATA[defi]]></category>
+                                                                <category><![CDATA[nft]]></category>
+                                                                <category><![CDATA[finans]]></category>
+                                                                <category><![CDATA[nft ne demek]]></category>
+                                                                <category><![CDATA[nft sektörü]]></category>
+                                                                <category><![CDATA[nft verileri]]></category>
+                                                                <category><![CDATA[en iyi nft]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/2-21-2022-the-non-fungible-token-nft-leaderboard</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMDczYmY1OGZjMGRhYzNhZTAyYmQ3NjNmMmZmOTQzYy5qcGc=.jpg"><p>#NFT piyasası mercek altında: Son 24 saatte #ERN #XYZ #CRA fiyatları #dolar karşısında hızlı yükseldi – #RAD uçtu!</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[DeFi tokenler SPELL ve BTRFLY yükselirken TORN'daki artış %86'yı geçti | 21.2]]></title>
+            <link>https://tr.cointelegraph.com/news/2-21-2022-the-decentralized-finance-defi-leaderboard</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDQwYjAyNzQwNThmMDQ3N2JjMDdiNjhkNDM5NzNhZi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDQwYjAyNzQwNThmMDQ3N2JjMDdiNjhkNDM5NzNhZi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 11:30:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Emre Günen]]>
+            </dc:creator>
+                                                <category><![CDATA[defi]]></category>
+                                                                <category><![CDATA[merkeziyetsiz finans]]></category>
+                                                                <category><![CDATA[defi ne demek]]></category>
+                                                                <category><![CDATA[defi sektörü]]></category>
+                                                                <category><![CDATA[defi verileri]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/2-21-2022-the-decentralized-finance-defi-leaderboard</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNDQwYjAyNzQwNThmMDQ3N2JjMDdiNjhkNDM5NzNhZi5qcGc=.jpg"><p>#DeFi piyasasında ezber bozuldu: Son 24 saatte #TORN yatırımcıları #dolar karşısında yüzde 25'ten fazla kazanırken #SPELL #BTRFLY #BIFI #JOE çift haneli yükseldi</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin bu hafta ne yapar? Agresif ayılar tuzağa düşecek mi?]]></title>
+            <link>https://tr.cointelegraph.com/news/bitcoin-price-analysis-2-21-could-aggressive-bears-get-trapped</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MjZhNDYzYTE3MTk2MmI5ZTM0YjJiZWQxY2FmYzBhYS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MjZhNDYzYTE3MTk2MmI5ZTM0YjJiZWQxY2FmYzBhYS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 11:05:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Emre Günen]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin ne kadar]]></category>
+                                                                <category><![CDATA[Uzmanların Bitcoin Yorumları]]></category>
+                                                                <category><![CDATA[Bitcoin yükselir mi son dakika]]></category>
+                                                                <category><![CDATA[Bitcoin neden düşüyor son dakika 2022]]></category>
+                                                                <category><![CDATA[Bitcoin Grafik]]></category>
+                                                                <category><![CDATA[Bitcoin kaç dolar]]></category>
+                                                                <category><![CDATA[Bitcoin alınır mı]]></category>
+                                                                <category><![CDATA[teknik analiz]]></category>
+                                                                <category><![CDATA[fiyat değerlendirmesi]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/bitcoin-price-analysis-2-21-could-aggressive-bears-get-trapped</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MjZhNDYzYTE3MTk2MmI5ZTM0YjJiZWQxY2FmYzBhYS5qcGc=.jpg"><p>#Bitcoin #dolar karşısında bu hafta ne yapar? #Rusya ve #Ukrayna arasındaki gerginlik #BTC fiyatını nasıl etkiler? Teknik analiz ve fiyat değerlendirmesi</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Credit Suisse'in sızan verileri şüpheli faaliyetlere ışık tuttu]]></title>
+            <link>https://tr.cointelegraph.com/news/credit-suisse-data-leak-reveals-decades-of-shady-clients-and-activity</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTFkZTFmODQtNzI2OS00ZjlhLWJlZWItNmQyZmMyZWE1ODZiLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTFkZTFmODQtNzI2OS00ZjlhLWJlZWItNmQyZmMyZWE1ODZiLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Mon, 21 Feb 2022 09:58:23 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Brian Newar]]>
+            </dc:creator>
+                                                <category><![CDATA[para aklama]]></category>
+                                                                <category><![CDATA[Credit Suisse]]></category>
+                                                                <category><![CDATA[isviçreli banka]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/credit-suisse-data-leak-reveals-decades-of-shady-clients-and-activity</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOTFkZTFmODQtNzI2OS00ZjlhLWJlZWItNmQyZmMyZWE1ODZiLmpwZw==.jpg"><p>Credit Suisse'in verileri sızdı — İsviçre'nin banka gizliliği yasası, blockchain teknolojisinin sunduğu şeffaflığın aksine suçluları koruyor!</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[FED üst düzey yetkilileri, kripto alım-satımı yapamayacak]]></title>
+            <link>https://tr.cointelegraph.com/news/fed-senior-officials-will-soon-not-be-allowed-to-trade-crypto-stocks-and-bonds</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDZmMzI1N2YtZjhhNi00ODg5LWEzYmYtZTJhMzNjZGU2NTJhLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDZmMzI1N2YtZjhhNi00ODg5LWEzYmYtZTJhMzNjZGU2NTJhLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sun, 20 Feb 2022 16:12:37 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Turner Wright]]>
+            </dc:creator>
+                                                <category><![CDATA[Düzenleme]]></category>
+                                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[Yatırım]]></category>
+                                                                <category><![CDATA[Birleşik Devletler]]></category>
+                                                                <category><![CDATA[Alım Satım]]></category>
+                                                                <category><![CDATA[Hisse Senedi]]></category>
+                                                                <category><![CDATA[FED]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/fed-senior-officials-will-soon-not-be-allowed-to-trade-crypto-stocks-and-bonds</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDZmMzI1N2YtZjhhNi00ODg5LWEzYmYtZTJhMzNjZGU2NTJhLmpwZw==.jpg"><p>Önce #FED, ardından Kongre üyelerinin #kripto alım-satımları da mı yasaklanacak?</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Harmony, Bored Ape Yacht Club NFT Passport'u kullanıma sundu]]></title>
+            <link>https://tr.cointelegraph.com/news/harmony-launches-bored-ape-yacht-club-nft-passport</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZTVhYzM3ZDktOGRmNS00YTRjLTg4MzUtNDlmMzI0YmM3MWYzLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZTVhYzM3ZDktOGRmNS00YTRjLTg4MzUtNDlmMzI0YmM3MWYzLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sun, 20 Feb 2022 14:36:57 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Zhiyuan Sun]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[Harmony]]></category>
+                                                                <category><![CDATA[NFT]]></category>
+                                                                <category><![CDATA[Passport]]></category>
+                                                                <category><![CDATA[Bored Apes]]></category>
+                                                                <category><![CDATA[Zincirler Arası]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/harmony-launches-bored-ape-yacht-club-nft-passport</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZTVhYzM3ZDktOGRmNS00YTRjLTg4MzUtNDlmMzI0YmM3MWYzLmpwZw==.jpg"><p>NFT Passport, kullanıcıların birden fazla blockchaindeki varlıklarının sahipliğini kanıtlayacak.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[BTC arzının %60’ından fazlasına en az 1 yıldır dokunulmuyor]]></title>
+            <link>https://tr.cointelegraph.com/news/bitcoin-inactive-supply-nears-record-as-over-60-of-btc-stays-unspent-for-at-least-1-year</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvYmY5MDliZGYtYTljYi00YjU5LWIzMDAtMWQ1ZDliM2Y5NmY0LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvYmY5MDliZGYtYTljYi00YjU5LWIzMDAtMWQ1ZDliM2Y5NmY0LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sun, 20 Feb 2022 12:59:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/bitcoin-inactive-supply-nears-record-as-over-60-of-btc-stays-unspent-for-at-least-1-year</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvYmY5MDliZGYtYTljYi00YjU5LWIzMDAtMWQ1ZDliM2Y5NmY0LmpwZw==.jpg"><p>Hodler'ler iş başında: #Bitcoin arzının %60'ından fazlasına 2020'den beri ilk defa en az bir yıldır dokunulmadı.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[OpenSea güncellemeyi duyurur duyurmaz hackerlar saldırıya geçti]]></title>
+            <link>https://tr.cointelegraph.com/news/opensea-planned-upgrade-stalls-as-phishing-attack-targets-nft-migration</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzBmOWZmMWQtMDlhZC00M2IwLTk0N2ItZDU4MjM5NGY0ZjY4LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzBmOWZmMWQtMDlhZC00M2IwLTk0N2ItZDU4MjM5NGY0ZjY4LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sun, 20 Feb 2022 11:21:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Arijit Sarkar]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[Pazar Yeri]]></category>
+                                                                <category><![CDATA[Hackers]]></category>
+                                                                <category><![CDATA[Hacks]]></category>
+                                                                <category><![CDATA[Email]]></category>
+                                                                <category><![CDATA[güncelleme]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/opensea-planned-upgrade-stalls-as-phishing-attack-targets-nft-migration</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzBmOWZmMWQtMDlhZC00M2IwLTk0N2ItZDU4MjM5NGY0ZjY4LmpwZw==.jpg"><p>En büyük #NFT pazar yerlerinden #OpenSea söz konusu güncellemeyi duyurduktan sonra sonra ve hâlâ devam eden bir kimlik hırsızlığı saldırısına maruz kaldı.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Multichain, çalınan fonun 2,6 milyon dolarlık kısmını kurtarmayı başardı]]></title>
+            <link>https://tr.cointelegraph.com/news/multichain-recovers-2-6m-stolen-funds-to-reimburse-losses-on-condition</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNDcwMTY1MWYtMGE3Ny00NmY5LTg0MDgtYTVmMjFkMzFlMjI1LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNDcwMTY1MWYtMGE3Ny00NmY5LTg0MDgtYTVmMjFkMzFlMjI1LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 19:49:38 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Arijit Sarkar]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[Korsanlar]]></category>
+                                                                <category><![CDATA[Hack]]></category>
+                                                                <category><![CDATA[Akıllı Sözleşmeler]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/multichain-recovers-2-6m-stolen-funds-to-reimburse-losses-on-condition</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNDcwMTY1MWYtMGE3Ny00NmY5LTg0MDgtYTVmMjFkMzFlMjI1LmpwZw==.jpg"><p>#Multichain saldırganlara karşı savaşıp, çalınan fonun yüzde 50'sini geri aldı ve kullanıcılar için bir tazminat planını hazırladı.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Ethereum 1.700 dolara düşebilir - Analist açıkladı]]></title>
+            <link>https://tr.cointelegraph.com/news/analyst-say-ethereum-price-could-fall-to-1-700-if-the-current-climate-prevails</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZjljOWE2MzctZGY2OS00NzViLWEwNmQtZGZiZmMyNTJkYmEzLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZjljOWE2MzctZGY2OS00NzViLWEwNmQtZGZiZmMyNTJkYmEzLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 18:57:08 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Jordan Finneseth]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[Piyasa]]></category>
+                                                                <category><![CDATA[Bitcoin Fiyatı]]></category>
+                                                                <category><![CDATA[Ether Fiyatı]]></category>
+                                                                <category><![CDATA[Ethereum Fiyatı]]></category>
+                                                                <category><![CDATA[Piyasa Güncellemesi]]></category>
+                                                                <category><![CDATA[CryptoMarket]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/analyst-say-ethereum-price-could-fall-to-1-700-if-the-current-climate-prevails</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZjljOWE2MzctZGY2OS00NzViLWEwNmQtZGZiZmMyNTJkYmEzLmpwZw==.jpg"><p>Trader'lar, #Ethereum boğalarının 2.700 dolar seviyesini koruması gerektiğini yoksa 1.700 dolara düşüşün mümkün olduğunu söylüyor.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Terra, Anchor rezervlerine 450 milyon UST ekledi]]></title>
+            <link>https://tr.cointelegraph.com/news/terra-injects-450m-ust-into-anchor-reserve-days-before-protocol-depletion</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvM2NhNmEzMWYtMTY4ZS00Y2Y3LTk0YjYtZmVkODdlMGI3MzM4LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvM2NhNmEzMWYtMTY4ZS00Y2Y3LTk0YjYtZmVkODdlMGI3MzM4LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 16:42:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Zhiyuan Sun]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto Para]]></category>
+                                                                <category><![CDATA[UST]]></category>
+                                                                <category><![CDATA[LUNA]]></category>
+                                                                <category><![CDATA[Terra]]></category>
+                                                                <category><![CDATA[Do Kwon]]></category>
+                                                                <category><![CDATA[Stablecoin]]></category>
+                                                                <category><![CDATA[DeFi Getirisi]]></category>
+                                                                <category><![CDATA[Tasarruf]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/terra-injects-450m-ust-into-anchor-reserve-days-before-protocol-depletion</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvM2NhNmEzMWYtMTY4ZS00Y2Y3LTk0YjYtZmVkODdlMGI3MzM4LmpwZw==.jpg"><p>#Terra geliştiricileri, Anchor'a likidite sağlamak için amacıyla yaptıkları 450 milyonluk UST ekleme işleminde, 9,5 milyon #LUNA tokeni kullandı.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[OpenSea, Ethereum'daki aktif olmayan NFT’leri kaldıracak güncellemeyi duyurdu]]></title>
+            <link>https://tr.cointelegraph.com/news/opensea-smart-contract-upgrade-to-delist-inactive-nfts-on-ethereum</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZGZiYjQ2MGMtZDUyZS00ZGE3LTk0MTAtOWVjMjkxZjU0NmI4LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZGZiYjQ2MGMtZDUyZS00ZGE3LTk0MTAtOWVjMjkxZjU0NmI4LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 14:39:49 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Arijit Sarkar]]>
+            </dc:creator>
+                                                <category><![CDATA[Akıllı Sözleşme]]></category>
+                                                                <category><![CDATA[merkeziyetsiz piyasa]]></category>
+                                                                <category><![CDATA[Piyasa]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/opensea-smart-contract-upgrade-to-delist-inactive-nfts-on-ethereum</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvZGZiYjQ2MGMtZDUyZS00ZGE3LTk0MTAtOWVjMjkxZjU0NmI4LmpwZw==.jpg"><p>OpenSea, #NFT'lerin #Ethereum'dan yeni akıllı sözleşmelere taşınması için kullanıcılara bir haftalık süre tanıdığını duyurdu.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Georgia, kripto madencilerini çeşitli vergilerden muaf tutacak bir yasa tasarısı hazırlıyor]]></title>
+            <link>https://tr.cointelegraph.com/news/georgia-lawmakers-consider-giving-crypto-miners-tax-exemptions-in-new-bill</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzcxY2Y4NzktNzBiYi00ZWZkLWI5MjUtMTAwMDY5YTZmNDFhLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzcxY2Y4NzktNzBiYi00ZWZkLWI5MjUtMTAwMDY5YTZmNDFhLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 12:40:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Turner Wright]]>
+            </dc:creator>
+                                                <category><![CDATA[Regülasyon]]></category>
+                                                                <category><![CDATA[bitcoin]]></category>
+                                                                <category><![CDATA[madencilik]]></category>
+                                                                <category><![CDATA[bitcoin madenciliği]]></category>
+                                                                <category><![CDATA[vergi]]></category>
+                                                                <category><![CDATA[georgia]]></category>
+                                                                <category><![CDATA[hükümet]]></category>
+                                                                <category><![CDATA[abd]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/georgia-lawmakers-consider-giving-crypto-miners-tax-exemptions-in-new-bill</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzcxY2Y4NzktNzBiYi00ZWZkLWI5MjUtMTAwMDY5YTZmNDFhLmpwZw==.jpg"><p>Yasa tasarısı, kabaca 6.968 metrekare büyüklüğündeki tesislerde faaliyet gösteren #kripto madencilerini kapsayacak.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Fed yönetim kurulu üyesi, ABD'nin dijital paralar konusunda dünyaya liderlik etmesi gerektiğini belirtti]]></title>
+            <link>https://tr.cointelegraph.com/news/fed-s-lael-brainard-hints-at-us-playing-a-lead-role-in-development-of-cbdcs</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzc0ZDkwNmQtYWUxMC00M2FmLWI4YmEtODZlMWQzYzA3ZjAyLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzc0ZDkwNmQtYWUxMC00M2FmLWI4YmEtODZlMWQzYzA3ZjAyLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Sat, 19 Feb 2022 10:11:00 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Turner Wright]]>
+            </dc:creator>
+                                                <category><![CDATA[Regülasyon]]></category>
+                                                                <category><![CDATA[ABDs]]></category>
+                                                                <category><![CDATA[dijital dolar]]></category>
+                                                                <category><![CDATA[cbdc]]></category>
+                                                                <category><![CDATA[federal rezerv]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/fed-s-lael-brainard-hints-at-us-playing-a-lead-role-in-development-of-cbdcs</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMzc0ZDkwNmQtYWUxMC00M2FmLWI4YmEtODZlMWQzYzA3ZjAyLmpwZw==.jpg"><p>Fed üyesi, Çin Halk Bankası #dijital yuanının (#CBDC), doların uluslararası ödeme sistemlerindeki yerini ve hakimiyetini etkileyebileceğini söyledi.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Mega XRP balinaları su yüzüne çıktı]]></title>
+            <link>https://tr.cointelegraph.com/news/xrp-mega-whales-scoop-up-over-700m-in-second-biggest-accumulation-spree-in-history</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGU1ZjFhN2YtYzgwMC00NzI4LTk3NDgtNmY4MTVlNmZlNTE4LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGU1ZjFhN2YtYzgwMC00NzI4LTk3NDgtNmY4MTVlNmZlNTE4LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 19:56:50 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Yashu Gola]]>
+            </dc:creator>
+                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[XRP]]></category>
+                                                                <category><![CDATA[XRP fiyatı]]></category>
+                                                                <category><![CDATA[Altcoin analizi]]></category>
+                                                                <category><![CDATA[XRP analizi]]></category>
+                                                                <category><![CDATA[teknik analiz]]></category>
+                                                                <category><![CDATA[piyasa]]></category>
+                                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[Bitcoin fiyatı]]></category>
+                                                                <category><![CDATA[Dolar]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/xrp-mega-whales-scoop-up-over-700m-in-second-biggest-accumulation-spree-in-history</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGU1ZjFhN2YtYzgwMC00NzI4LTk3NDgtNmY4MTVlNmZlNTE4LmpwZw==.jpg"><p>Mega XRP balinaları, birikimlerine iki ayda 712 milyon dolarlık XRP ekledi</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Popüler oyun geliştiricisi Zynga, blockchain tabanlı oyunlar geliştirmeye hazırlanıyor]]></title>
+            <link>https://tr.cointelegraph.com/news/off-the-charts-zynga-blockchain-exec-praises-p2e-gaming-talent</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NWY0N2ItYWU1My00NDcwLThlZmEtOTBlMjY0YjU3MjYxLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NWY0N2ItYWU1My00NDcwLThlZmEtOTBlMjY0YjU3MjYxLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 18:22:22 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Joseph Hall]]>
+            </dc:creator>
+                                                <category><![CDATA[Blockchain Oyun]]></category>
+                                                                <category><![CDATA[Facebook]]></category>
+                                                                <category><![CDATA[Sosyal medya]]></category>
+                                                                <category><![CDATA[Mobil oyun]]></category>
+                                                                <category><![CDATA[Oyun]]></category>
+                                                                <category><![CDATA[Zynga]]></category>
+                                                                <category><![CDATA[Farmville]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/off-the-charts-zynga-blockchain-exec-praises-p2e-gaming-talent</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvMDQ0NWY0N2ItYWU1My00NDcwLThlZmEtOTBlMjY0YjU3MjYxLmpwZw==.jpg"><p>#Zynga, yeni bir takım kurarak, "geleneksel oyun" deneyimlerini zenginleştirerek #oynayarak-kazan konseptine getirmeyi planlıyor.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin fiyatı 40 bin dolar desteğini kaybetti]]></title>
+            <link>https://tr.cointelegraph.com/news/btc-price-dips-below-40k-as-wall-street-open-spells-pain-for-bitcoin-bulls</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvODJjZWYzNDQtMjNkZS00NWMwLWE1NzQtMWIxNDViYWY1NDlkLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvODJjZWYzNDQtMjNkZS00NWMwLWE1NzQtMWIxNDViYWY1NDlkLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 18:09:01 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC fiyatı]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/btc-price-dips-below-40k-as-wall-street-open-spells-pain-for-bitcoin-bulls</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvODJjZWYzNDQtMjNkZS00NWMwLWE1NzQtMWIxNDViYWY1NDlkLmpwZw==.jpg"><p>Bitcoin fiyatı Wall Street'in açılış ziliyle 40 bin doların altına geriledi</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[RAPOR: DeFi sektörü 2022'de DAO yönetime geçebilir]]></title>
+            <link>https://tr.cointelegraph.com/news/defi-may-turn-to-dao-governance-to-reduce-regulatory-risks-in-2022-report</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2FlYmM3ZTItNzM5NC00ZjQ1LWIyZDMtN2YxNWIwODE4NDQ4LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2FlYmM3ZTItNzM5NC00ZjQ1LWIyZDMtN2YxNWIwODE4NDQ4LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 17:53:11 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ezra Reguerra]]>
+            </dc:creator>
+                                                <category><![CDATA[DAO]]></category>
+                                                                <category><![CDATA[DeFi]]></category>
+                                                                <category><![CDATA[Kucoin]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/defi-may-turn-to-dao-governance-to-reduce-regulatory-risks-in-2022-report</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2FlYmM3ZTItNzM5NC00ZjQ1LWIyZDMtN2YxNWIwODE4NDQ4LmpwZw==.jpg"><p>KuCoin Labs'e göre 2022'nin başlıca trendlerinden biri olacak merkeziyetsiz finans, yasal risklere karşı yeni yönetim mekanizmalarına yönelebilir</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Rusya, kripto düzenlemesini içeren yasa tasarısını kamuoyuna sunuyor]]></title>
+            <link>https://tr.cointelegraph.com/news/russian-finance-ministry-opens-public-comment-period-for-the-crypto-bill</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2RlZjdhMjMtODk3OS00MGUyLWEzNDktZjAyOTk5NTFjY2M1LmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2RlZjdhMjMtODk3OS00MGUyLWEzNDktZjAyOTk5NTFjY2M1LmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 17:26:28 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]>
+            </dc:creator>
+                                                <category><![CDATA[Kripto para]]></category>
+                                                                <category><![CDATA[Rusya]]></category>
+                                                                <category><![CDATA[Rusya merkez bankası]]></category>
+                                                                <category><![CDATA[Finans]]></category>
+                                                                <category><![CDATA[Hükümet]]></category>
+                                                                <category><![CDATA[Kanun]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/russian-finance-ministry-opens-public-comment-period-for-the-crypto-bill</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvN2RlZjdhMjMtODk3OS00MGUyLWEzNDktZjAyOTk5NTFjY2M1LmpwZw==.jpg"><p>Rusya Maliye Bakanlığı, federal #kripto düzenlemesini geliştirmek için kamuoyunun katkısını bekliyor.</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin fiyatı 40 bin doların kıyısındayken izlenmesi gereken seviyeler]]></title>
+            <link>https://tr.cointelegraph.com/news/here-are-the-btc-price-levels-to-watch-with-bitcoin-hanging-on-40k-cliff</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk2NmIyYTItYWQ1My00OGYwLWIwNzYtOWVhMjU1ZDk2YjAxLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk2NmIyYTItYWQ1My00OGYwLWIwNzYtOWVhMjU1ZDk2YjAxLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 15:46:45 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[BTC fiyatı]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/here-are-the-btc-price-levels-to-watch-with-bitcoin-hanging-on-40k-cliff</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk2NmIyYTItYWQ1My00OGYwLWIwNzYtOWVhMjU1ZDk2YjAxLmpwZw==.jpg"><p>Bitcoin fiyatı bıçak sırtında: Bu seviyeler yakından takip edilmeli</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[JPMorgan kuantum dirençli blockchain ağını araştırıyor]]></title>
+            <link>https://tr.cointelegraph.com/news/jpmorgan-unveils-research-on-quantum-resistant-blockchain-network</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk4M2I1ZTktNTVkYy00YTc1LWFiYWEtNDMxMmExNGVlZTYwLmpwZw==.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk4M2I1ZTktNTVkYy00YTc1LWFiYWEtNDMxMmExNGVlZTYwLmpwZw==.jpg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 14:00:30 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Brian Quarmby]]>
+            </dc:creator>
+                                                <category><![CDATA[JPMorgan Chase]]></category>
+                                                                <category><![CDATA[Toshiba]]></category>
+                                                                <category><![CDATA[Ciena]]></category>
+                                                                <category><![CDATA[Quantum Key Distribution]]></category>
+                                                                <category><![CDATA[kuantum hesaplama]]></category>
+                                                                    <guid isPermaLink="false">https://tr.cointelegraph.com/news/jpmorgan-unveils-research-on-quantum-resistant-blockchain-network</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNzk4M2I1ZTktNTVkYy00YTc1LWFiYWEtNDMxMmExNGVlZTYwLmpwZw==.jpg"><p>JPMorgan, kuantum hesaplama saldırılarına karşı dayanıklı blockchain ağını araştırmak için Toshiba ve Ciena ile iş birliği yaptı</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Pantera CEO'su: "Fed'in faiz kararlarına karşı en iyi korunma yolu kripto"]]></title>
+            <link>https://tr.cointelegraph.com/news/crypto-best-place-to-store-wealth-during-fed-rate-hike-pantera-ceo</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGFhODRkMDEtY2Q4NC00OGE4LTg0MzgtZjhjNjRlMThkNWI4LmpwZWc=.jpeg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGFhODRkMDEtY2Q4NC00OGE4LTg0MzgtZjhjNjRlMThkNWI4LmpwZWc=.jpeg" length="528" type="image/jpg"/>
+            <pubDate>Fri, 18 Feb 2022 12:17:17 +0300</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Brian Quarmby]]>
+            </dc:creator>
+                                                <category><![CDATA[Dan Morehead]]></category>
+                                                                <category><![CDATA[Pantera Capital]]></category>
+                                                                <category><![CDATA[Fed]]></category>
+                                                                <category><![CDATA[faiz oranı]]></category>
+                                                                <category><![CDATA[enflasyon]]></category>
+                                        <guid isPermaLink="false">https://tr.cointelegraph.com/news/crypto-best-place-to-store-wealth-during-fed-rate-hike-pantera-ceo</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvNGFhODRkMDEtY2Q4NC00OGE4LTg0MzgtZjhjNjRlMThkNWI4LmpwZWc=.jpeg"><p>Pantera CEO'su Dan Morehead, Fed'in olası faiz artırma kararının kripto para sektörü için yıkıcı olmanın aksine. piyasayı çok daha cazip kılacağını düşünüyor</p>]]>
+            </description>
+        </item>
+    		
+	</channel>
+</rss>

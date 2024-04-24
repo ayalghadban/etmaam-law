@@ -1,0 +1,18 @@
+{
+    "Donate": {
+        "_PLG_DP_ADDED_OK": "Kampagne [NAME] wurde erfolgreich hinzugefügt!",
+        "_PLG_DP_DONATE": "Spenden",
+        "_PLG_DP_INFO": "Hier können Sie Ihr Spenden-Plugin verwalten.",
+        "_PLG_DP_NEW": "Neue Spende",
+        "_PLG_DP_NODON": "Sie haben noch keine Spenden-Plugins...",
+        "_PLG_DP_SUB": "Neue Spendenaktion",
+        "_PLG_DP_SUB1": "Kampagnenname",
+        "_PLG_DP_SUB2": "Zahlungsmöglichkeiten",
+        "_PLG_DP_SUB3": "Erfolgsseite umleiten",
+        "_PLG_DP_SUB4": "Spendenaktion aktualisieren",
+        "_PLG_DP_TARGET": "Zielbetrag",
+        "_PLG_DP_TITLE": "CMS-Spenden-Plugin verwalten.",
+        "_PLG_DP_TITLE1": "Spenden-Setup",
+        "_PLG_DP_UPDATE_OK": "Kampagne [NAME] erfolgreich aktualisiert!"
+    }
+}

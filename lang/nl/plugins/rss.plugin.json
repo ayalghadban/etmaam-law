@@ -1,0 +1,21 @@
+{
+    "Rss": {
+        "_PLG_RSS_ADDED_OK": "Rss [NAAM] is succesvol toegevoegd.",
+        "_PLG_RSS_BODYTRIM": "Beschrijving Sluiting",
+        "_PLG_RSS_DEL_OK": "Rss [NAAM] succesvol verwijderd.",
+        "_PLG_RSS_HELP": "RSS-hulp",
+        "_PLG_RSS_ITEMS": "Totaal artikelen",
+        "_PLG_RSS_NEW": "Nieuwe RSS",
+        "_PLG_RSS_NORSS": "Je hebt nog geen RSS-plug-ins...",
+        "_PLG_RSS_POST_DATE": "gepubliceerd op",
+        "_PLG_RSS_SHOW_DATE": "Datum weergeven",
+        "_PLG_RSS_SHOW_DESC": "Laat beschrijving zien",
+        "_PLG_RSS_SUB1": "Hier kunt u uw RSS-plug-in configureren.",
+        "_PLG_RSS_SUB2": "Voeg een nieuwe RSS-feed toe",
+        "_PLG_RSS_TITLE": "Beheer de CMS RSS-analysemodule",
+        "_PLG_RSS_TITLE1": "RSS toevoegen",
+        "_PLG_RSS_TITLE2": "Bewerk feed",
+        "_PLG_RSS_UPDATE_OK": "Rss [NAAM] is succesvol bijgewerkt.",
+        "_PLG_RSS_URL": "URL om te bladeren"
+    }
+}

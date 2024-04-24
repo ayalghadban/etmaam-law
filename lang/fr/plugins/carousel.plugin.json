@@ -1,0 +1,22 @@
+{
+    "Carousel": {
+        "_PLG_CRL_ADDED_OK":"Le lecteur [NAME] a été ajouté avec succès.",
+        "_PLG_CRL_DEL_OK":"Le joueur [NAME] a été supprimé avec succès.",
+        "_PLG_CRL_NEW":"Nouveau joueur",
+        "_PLG_CRL_NOPLAY":"Vous n'avez pas encore de plugins de lecteur...",
+        "_PLG_CRL_SUB1":"Ici vous pouvez configurer votre plugin de lecteur de carrousel.",
+        "_PLG_CRL_SUB10":"Suspendre sur la pointe",
+        "_PLG_CRL_SUB11":"Afficher les points",
+        "_PLG_CRL_SUB12":"Afficher les flèches",
+        "_PLG_CRL_SUB13":"Boucle infinie",
+        "_PLG_CRL_SUB14":"Éléments de réponse",
+        "_PLG_CRL_SUB2":"Ajouter un nouveau lecteur",
+        "_PLG_CRL_SUB7":"Lecture automatique",
+        "_PLG_CRL_SUB8":"Marge article",
+        "_PLG_CRL_SUB9":"Centré",
+        "_PLG_CRL_TITLE":"Gérer le plug-in CMS Carousel Player",
+        "_PLG_CRL_TITLE1":"Ajouter un lecteur",
+        "_PLG_CRL_TITLE2":"Modifier le lecteur",
+        "_PLG_CRL_UPDATE_OK":"Lecteur [NAME] mis à jour avec succès."
+    }
+}

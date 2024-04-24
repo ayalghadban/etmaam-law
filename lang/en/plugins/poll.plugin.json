@@ -1,0 +1,30 @@
+{
+    "Poll": {
+        "_PLG_PL_ACTIVE": "Make poll active",
+        "_PLG_PL_ADD": "Add Poll",
+        "_PLG_PL_ADD_Q": "Add Poll Option",
+        "_PLG_PL_ADD1": "Add New Poll",
+        "_PLG_PL_ADDED": "Poll [NAME] Question added successfully!",
+        "_PLG_PL_DEL_OK": "Poll [NAME] deleted successfully.",
+        "_PLG_PL_NOPOLL": "You don\u0027t have any polls yet. Please add.",
+        "_PLG_PL_NOW": "Vote Now",
+        "_PLG_PL_OPTIONS": "Poll Options",
+        "_PLG_PL_POLL": "Poll",
+        "_PLG_PL_QUESTION": "Poll Question",
+        "_PLG_PL_RESULT": "View Result",
+        "_PLG_PL_SUB1": "Here you can update your poll question.",
+        "_PLG_PL_SUB2": "Here you can add new poll.",
+        "_PLG_PL_SUB3": "Here you can configure your poll plugin.",
+        "_PLG_PL_SUB4": "New Poll",
+        "_PLG_PL_THANKS": "Thanks for voting",
+        "_PLG_PL_TITLE1": "Edit Poll Question",
+        "_PLG_PL_TITLE2": "Add New Poll",
+        "_PLG_PL_TITLE3": "Manage CMS Poll Plugin",
+        "_PLG_PL_TOTAL": "Total votes:",
+        "_PLG_PL_UPDATE": "Update Poll",
+        "_PLG_PL_UPDATED": "Poll [NAME] Question updated successfully!",
+        "_PLG_PL_VIEW": "View",
+        "_PLG_PL_VOTE": "Vote",
+        "_PLG_PL_VOTES": "votes"
+    }
+}

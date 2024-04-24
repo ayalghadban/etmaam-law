@@ -1,0 +1,22 @@
+{
+    "Carousel": {
+        "_PLG_CRL_ADDED_OK": "Player [NAME] added successfully!",
+        "_PLG_CRL_DEL_OK": "Player [NAME] deleted successfully!",
+        "_PLG_CRL_NEW": "New Player",
+        "_PLG_CRL_NOPLAY": "You don't have any player plugins yet...",
+        "_PLG_CRL_SUB1": "Here you can configure your carousel player plugin.",
+        "_PLG_CRL_SUB10": "Pause on Hover",
+        "_PLG_CRL_SUB11": "Show Dots",
+        "_PLG_CRL_SUB12": "Show Arrows",
+        "_PLG_CRL_SUB13": "Infinite Loop",
+        "_PLG_CRL_SUB14": "Responsive Items",
+        "_PLG_CRL_SUB2": "Add New Player",
+        "_PLG_CRL_SUB7": "Autoplay",
+        "_PLG_CRL_SUB8": "Item Margin",
+        "_PLG_CRL_SUB9": "Centered",
+        "_PLG_CRL_TITLE": "Manage CMS Carousel Player Plugin",
+        "_PLG_CRL_TITLE1": "Add Player",
+        "_PLG_CRL_TITLE2": "Edit Player",
+        "_PLG_CRL_UPDATE_OK": "Player [NAME] updated successfully!"
+    }
+}

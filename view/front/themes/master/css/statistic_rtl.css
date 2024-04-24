@@ -1,0 +1,206 @@
+/* == Statistics == */
+.wojo.statistic {
+   display: inline-flex;
+   flex-direction: column;
+   margin: 1em 0;
+   max-width: max-content;
+}
+.wojo.statistic + .wojo.statistic {
+   margin: 0 1.5em 0 0;
+}
+.wojo.statistic:first-child {
+   margin-top: 0;
+}
+.wojo.statistic:last-child {
+   margin-bottom: 0;
+}
+/* == Group == */
+.wojo.statistics {
+   display: flex;
+   align-items: flex-start;
+   flex-wrap: wrap;
+}
+.wojo.statistics > .statistic {
+   display: inline-flex;
+   flex: 0 1 auto;
+   flex-direction: column;
+   margin: 0 1.5em 2em;
+   max-width: max-content;
+}
+.wojo.statistics {
+   display: flex;
+   margin: 1em -1.5em -2em;
+}
+.wojo.statistics:after {
+   display: block;
+   content: ' ';
+   height: 0;
+   clear: both;
+   overflow: hidden;
+   visibility: hidden;
+}
+.wojo.statistics:first-child {
+   margin-top: 0;
+}
+.wojo.statistics:last-child {
+   margin-bottom: 0;
+}
+/* == Content == */
+.wojo.statistics .statistic > .value,
+.wojo.statistic > .value {
+   font-weight: 300;
+   font-size: 4rem;
+   line-height: 2;
+   color: var(--dark-color);
+   text-transform: uppercase;
+   text-align: center;
+}
+.wojo.statistics .statistic > .label,
+.wojo.statistic > .label {
+   font-weight: 500;
+   font-size: 1em;
+   color: rgba(0, 0, 0, 0.87);
+   text-transform: uppercase;
+   text-align: center;
+}
+/* Top Label */
+.wojo.statistics .statistic > .label ~ .value,
+.wojo.statistic > .label ~ .value {
+   margin-top: 0;
+}
+/* Bottom Label */
+.wojo.statistics .statistic > .value ~ .label,
+.wojo.statistic > .value ~ .label {
+   margin-top: 0;
+}
+/* == Types == */
+.wojo.statistics .statistic > .value .icon,
+.wojo.statistic > .value .icon {
+   opacity: 1;
+   width: auto;
+   margin: 0;
+}
+.wojo.statistics .statistic > .text.value,
+.wojo.statistic > .text.value {
+   line-height: 1em;
+   min-height: 2em;
+   font-weight: 600;
+   text-align: center;
+}
+.wojo.statistics .statistic > .text.value + .label,
+.wojo.statistic > .text.value + .label {
+   text-align: center;
+}
+.wojo.statistics .statistic > .value img,
+.wojo.statistic > .value img {
+   max-height: 3rem;
+   vertical-align: baseline;
+}
+/* == Variations == */
+.wojo.horizontal.statistic {
+   flex-direction: row;
+   align-items: center;
+}
+.wojo.horizontal.statistics {
+   flex-direction: column;
+   margin: 0;
+   max-width: none;
+}
+.wojo.horizontal.statistics .statistic {
+   flex-direction: row;
+   align-items: center;
+   max-width: none;
+   margin: 1em 0;
+}
+.wojo.horizontal.statistic > .text.value,
+.wojo.horizontal.statistics > .statistic > .text.value {
+   min-height: 0;
+}
+.wojo.horizontal.statistics .statistic > .value .icon,
+.wojo.horizontal.statistic > .value .icon {
+   width: 1.18em;
+}
+.wojo.horizontal.statistics .statistic > .value,
+.wojo.horizontal.statistic > .value {
+   display: inline-block;
+   vertical-align: middle;
+}
+.wojo.horizontal.statistics .statistic > .label,
+.wojo.horizontal.statistic > .label {
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 0.75em 0 0;
+}
+/* == Sizes == */
+.wojo.mini.statistics .statistic > .value,
+.wojo.mini.statistic > .value {
+   font-size: 1.5rem;
+}
+.wojo.mini.horizontal.statistics .statistic > .value,
+.wojo.mini.horizontal.statistic > .value {
+   font-size: 1.5rem;
+}
+.wojo.mini.statistics .statistic > .text.value,
+.wojo.mini.statistic > .text.value {
+   font-size: 1rem;
+}
+.wojo.tiny.statistics .statistic > .value,
+.wojo.tiny.statistic > .value {
+   font-size: 2rem;
+}
+.wojo.tiny.horizontal.statistics .statistic > .value,
+.wojo.tiny.horizontal.statistic > .value {
+   font-size: 2rem;
+}
+.wojo.tiny.statistics .statistic > .text.value,
+.wojo.tiny.statistic > .text.value {
+   font-size: 1rem;
+}
+.wojo.small.statistics .statistic > .value,
+.wojo.small.statistic > .value {
+   font-size: 3rem;
+}
+.wojo.small.horizontal.statistics .statistic > .value,
+.wojo.small.horizontal.statistic > .value {
+   font-size: 2rem;
+}
+.wojo.small.statistics .statistic > .text.value,
+.wojo.small.statistic > .text.value {
+   font-size: 1rem;
+}
+.wojo.statistics .statistic > .value,
+.wojo.statistic > .value {
+   font-size: 4rem;
+}
+.wojo.horizontal.statistics .statistic > .value,
+.wojo.horizontal.statistic > .value {
+   font-size: 3rem;
+}
+.wojo.statistics .statistic > .text.value,
+.wojo.statistic > .text.value {
+   font-size: 2rem;
+}
+.wojo.large.statistics .statistic > .value,
+.wojo.large.statistic > .value {
+   font-size: 5rem;
+}
+.wojo.large.horizontal.statistics .statistic > .value,
+.wojo.large.horizontal.statistic > .value {
+   font-size: 4rem;
+}
+.wojo.large.statistics .statistic > .text.value,
+.wojo.large.statistic > .text.value {
+   font-size: 2.5rem;
+}
+.wojo.huge.statistics .statistic > .value,
+.wojo.huge.statistic > .value {
+   font-size: 6rem;
+}
+.wojo.huge.horizontal.statistics .statistic > .value,
+.wojo.huge.horizontal.statistic > .value {
+   font-size: 5rem;
+}
+.wojo.huge.statistics .statistic > .text.value,
+.wojo.huge.statistic > .text.value {
+   font-size: 2.5rem;
+}

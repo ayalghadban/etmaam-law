@@ -1,0 +1,1 @@
+<div class="wojo icon divider">or</div>

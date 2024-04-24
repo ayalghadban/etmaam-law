@@ -1,0 +1,13 @@
+{
+    "twitter": {
+        "username": "TnB0QkZBOFFTWDh1YVpVVDMwV2VwZz09",
+        "consumer_key": "UEdYYjV3cEFHTUJINEc0Mjdna2NVSFpDS25heWtsaDZtdnliVHRTclF1VT0=",
+        "consumer_secret": "cjJRZENnMHFXU0krbjhUQzVqWjgwVFNrRGlXekZzWm16SXpaSS9vYk9aVWgwbFFUazAvQzh4M085YWZyOEM0M0ppQmxZdzRxWjhzdy9nZ1hLNWNJUnc9PQ==",
+        "access_token": "TUVIdTIrY292ZHhPdkp1c3BVTVJ0Zy93RjltZytCZVVDby9VckorZHBmZz0=",
+        "access_secret": "KzU5Z1RYbmQ3MGI5dHRpaTRTQldmQTloT1V2VGhnY2JXeCt0YVVHSlVTYVovYkRvalo2OWZXNGRhU01rU3JncQ==",
+        "counter": "5",
+        "speed": "300",
+        "show_image": "1",
+        "timeout": "10000"
+    }
+}

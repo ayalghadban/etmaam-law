@@ -1,0 +1,9 @@
+{
+    "Upevent": {
+        "_PLG_UE_NOEVENT": "--- Créez au moins un événement ---",
+        "_PLG_UE_TITLE1": "Gérer les événements à venir",
+        "_PLG_UE_ERR": "Sélectionnez au moins un événement.",
+        "_PLG_UE_SELECT": "Sélectionner des événements",
+        "_PLG_UE_UPDATED": "La configuration des événements à venir a été mise à jour avec succès!"
+    }
+}

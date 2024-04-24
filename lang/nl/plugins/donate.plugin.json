@@ -1,0 +1,18 @@
+{
+    "Donate": {
+        "_PLG_DP_ADDED_OK": "Campagne [NAME] succesvol bijgevoegt!",
+        "_PLG_DP_DONATE": "Doneer",
+        "_PLG_DP_INFO": "Hier kunt u uw donatieplug-in beheren.",
+        "_PLG_DP_NEW": "Nieuwe donatie",
+        "_PLG_DP_NODON": "Je hebt nog geen donatie-plug-ins...",
+        "_PLG_DP_SUB": "Nieuwe donatiecampagne",
+        "_PLG_DP_SUB1": "campagne naam",
+        "_PLG_DP_SUB2": "Betalingsmogelijkheden",
+        "_PLG_DP_SUB3": "Succespagina voor omleiding",
+        "_PLG_DP_SUB4": "Donatiecampagne bijwerken",
+        "_PLG_DP_TARGET": "Doelbedrag",
+        "_PLG_DP_TITLE": "Beheer de CMS-donatieplug-in",
+        "_PLG_DP_TITLE1": "Donatie instellen",
+        "_PLG_DP_UPDATE_OK": "Campagne [NAME] succesvol bijgewerkt!"
+    }
+}

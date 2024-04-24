@@ -1,0 +1,10 @@
+{
+    "Newsletter": {
+        "_PLG_NSL_INFO":"Vous avez un total d'abonnés au bulletin d'information [TOTAL].",
+        "_PLG_NSL_SUB":"S'abonner",
+        "_PLG_NSL_SUB1":"Annuler",
+        "_PLG_NSL_SUBOK":"Vous avez été abonné avec succès.",
+        "_PLG_NSL_TITLE":"Gérer les abonnés au bulletin",
+        "_PLG_NSL_UNSUBOK":"Vous avez été désabonné avec succès."
+    }
+}

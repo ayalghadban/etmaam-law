@@ -1,0 +1,117 @@
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 700;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansBold.woff2') format('woff2'), url('../fonts/WojoSansBold.woff') format('woff');
+}
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 600;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansDemi.woff2') format('woff2'), url('../fonts/WojoSansDemi.woff') format('woff');
+}
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 500;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansMedium.woff2') format('woff2'), url('../fonts/WojoSansMedium.woff') format('woff');
+}
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 400;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansRegular.woff2') format('woff2'), url('../fonts/WojoSansRegular.woff') format('woff');
+}
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 300;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansLight.woff2') format('woff2'), url('../fonts/WojoSansLight.woff') format('woff');
+}
+@font-face {
+		font-family: 'Wojo Sans';
+		font-style: normal;
+		font-weight: 200;
+		unicode-range: U+0020-0237;
+		src: local(''), url('../fonts/WojoSansExtraLight.woff2') format('woff2'), url('../fonts/WojoSansExtraLight.woff') format('woff');
+}
+html,
+body {
+		font-size: 16px;
+		height: 100%;
+}
+body {
+		font-family: "Wojo Sans", Helvetica, Arial, sans-serif;
+		color: var(--body-color);
+		font-weight: 400;
+		line-height: 1.5;
+		margin: 0 auto;
+		padding: 0 .5rem;
+		height: 100vh;
+		/*background: -moz-linear-gradient(bottom,#0250c5,#d43f8d);*/
+		background-image: url('../images/login.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center top;
+		flex-direction: column;
+		display: flex;
+		justify-content: center;
+}
+a {
+		color: var(--primary-color);
+		font-size: .875em;
+		display: inline-block;
+		text-decoration: none;
+		transition: all .35s ease;
+		outline: none;
+		cursor: pointer;
+}
+.segment h2 {
+		text-align: center;
+		font-size: 1rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		margin: 0 .5rem .875rem;
+		color: var(--grey-color-500);
+}
+.segment {
+		background-color: #fff;
+		max-width: 460px;
+		padding: 1.5rem;
+		border-radius: 1.5rem;
+		margin: 0 auto;
+		box-shadow: 0 50px 100px rgba(50, 50, 93, .1), 0 15px 35px rgba(50, 50, 93, .15), 0 5px 15px rgba(0, 0, 0, .1);
+}
+.avatar {
+		text-align: center;
+		margin-bottom: 1rem;
+}
+.avatar img {
+		height: 8rem;
+		margin: 0 auto;
+}
+.formFooter {
+		border-top: 2px solid var(--grey-color-300);
+		padding: 1rem 0 0 0;
+		margin: 0 -1.5rem;
+		text-align: center;
+}
+footer {
+		display: flex;
+		justify-content: center;
+		align-self: center;
+		text-align: center;
+		padding-top: 1rem;
+		font-weight: 400;
+		color: rgba(255, 255, 255, 0.5);
+		margin-top: 2rem;
+		font-size: .875em;
+}
+footer .icon {
+		margin-right: .5rem;
+}

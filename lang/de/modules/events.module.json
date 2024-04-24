@@ -1,0 +1,31 @@
+{
+    "Events": {
+        "_MOD_EM_ADDED_OK": "Ereignis [NAME] wurde erfolgreich hinzugefügt!",
+        "_MOD_EM_COLOUR": "Farbmarker",
+        "_MOD_EM_CONTACT": "Ansprechpartner",
+        "_MOD_EM_DATE_E": "Ende des Datums",
+        "_MOD_EM_DATE_S": "Startdatum/-uhrzeit",
+        "_MOD_EM_DATE_SE": "Enddatum/Uhrzeit",
+        "_MOD_EM_DATE_ST": "Startdatum",
+        "_MOD_EM_DEL_OK": "Ereignis [NAME] erfolgreich gelöscht!",
+        "_MOD_EM_EMAIL": "Kontakt E-mail",
+        "_MOD_EM_NOEVENTS": "Sie haben noch keine Veranstaltungen. Hinzufügen...",
+        "_MOD_EM_NOEVENTSF": "Tut mir leid, dass ich noch keine Veranstaltungen habe...",
+        "_MOD_EM_PHONE": "Kontakt-Telefon",
+        "_MOD_EM_SUB": "Fügen Sie ein Ereignis hinzu",
+        "_MOD_EM_SUB1": "Ort",
+        "_MOD_EM_SUB2": "Kontakt",
+        "_MOD_EM_SUB23": "ENDE",
+        "_MOD_EM_SUB3": "Letzte Ereignisse des Jahres [JAHR]",
+        "_MOD_EM_TIME_ET": "Ende der Periode",
+        "_MOD_EM_TIME_S": "Startzeit/Endzeit",
+        "_MOD_EM_TIME_ST": "Startzeit",
+        "_MOD_EM_TITLE": "Event Manager",
+        "_MOD_EM_TITLE1": "Veranstaltung bearbeiten",
+        "_MOD_EM_TITLE2": "Neues Event",
+        "_MOD_EM_TITLE3": "Die diesjährigen Veranstaltungen",
+        "_MOD_EM_UPDATE": "Ereignis aktualisieren",
+        "_MOD_EM_UPDATE_OK": "Veranstaltung [NAME] erfolgreich aktualisiert!",
+        "_MOD_EM_VENUE": "Standorttitel"
+    }
+}

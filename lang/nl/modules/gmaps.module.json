@@ -1,0 +1,26 @@
+{
+    "Gmaps": {
+        "_MOD_GM_ADDED_OK": "Locatie [NAME] succesvol toegevoegd!",
+        "_MOD_GM_DEL_OK": "Locatie [NAME] succesvol verwijderd!",
+        "_MOD_GM_LAT": "Breedtegraad",
+        "_MOD_GM_LNG": "Lengtegraad",
+        "_MOD_GM_NEW": "Nieuwe locatie",
+        "_MOD_GM_NOMAPS": "Je hebt nog geen locaties. Voeg toe...",
+        "_MOD_GM_PINS": "Aangepaste pinnen",
+        "_MOD_GM_SUB": "Kaarttype",
+        "_MOD_GM_SUB1": "Zoomniveau",
+        "_MOD_GM_SUB1_1": "Minimaal zoomniveau",
+        "_MOD_GM_SUB1_2": "Maximaal zoomniveau",
+        "_MOD_GM_SUB2": "Typecontrole",
+        "_MOD_GM_SUB3": "Straatweergave",
+        "_MOD_GM_SUB4": "Vooraf ingestelde stijlen",
+        "_MOD_GM_SUB5": "Adres zoeken",
+        "_MOD_GM_SUB6": "Vastzetten",
+        "_MOD_GM_SUB7": "Nieuwe locatie",
+        "_MOD_GM_TITLE": "Locatiekaarten beheren",
+        "_MOD_GM_TITLE1": "Locatiekaarten bewerken",
+        "_MOD_GM_TITLE2": "Nieuwe locatiekaarten",
+        "_MOD_GM_UPDATE": "Kaart bijwerken",
+        "_MOD_GM_UPDATE_OK": "Locatie [NAME] is succesvol bijgewerkt!"
+    }
+}

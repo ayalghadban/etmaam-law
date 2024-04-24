@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-899 481 120 120">
+  <path fill="#bdc5d1" d="M-783.5 589.9h-100.2c-2.5 0-4.5-2-4.5-4.5v-74.6c0-2.5 2-4.5 4.5-4.5h100.2c2.5 0 4.5 2 4.5 4.5v74.5c0 2.6-2 4.6-4.5 4.6z" opacity=".4"/>
+  <path fill="#fff" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-793 575.7h-100.2c-2.5 0-4.5-2-4.5-4.5v-74.6c0-2.5 2-4.5 4.5-4.5H-793c2.5 0 4.5 2 4.5 4.5v74.5c0 2.6-2 4.6-4.5 4.6z"/>
+  <path fill="#bdc5d1" d="M-805.6 566.8H-875c-1.7 0-3.1-1.4-3.1-3.1v-35.8c0-1.7 1.4-3.1 3.1-3.1h69.4c1.7 0 3.1 1.4 3.1 3.1v35.7c0 1.8-1.4 3.2-3.1 3.2z" opacity=".5"/>
+  <path fill="#508991" d="M-811.2 561.1h-69.4c-1.7 0-3.1-1.4-3.1-3.1v-35.7c0-1.7 1.4-3.1 3.1-3.1h69.4c1.7 0 3.1 1.4 3.1 3.1V558c0 1.7-1.4 3.1-3.1 3.1z"/>
+  <circle cx="-865.8" cy="501.8" r="3" fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" opacity=".5"/>
+  <circle cx="-877" cy="501.8" r="3" fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" opacity=".5"/>
+  <circle cx="-888.2" cy="501.8" r="3" fill="none" stroke="#508991" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-854.5 531.3l-10.8 7.9 10.8 7.9M-833.6 531.3l10.8 7.9-10.8 7.9"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-847.7 547.1l7.3-15.8" opacity=".5"/>
+  <path fill="none" stroke="#bdc5d1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M-897.7 511h109.2"/>
+</svg>

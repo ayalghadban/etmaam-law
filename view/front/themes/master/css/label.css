@@ -1,0 +1,473 @@
+/* == Label == */
+.wojo.label {
+   display: inline-flex;
+   flex-flow: row wrap;
+   align-items: center;
+   justify-content: center;
+   outline: none;
+   vertical-align: middle;
+   background-color: var(--grey-color-700);
+   color: var(--white-color);
+   font-family: inherit;
+   font-weight: 500;
+   letter-spacing: 3px;
+   margin: 0;
+   line-height: 1rem;
+   font-style: normal;
+   text-align: center;
+   text-decoration: none;
+   white-space: normal;
+   border-radius: .250rem;
+   box-sizing: content-box;
+   border: 1px solid var(--grey-color-700);
+   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+   position: relative;
+   text-transform: uppercase;
+}
+/* == Colors == */
+.wojo.primary.label {
+   background-color: var(--primary-color);
+   border-color: var(--primary-color);
+   color: var(--white-color);
+}
+.wojo.primary.basic.label {
+   background-color: transparent;
+   color: var(--primary-color);
+}
+.wojo.primary.inverted.label {
+   background-color: var(--primary-color-inverted);
+   border-color: var(--primary-color-inverted);
+   color: var(--primary-color);
+}
+.wojo.secondary.label {
+   background-color: var(--secondary-color);
+   border-color: var(--secondary-color);
+   color: var(--white-color);
+}
+.wojo.secondary.basic.label {
+   background-color: transparent;
+   color: var(--secondary-color);
+}
+.wojo.secondary.inverted.label {
+   background-color: var(--secondary-color-inverted);
+   border-color: var(--secondary-color-inverted);
+   color: var(--secondary-color);
+}
+.wojo.positive.label {
+   border-color: var(--positive-color);
+   background-color: var(--positive-color);
+   color: var(--white-color);
+}
+.wojo.positive.basic.label {
+   background-color: transparent;
+   color: var(--positive-color);
+}
+.wojo.positive.inverted.label {
+   background-color: var(--positive-color-inverted);
+   border-color: var(--positive-color-inverted);
+   color: var(--positive-color);
+}
+.wojo.negative.label {
+   background-color: var(--negative-color);
+   border-color: var(--negative-color);
+   color: var(--white-color);
+}
+.wojo.negative.basic.label {
+   background-color: transparent;
+   color: var(--negative-color);
+}
+.wojo.negative.inverted.label {
+   background-color: var(--negative-color-inverted);
+   border-color: var(--negative-color-inverted);
+   color: var(--negative-color);
+}
+.wojo.light.label {
+   background-color: var(--light-color);
+   border-color: var(--light-color);
+   color: var(--body-color);
+}
+.wojo.light.basic.label {
+   background-color: transparent;
+   color: var(--light-color);
+}
+.wojo.light.inverted.label {
+   background-color: var(--light-color-inverted);
+   border-color: var(--light-color-inverted);
+   color: var(--light-color);
+}
+.wojo.dark.label {
+   background-color: var(--dark-color);
+   border-color: var(--dark-color);
+   color: var(--white-color);
+}
+.wojo.dark.basic.label {
+   background-color: transparent;
+   color: var(--white-color);
+}
+.wojo.dark.inverted.label {
+   background-color: var(--dark-color-inverted);
+   border-color: var(--dark-color-inverted);
+   color: var(--dark-color);
+}
+.wojo.alert.label {
+   background-color: var(--alert-color);
+   border-color: var(--alert-color);
+   color: var(--white-color);
+}
+.wojo.alert.basic.label {
+   background-color: transparent;
+   color: var(--alert-color);
+}
+.wojo.white.label {
+   background-color: var(--white-color);
+   border-color: var(--white-color);
+   color: var(--primary-color);
+}
+.wojo.white.basic.label {
+   background-color: transparent;
+   color: var(--white-color);
+}
+.wojo.transparent.label {
+   background: rgba(255, 255, 255, 0.2);
+   border: 0;
+   color: var(--white-color);
+}
+.wojo.basic.label,
+.wojo.inverted.label {
+   background-color: transparent;
+   box-shadow: none;
+   border-color: var(--body-color);
+   color: var(--body-color);
+}
+.wojo.simple.label {
+   background-color: transparent;
+   border: 0;
+   box-shadow: none;
+   color: inherit;
+}
+/* == icon == */
+.wojo.label .icon {
+   margin-right: .5rem;
+   font-size: 1rem;
+   letter-spacing: normal;
+}
+.wojo.right.label .icon {
+   margin-left: .5rem;
+   margin-right: 0;
+}
+.wojo.icon.label .icon {
+   margin-right: 0;
+}
+/* == rounded == */
+.wojo.rounded.label {
+   border-radius: 2rem;
+}
+/* == circular == */
+.wojo.circular.label {
+   border-radius: 100rem;
+}
+/* == initials == */
+.wojo.initials.label {
+   width: 2rem;
+   height: 2rem;
+   padding: 0;
+   line-height: 2rem;
+   font-size: .875rem;
+}
+.wojo.initials.label .icon {
+   margin-right: 0;
+}
+/* == empty == */
+.wojo.empty.label {
+   min-width: 0;
+   min-height: 0;
+   overflow: hidden;
+   width: .875rem;
+   height: .875rem;
+   padding: 0;
+}
+/* == ring == */
+.wojo.ring.label {
+   border-radius: 100%;
+   border: 0;
+   height: 1rem;
+   padding: 0;
+   vertical-align: middle;
+   width: 1rem;
+}
+.wojo.ring.label.spaced {
+   margin-right: .5rem
+}
+.wojo.ring.label::after {
+   background-color: var(--white-color);
+   border-radius: 50%;
+   content: "";
+   height: .625rem;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   position: absolute;
+   transition: all 0.3s ease 0s;
+   width: .625rem;
+}
+/* == link == */
+.wojo.link.label {
+   cursor: pointer;
+}
+/* == status == */
+.wojo.label .status {
+   position: absolute;
+   top: -2px;
+   right: -2px;
+   width: .813rem;
+   height: .813rem;
+   border-radius: 1rem;
+   background: var(--white-color);
+   border: 2px solid var(--white-color);
+}
+.wojo.label .status.negative {
+   background: var(--negative-color);
+}
+.wojo.label .status.positive {
+   background: var(--positive-color);
+}
+/* == Badge == */
+.wojo.badge {
+   position: absolute;
+   top: -1.5rem;
+   right: 1.5rem;
+   border-radius: .250rem;
+   box-shadow: 0 23px 49px 0 var(--shadow-color);
+   z-index: 1;
+}
+.wojo.badge::before {
+   content: "";
+   position: absolute;
+   top: -1.5rem;
+   left: -1.40rem;
+   border: 1.5rem solid;
+   z-index: -6;
+   border-color: transparent transparent var(--primary-color) transparent;
+}
+.wojo.badge .year {
+   padding: 1.5rem;
+   display: block;
+   text-align: center;
+   font-size: 3rem;
+   font-weight: 700;
+   color: #fff;
+   line-height: 1;
+}
+.wojo.badge .text {
+   display: block;
+   padding: .750rem 1.5rem;
+   text-align: center;
+   color: #fff;
+   letter-spacing: 2px;
+   font-size: .875rem;
+   text-transform: uppercase;
+   background: rgba(255, 255, 255, 0.1);
+   line-height: 1;
+}
+.wojo.badge.primary {
+   background-color: var(--primary-color);
+}
+.wojo.badge.secondary {
+   background-color: var(--secondary-color);
+}
+.wojo.badge.positive {
+   background-color: var(--positive-color);
+}
+.wojo.badge.negative {
+   background-color: var(--negative-color);
+}
+/* == Ribbon == */
+.wojo.ribbon {
+   width: 150px;
+   height: 150px;
+   overflow: hidden;
+   position: absolute;
+   z-index: 2
+}
+.wojo.ribbon::before,
+.wojo.ribbon::after {
+   position: absolute;
+   z-index: -1;
+   content: '';
+   display: block;
+   border: 5px solid var(--grey-color-700);
+}
+.wojo.ribbon span {
+   position: absolute;
+   display: block;
+   width: 225px;
+   padding: 1em 0;
+   background-color: var(--grey-color-300);
+   box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+   color: #fff;
+   font-weight: 700;
+   text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+   text-transform: uppercase;
+   text-align: center;
+}
+.wojo.ribbon.top.left {
+   top: -10px;
+   left: -10px;
+}
+.wojo.ribbon.top.left::before,
+.wojo.ribbon.top.left::after {
+   border-top-color: transparent;
+   border-left-color: transparent;
+}
+.wojo.ribbon.top.left::before {
+   top: 0;
+   right: 0;
+}
+.wojo.ribbon.top.left::after {
+   bottom: 0;
+   left: 0;
+}
+.wojo.ribbon.top.left span {
+   right: -20px;
+   top: 30px;
+   transform: rotate(-45deg);
+}
+.wojo.ribbon.top.right {
+   top: -10px;
+   right: -10px;
+}
+.wojo.ribbon.top-right::before,
+.wojo.ribbon.top-right::after {
+   border-top-color: transparent;
+   border-right-color: transparent;
+}
+.wojo.ribbon.top.right::before {
+   top: 0;
+   left: 0;
+}
+.wojo.ribbon.top.right::after {
+   bottom: 0;
+   right: 0;
+}
+.wojo.ribbon.top.right span {
+   left: -20px;
+   top: 30px;
+   transform: rotate(45deg);
+}
+.wojo.primary.ribbon span {
+   background-color: var(--primary-color);
+   color: var(--primary-color-inverted);
+}
+.wojo.primary.ribbon::before,
+.wojo.primary.ribbon::after {
+   border: 5px solid var(--primary-color-active);
+}
+.wojo.secondary.ribbon span {
+   background-color: var(--secondary-color);
+   color: var(--secondary-color-inverted);
+}
+.wojo.secondary.ribbon::before,
+.wojo.secondary.ribbon::after {
+   border: 5px solid var(--secondary-color-inverted);
+}
+.wojo.positive.ribbon span {
+   background-color: var(--positive-color);
+   color: var(--positive-color-inverted);
+}
+.wojo.positive.ribbon::before,
+.wojo.positive.ribbon::after {
+   border: 5px solid var(--positive-color-inverted);
+}
+.wojo.negative.ribbon span {
+   background-color: var(--negative-color);
+   color: var(--negative-color-inverted);
+}
+.wojo.negative.ribbon::before,
+.wojo.negative.ribbon::after {
+   border: 5px solid var(--negative-color-inverted);
+}
+.wojo.alert.ribbon span {
+   background-color: var(--alert-color);
+   color: var(--alert-color-inverted);
+}
+.wojo.alert.ribbon::before,
+.wojo.alert.ribbon::after {
+   border: 5px solid var(--alert-color-inverted);
+}
+/* == Bookmark == */
+.wojo.bookmark {
+   position: absolute;
+   top: 1rem;
+   right: -1rem;
+   -webkit-transform: rotate(90deg);
+   transform: rotate(90deg);
+   height: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-width: 4rem;
+   font-size: .875rem;
+   font-weight: 500;
+   background: var(--grey-color-700);
+   opacity: .75;
+   border-radius: .250rem 0 0 0;
+   color: #fff;
+   z-index: 2;
+}
+.wojo.bookmark::after {
+   content: "";
+   position: absolute;
+   bottom: 0;
+   right: -2rem;
+   border: 1rem solid;
+   border-color: var(--grey-color-700) transparent var(--grey-color-700) var(--grey-color-700);
+}
+.wojo.bookmark.primary {
+   background: var(--primary-color);
+}
+.wojo.bookmark.secondary {
+   background: var(--secondary-color);
+}
+.wojo.bookmark.positive {
+   background: var(--positive-color);
+}
+.wojo.bookmark.negative {
+   background: var(--negative-color);
+}
+.wojo.bookmark.primary::after {
+   border-color: var(--primary-color) transparent var(--primary-color) var(--primary-color);
+}
+.wojo.bookmark.secondary::after {
+   border-color: var(--secondary-color) transparent var(--secondary-color) var(--secondary-color);
+}
+.wojo.bookmark.positive::after {
+   border-color: var(--positive-color) transparent var(--positive-color) var(--positive-color);
+}
+.wojo.bookmark.negative::after {
+   border-color: var(--negative-color) transparent var(--negative-color) var(--negative-color);
+}
+/* == Sizes == */
+.wojo.label {
+   font-size: .750rem;
+   padding: .375rem .5rem;
+}
+.wojo.mini.label {
+   font-size: .5rem;
+   font-weight: 800;
+   padding: .125rem .5rem;
+}
+.wojo.small.label {
+   font-size: .625rem;
+   padding: .25rem .5rem;
+}
+.wojo.small.empty.label {
+   width: .750rem;
+   height: .750rem;
+   padding: 0;
+}
+.wojo.big.label {
+   font-size: .875rem;
+}
+.wojo.large.label {
+   font-size: 1rem;
+}

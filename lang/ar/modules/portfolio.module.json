@@ -1,0 +1,33 @@
+{
+    "Portfolio": {
+        "_MOD_PF_ADD": "Add Item",
+        "_MOD_PF_CAT_ADDED_OK": "Category [NAME] added successfully!",
+        "_MOD_PF_CAT_DEL_OK": "Category [NAME] deleted successfully!",
+        "_MOD_PF_CAT_UPDATE_OK": "Category [NAME] updated successfully!",
+        "_MOD_PF_CUPDATED": "Portfolio settings updated successfully!",
+        "_MOD_PF_DEL_OK": "Item [NAME] deleted successfully!",
+        "_MOD_PF_ITM_ADDED_OK": "Item [NAME] added successfully!",
+        "_MOD_PF_ITM_UPDATE_OK": "Item [NAME] updated successfully!",
+        "_MOD_PF_NEWCAT": "New Category",
+        "_MOD_PF_NEWITM": "New Item",
+        "_MOD_PF_NOPROJ": "You don't have any item yet. Please add...",
+        "_MOD_PF_SUB": "Item Management",
+        "_MOD_PF_SUB1": "Client",
+        "_MOD_PF_SUB10": "Show Featured Only",
+        "_MOD_PF_SUB11": "Featured Item",
+        "_MOD_PF_SUB12": "Show Social Icons",
+        "_MOD_PF_SUB13": "Latest Items",
+        "_MOD_PF_SUB2": "Edit Item",
+        "_MOD_PF_SUB3": "Portfolio Categories",
+        "_MOD_PF_SUB4": "Portfolio Configuration",
+        "_MOD_PF_SUB5": "Items Per Category Page",
+        "_MOD_PF_SUB6": "Items Per Home Page",
+        "_MOD_PF_SUB7": "Item Layout",
+        "_MOD_PF_SUB8": "Show Category Navigation",
+        "_MOD_PF_SUB9": "Show Sorting Options",
+        "_MOD_PF_TITLE": "Manage CMS Portfolio Module",
+        "_MOD_PF_TITLE1": "Portfolio",
+        "_MOD_PF_UPDATECAT": "Update Category",
+        "_MOD_PF_UPDATEITM": "Update Item"
+    }
+}

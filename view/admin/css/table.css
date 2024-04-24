@@ -1,0 +1,161 @@
+/* == Table == */
+.wojo.table {
+		width: 100%;
+		background: var(--white-color);
+		margin: 0;
+		border: 1px solid var(--grey-color-300);
+		box-shadow: none;
+		border-radius: 1rem;
+		text-align: left;
+		border-collapse: separate;
+		border-spacing: 0;
+}
+.wojo.table:first-child {
+		margin-top: 0;
+}
+.wojo.table:last-child {
+		margin-bottom: 0;
+}
+.wojo.table th,
+.wojo.table td {
+		transition: background 0.1s ease, color 0.1s ease;
+}
+.wojo.table thead {
+		box-shadow: none;
+}
+.wojo.table thead th {
+		cursor: auto;
+		background: var(--secondary-color-inverted);
+		padding: 1rem 0.750em;
+		vertical-align: inherit;
+		font-size: .875rem;
+		font-weight: 700;
+		text-transform: none;
+		box-shadow: 0 .125rem 0 0 var(--secondary-color);
+		border-left: none;
+}
+.wojo.table thead tr > th:first-child {
+		border-left: none;
+}
+.wojo.table thead tr:first-child > th:first-child {
+		border-radius: 1rem 0 0 0
+}
+.wojo.table thead tr:first-child > th:last-child {
+		border-radius: 0 1rem 0 0;
+}
+.wojo.table thead tr:first-child > th:only-child {
+		border-radius: 1rem 1rem 0 0;
+}
+.wojo.table tfoot {
+		box-shadow: none;
+}
+.wojo.table tfoot th {
+		cursor: auto;
+		border-top: 1px solid var(--grey-color-300);
+		background: var(--grey-color-100);
+		text-align: inherit;
+		color: var(--dark-color);
+		padding: .750rem;
+		vertical-align: middle;
+		font-style: normal;
+		font-size: .813rem;
+		font-weight: 600;
+		text-transform: none;
+}
+.wojo.table tfoot tr > th:first-child {
+		border-left: none;
+}
+.wojo.table tfoot tr:first-child > th:first-child {
+		border-radius: 0 0 0 1rem;
+}
+.wojo.table tfoot tr:first-child > th:last-child {
+		border-radius: 0 0 1rem 0;
+}
+.wojo.table tfoot tr:first-child > th:only-child {
+		border-radius: 0 0 1rem 1em;
+}
+.wojo.table tr td {
+		border-top: 3px solid var(--grey-color-300);
+}
+.wojo.table tr:first-child td {
+		border-top: none;
+}
+.wojo.table td {
+		padding: 0.750rem;
+		font-weight: 400;
+}
+/* == Image == */
+.wojo.table th .image,
+.wojo.table th .image img,
+.wojo.table td .image,
+.wojo.table td .image img {
+		max-width: none;
+}
+/* == Types == */
+.wojo.basic.table {
+		background: transparent;
+		border: 0;
+		box-shadow: none;
+}
+.wojo.basic.table thead,
+.wojo.basic.table tfoot {
+		box-shadow: none;
+}
+.wojo.basic.table thead th {
+		background: transparent;
+		border-left: none;
+		box-shadow: 0 .250rem 0 0 var(--grey-color-500);
+		text-transform: uppercase;
+		font-size: .813rem;
+}
+.wojo.basic.table tr td {
+		border-top: 1px solid var(--grey-color-500);
+}
+.wojo.basic.striped.table tbody tr:nth-child(2n) {
+		background-color: var(--grey-color-300);
+}
+/* == Collapsing == */
+.wojo.table th.auto,
+.wojo.table td.auto {
+		width: 1px;
+		white-space: nowrap;
+}
+/* == Compact == */
+.wojo.compact.table th {
+		padding: 0 .750rem
+}
+.wojo.compact.table td {
+		padding: .5rem .75rem;
+}
+.wojo[class*="very compact"].table th {
+		padding: 0 .613rem;
+}
+.wojo[class*="very compact"].table td {
+		padding: 0.375rem 0.613rem;
+}
+.wojo.compact.fitted.table td {
+		padding: .25rem .375rem;
+}
+/* == Sizes == */
+.wojo.small.table {
+		font-size: 0.875rem;
+}
+.wojo.table {
+		font-size: 1rem;
+}
+.wojo.large.table {
+		font-size: 1.25rem;
+}
+/* == Mobile == */
+@media screen and (max-width: 768px) {
+		.wojo.responsive.table td {
+				white-space: nowrap
+		}
+		.wojo.responsive.table {
+				overflow-x: auto;
+				overflow-y: hidden;
+				display: block;
+				-webkit-overflow-scrolling: touch;
+				-ms-overflow-style: -ms-autohiding-scrollbar;
+		}
+}
